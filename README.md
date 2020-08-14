@@ -14,3 +14,5 @@ Poland uses 3 levels of administrative divisions:
   - Powiat (County)
   - Gmina (Municipality)
 These divisions, including names and codes, are defined in "polish_adm.csv"
+
+Source data for each election is in "source_links.csv" and links to the main website for election results from the Polish government.
