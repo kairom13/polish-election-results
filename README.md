@@ -7,7 +7,7 @@ Data is grouped by governing body:
   - President
   - EU
   
-Political Parties in data files use abbreviated labels. Dictionary for parties is found in "polish_parties.xlsx".
+Political Parties in data files use abbreviated labels. Dictionary for parties is found in "polish_parties.csv".
 
 Poland uses 3 levels of administrative divisions:
   - Voivodeship (Province)
