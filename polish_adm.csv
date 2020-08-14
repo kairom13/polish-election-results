@@ -1,0 +1,2483 @@
+﻿Code,v_id,Powiat,p_id,Gmina,g_id
+20101,2,bolesławiecki,01,m. Bolesławiec,01
+20102,2,bolesławiecki,01,gm. Bolesławiec,02
+20103,2,bolesławiecki,01,gm. Gromadka,03
+20104,2,bolesławiecki,01,gm. Nowogrodziec,04
+20105,2,bolesławiecki,01,gm. Osiecznica,05
+20106,2,bolesławiecki,01,gm. Warta Bolesławiecka,06
+20301,2,głogowski,03,m. Głogów,01
+20302,2,głogowski,03,gm. Głogów,02
+20303,2,głogowski,03,gm. Jerzmanowa,03
+20304,2,głogowski,03,gm. Kotla,04
+20305,2,głogowski,03,gm. Pęcław,05
+20306,2,głogowski,03,gm. Żukowice,06
+20501,2,jaworski,05,m. Jawor,01
+20502,2,jaworski,05,gm. Bolków,02
+20503,2,jaworski,05,gm. Męcinka,03
+20504,2,jaworski,05,gm. Mściwojów,04
+20505,2,jaworski,05,gm. Paszowice,05
+20506,2,jaworski,05,gm. Wądroże Wielkie,06
+20601,2,jeleniogórski,06,m. Karpacz,01
+20602,2,jeleniogórski,06,m. Kowary,02
+20603,2,jeleniogórski,06,m. Piechowice,03
+20604,2,jeleniogórski,06,m. Szklarska Poręba,04
+20605,2,jeleniogórski,06,gm. Janowice Wielkie,05
+20606,2,jeleniogórski,06,gm. Jeżów Sudecki,06
+20607,2,jeleniogórski,06,gm. Mysłakowice,07
+20608,2,jeleniogórski,06,gm. Podgórzyn,08
+20609,2,jeleniogórski,06,gm. Stara Kamienica,09
+20701,2,kamiennogórski,07,m. Kamienna Góra,01
+20702,2,kamiennogórski,07,gm. Kamienna Góra,02
+20703,2,kamiennogórski,07,gm. Lubawka,03
+20704,2,kamiennogórski,07,gm. Marciszów,04
+20901,2,legnicki,09,m. Chojnów,01
+20902,2,legnicki,09,gm. Chojnów,02
+20903,2,legnicki,09,gm. Krotoszyce,03
+20904,2,legnicki,09,gm. Kunice,04
+20905,2,legnicki,09,gm. Legnickie Pole,05
+20906,2,legnicki,09,gm. Miłkowice,06
+20907,2,legnicki,09,gm. Prochowice,07
+20908,2,legnicki,09,gm. Ruja,08
+21001,2,lubański,10,m. Lubań,01
+21002,2,lubański,10,m. Świeradów-Zdrój,02
+21003,2,lubański,10,gm. Leśna,03
+21004,2,lubański,10,gm. Lubań,04
+21005,2,lubański,10,gm. Olszyna,05
+21006,2,lubański,10,gm. Platerówka,06
+21007,2,lubański,10,gm. Siekierczyn,07
+21101,2,lubiński,11,m. Lubin,01
+21102,2,lubiński,11,gm. Lubin,02
+21103,2,lubiński,11,gm. Rudna,03
+21104,2,lubiński,11,gm. Ścinawa,04
+21201,2,lwówecki,12,gm. Gryfów Śląski,01
+21202,2,lwówecki,12,gm. Lubomierz,02
+21203,2,lwówecki,12,gm. Lwówek Śląski,03
+21204,2,lwówecki,12,gm. Mirsk,04
+21205,2,lwówecki,12,gm. Wleń,05
+21601,2,polkowicki,16,gm. Chocianów,01
+21602,2,polkowicki,16,gm. Gaworzyce,02
+21603,2,polkowicki,16,gm. Grębocice,03
+21604,2,polkowicki,16,gm. Polkowice,04
+21605,2,polkowicki,16,gm. Przemków,05
+21606,2,polkowicki,16,gm. Radwanice,06
+22501,2,zgorzelecki,25,m. Zawidów,01
+22502,2,zgorzelecki,25,m. Zgorzelec,02
+22503,2,zgorzelecki,25,gm. Bogatynia,03
+22504,2,zgorzelecki,25,gm. Pieńsk,04
+22505,2,zgorzelecki,25,gm. Sulików,05
+22506,2,zgorzelecki,25,gm. Węgliniec,06
+22507,2,zgorzelecki,25,gm. Zgorzelec,07
+22601,2,złotoryjski,26,m. Wojcieszów,01
+22602,2,złotoryjski,26,m. Złotoryja,02
+22603,2,złotoryjski,26,gm. Pielgrzymka,03
+22604,2,złotoryjski,26,gm. Świerzawa,04
+22605,2,złotoryjski,26,gm. Zagrodno,05
+22606,2,złotoryjski,26,gm. Złotoryja,06
+26101,2,m. Jelenia Góra,61,m. Jelenia Góra,01
+26201,2,m. Legnica,62,m. Legnica,01
+20201,2,dzierżoniowski,02,m. Bielawa,01
+20202,2,dzierżoniowski,02,m. Dzierżoniów,02
+20203,2,dzierżoniowski,02,m. Pieszyce,03
+20204,2,dzierżoniowski,02,m. Piława Górna,04
+20205,2,dzierżoniowski,02,gm. Dzierżoniów,05
+20206,2,dzierżoniowski,02,gm. Łagiewniki,06
+20207,2,dzierżoniowski,02,gm. Niemcza,07
+20801,2,kłodzki,08,m. Duszniki-Zdrój,01
+20802,2,kłodzki,08,m. Kłodzko,02
+20803,2,kłodzki,08,m. Kudowa-Zdrój,03
+20804,2,kłodzki,08,m. Nowa Ruda,04
+20805,2,kłodzki,08,m. Polanica-Zdrój,05
+20806,2,kłodzki,08,gm. Bystrzyca Kłodzka,06
+20807,2,kłodzki,08,gm. Kłodzko,07
+20808,2,kłodzki,08,gm. Lądek-Zdrój,08
+20809,2,kłodzki,08,gm. Lewin Kłodzki,09
+20810,2,kłodzki,08,gm. Międzylesie,10
+20811,2,kłodzki,08,gm. Nowa Ruda,11
+20812,2,kłodzki,08,gm. Radków,12
+20813,2,kłodzki,08,gm. Stronie Śląskie,13
+20814,2,kłodzki,08,gm. Szczytna,14
+21901,2,świdnicki,19,m. Świdnica,01
+21902,2,świdnicki,19,m. Świebodzice,02
+21903,2,świdnicki,19,gm. Dobromierz,03
+21904,2,świdnicki,19,gm. Jaworzyna Śląska,04
+21905,2,świdnicki,19,gm. Marcinowice,05
+21906,2,świdnicki,19,gm. Strzegom,06
+21907,2,świdnicki,19,gm. Świdnica,07
+21908,2,świdnicki,19,gm. Żarów,08
+22101,2,wałbrzyski,21,m. Boguszów-Gorce,01
+22102,2,wałbrzyski,21,m. Jedlina-Zdrój,02
+22103,2,wałbrzyski,21,m. Szczawno-Zdrój,03
+22104,2,wałbrzyski,21,gm. Czarny Bór,04
+22105,2,wałbrzyski,21,gm. Głuszyca,05
+22106,2,wałbrzyski,21,gm. Mieroszów,06
+22107,2,wałbrzyski,21,gm. Stare Bogaczowice,07
+22108,2,wałbrzyski,21,gm. Walim,08
+22109,2,wałbrzyski,21,m. Wałbrzych,09
+22401,2,ząbkowicki,24,gm. Bardo,01
+22402,2,ząbkowicki,24,gm. Ciepłowody,02
+22403,2,ząbkowicki,24,gm. Kamieniec Ząbkowicki,03
+22404,2,ząbkowicki,24,gm. Stoszowice,04
+22405,2,ząbkowicki,24,gm. Ząbkowice Śląskie,05
+22406,2,ząbkowicki,24,gm. Ziębice,06
+22407,2,ząbkowicki,24,gm. Złoty Stok,07
+20401,2,górowski,04,gm. Góra,01
+20402,2,górowski,04,gm. Jemielno,02
+20403,2,górowski,04,gm. Niechlów,03
+20404,2,górowski,04,gm. Wąsosz,04
+21301,2,milicki,13,gm. Cieszków,01
+21302,2,milicki,13,gm. Krośnice,02
+21303,2,milicki,13,gm. Milicz,03
+21401,2,oleśnicki,14,m. Oleśnica,01
+21402,2,oleśnicki,14,gm. Bierutów,02
+21403,2,oleśnicki,14,gm. Dobroszyce,03
+21404,2,oleśnicki,14,gm. Dziadowa Kłoda,04
+21405,2,oleśnicki,14,gm. Międzybórz,05
+21406,2,oleśnicki,14,gm. Oleśnica,06
+21407,2,oleśnicki,14,gm. Syców,07
+21408,2,oleśnicki,14,gm. Twardogóra,08
+21501,2,oławski,15,m. Oława,01
+21502,2,oławski,15,gm. Domaniów,02
+21503,2,oławski,15,gm. Jelcz-Laskowice,03
+21504,2,oławski,15,gm. Oława,04
+21701,2,strzeliński,17,gm. Borów,01
+21702,2,strzeliński,17,gm. Kondratowice,02
+21703,2,strzeliński,17,gm. Przeworno,03
+21704,2,strzeliński,17,gm. Strzelin,04
+21705,2,strzeliński,17,gm. Wiązów,05
+21801,2,średzki,18,gm. Kostomłoty,01
+21802,2,średzki,18,gm. Malczyce,02
+21803,2,średzki,18,gm. Miękinia,03
+21804,2,średzki,18,gm. Środa Śląska,04
+21805,2,średzki,18,gm. Udanin,05
+22001,2,trzebnicki,20,gm. Oborniki Śląskie,01
+22002,2,trzebnicki,20,gm. Prusice,02
+22003,2,trzebnicki,20,gm. Trzebnica,03
+22004,2,trzebnicki,20,gm. Wisznia Mała,04
+22005,2,trzebnicki,20,gm. Zawonia,05
+22006,2,trzebnicki,20,gm. Żmigród,06
+22201,2,wołowski,22,gm. Brzeg Dolny,01
+22202,2,wołowski,22,gm. Wińsko,02
+22203,2,wołowski,22,gm. Wołów,03
+22301,2,wrocławski,23,gm. Czernica,01
+22302,2,wrocławski,23,gm. Długołęka,02
+22303,2,wrocławski,23,gm. Jordanów Śląski,03
+22304,2,wrocławski,23,gm. Kąty Wrocławskie,04
+22305,2,wrocławski,23,gm. Kobierzyce,05
+22306,2,wrocławski,23,gm. Mietków,06
+22307,2,wrocławski,23,gm. Sobótka,07
+22308,2,wrocławski,23,gm. Święta Katarzyna,08
+22309,2,wrocławski,23,gm. Żórawina,09
+26401,2,m. Wrocław,64,m. Wrocław,01
+40301,4,bydgoski,03,gm. Białe Błota,01
+40302,4,bydgoski,03,gm. Dąbrowa Chełmińska,02
+40303,4,bydgoski,03,gm. Dobrcz,03
+40304,4,bydgoski,03,gm. Koronowo,04
+40305,4,bydgoski,03,gm. Nowa Wieś Wielka,05
+40306,4,bydgoski,03,gm. Osielsko,06
+40307,4,bydgoski,03,gm. Sicienko,07
+40308,4,bydgoski,03,gm. Solec Kujawski,08
+40701,4,inowrocławski,07,m. Inowrocław,01
+40702,4,inowrocławski,07,gm. Dąbrowa Biskupia,02
+40703,4,inowrocławski,07,gm. Gniewkowo,03
+40704,4,inowrocławski,07,gm. Inowrocław,04
+40705,4,inowrocławski,07,gm. Janikowo,05
+40706,4,inowrocławski,07,gm. Kruszwica,06
+40707,4,inowrocławski,07,gm. Pakość,07
+40708,4,inowrocławski,07,gm. Rojewo,08
+40709,4,inowrocławski,07,gm. Złotniki Kujawskie,09
+40901,4,mogileński,09,gm. Dąbrowa,01
+40902,4,mogileński,09,gm. Jeziora Wielkie,02
+40903,4,mogileński,09,gm. Mogilno,03
+40904,4,mogileński,09,gm. Strzelno,04
+41001,4,nakielski,10,gm. Kcynia,01
+41002,4,nakielski,10,gm. Mrocza,02
+41003,4,nakielski,10,gm. Nakło nad Notecią,03
+41004,4,nakielski,10,gm. Sadki,04
+41005,4,nakielski,10,gm. Szubin,05
+41301,4,sępoleński,13,gm. Kamień Krajeński,01
+41302,4,sępoleński,13,gm. Sępólno Krajeńskie,02
+41303,4,sępoleński,13,gm. Sośno,03
+41304,4,sępoleński,13,gm. Więcbork,04
+41401,4,świecki,14,gm. Bukowiec,01
+41402,4,świecki,14,gm. Dragacz,02
+41403,4,świecki,14,gm. Drzycim,03
+41404,4,świecki,14,gm. Jeżewo,04
+41405,4,świecki,14,gm. Lniano,05
+41406,4,świecki,14,gm. Nowe,06
+41407,4,świecki,14,gm. Osie,07
+41408,4,świecki,14,gm. Pruszcz,08
+41409,4,świecki,14,gm. Świecie,09
+41410,4,świecki,14,gm. Świekatowo,10
+41411,4,świecki,14,gm. Warlubie,11
+41601,4,tucholski,16,gm. Cekcyn,01
+41602,4,tucholski,16,gm. Gostycyn,02
+41603,4,tucholski,16,gm. Kęsowo,03
+41604,4,tucholski,16,gm. Lubiewo,04
+41605,4,tucholski,16,gm. Śliwice,05
+41606,4,tucholski,16,gm. Tuchola,06
+41901,4,żniński,19,gm. Barcin,01
+41902,4,żniński,19,gm. Gąsawa,02
+41903,4,żniński,19,gm. Janowiec Wielkopolski,03
+41904,4,żniński,19,gm. Łabiszyn,04
+41905,4,żniński,19,gm. Rogowo,05
+41906,4,żniński,19,gm. Żnin,06
+46101,4,m. Bydgoszcz,61,m. Bydgoszcz,01
+40101,4,aleksandrowski,01,m. Aleksandrów Kujawski,01
+40102,4,aleksandrowski,01,m. Ciechocinek,02
+40103,4,aleksandrowski,01,m. Nieszawa,03
+40104,4,aleksandrowski,01,gm. Aleksandrów Kujawski,04
+40105,4,aleksandrowski,01,gm. Bądkowo,05
+40106,4,aleksandrowski,01,gm. Koneck,06
+40107,4,aleksandrowski,01,gm. Raciążek,07
+40108,4,aleksandrowski,01,gm. Waganiec,08
+40109,4,aleksandrowski,01,gm. Zakrzewo,09
+40201,4,brodnicki,02,m. Brodnica,01
+40202,4,brodnicki,02,gm. Bobrowo,02
+40203,4,brodnicki,02,gm. Brodnica,03
+40204,4,brodnicki,02,gm. Brzozie,04
+40205,4,brodnicki,02,gm. Górzno,05
+40206,4,brodnicki,02,gm. Bartniczka,06
+40207,4,brodnicki,02,gm. Jabłonowo Pomorskie,07
+40208,4,brodnicki,02,gm. Osiek,08
+40209,4,brodnicki,02,gm. Świedziebnia,09
+40210,4,brodnicki,02,gm. Zbiczno,10
+40401,4,chełmiński,04,m. Chełmno,01
+40402,4,chełmiński,04,gm. Chełmno,02
+40403,4,chełmiński,04,gm. Kijewo Królewskie,03
+40404,4,chełmiński,04,gm. Lisewo,04
+40405,4,chełmiński,04,gm. Papowo Biskupie,05
+40406,4,chełmiński,04,gm. Stolno,06
+40407,4,chełmiński,04,gm. Unisław,07
+40501,4,golubsko-dobrzyński,05,m. Golub-Dobrzyń,01
+40502,4,golubsko-dobrzyński,05,gm. Ciechocin,02
+40503,4,golubsko-dobrzyński,05,gm. Golub-Dobrzyń,03
+40504,4,golubsko-dobrzyński,05,gm. Kowalewo Pomorskie,04
+40505,4,golubsko-dobrzyński,05,gm. Radomin,05
+40506,4,golubsko-dobrzyński,05,gm. Zbójno,06
+40601,4,grudziądzki,06,gm. Grudziądz,01
+40602,4,grudziądzki,06,gm. Gruta,02
+40603,4,grudziądzki,06,gm. Łasin,03
+40604,4,grudziądzki,06,gm. Radzyń Chełmiński,04
+40605,4,grudziądzki,06,gm. Rogóźno,05
+40606,4,grudziądzki,06,gm. Świecie nad Osą,06
+40801,4,lipnowski,08,m. Lipno,01
+40802,4,lipnowski,08,gm. Bobrowniki,02
+40803,4,lipnowski,08,gm. Chrostkowo,03
+40804,4,lipnowski,08,gm. Dobrzyń nad Wisłą,04
+40805,4,lipnowski,08,gm. Kikół,05
+40806,4,lipnowski,08,gm. Lipno,06
+40807,4,lipnowski,08,gm. Skępe,07
+40808,4,lipnowski,08,gm. Tłuchowo,08
+40809,4,lipnowski,08,gm. Wielgie,09
+41101,4,radziejowski,11,m. Radziejów,01
+41102,4,radziejowski,11,gm. Bytoń,02
+41103,4,radziejowski,11,gm. Dobre,03
+41104,4,radziejowski,11,gm. Osięciny,04
+41105,4,radziejowski,11,gm. Piotrków Kujawski,05
+41106,4,radziejowski,11,gm. Radziejów,06
+41107,4,radziejowski,11,gm. Topólka,07
+41201,4,rypiński,12,m. Rypin,01
+41202,4,rypiński,12,gm. Brzuze,02
+41203,4,rypiński,12,gm. Rogowo,03
+41204,4,rypiński,12,gm. Rypin,04
+41205,4,rypiński,12,gm. Skrwilno,05
+41206,4,rypiński,12,gm. Wąpielsk,06
+41501,4,toruński,15,m. Chełmża,01
+41502,4,toruński,15,gm. Chełmża,02
+41503,4,toruński,15,gm. Czernikowo,03
+41504,4,toruński,15,gm. Lubicz,04
+41505,4,toruński,15,gm. Łubianka,05
+41506,4,toruński,15,gm. Łysomice,06
+41507,4,toruński,15,gm. Obrowo,07
+41508,4,toruński,15,gm. Wielka Nieszawka,08
+41509,4,toruński,15,gm. Zławieś Wielka,09
+41701,4,wąbrzeski,17,m. Wąbrzeźno,01
+41702,4,wąbrzeski,17,gm. Dębowa Łąka,02
+41703,4,wąbrzeski,17,gm. Książki,03
+41704,4,wąbrzeski,17,gm. Płużnica,04
+41705,4,wąbrzeski,17,gm. Wąbrzeźno,05
+41801,4,włocławski,18,m. Kowal,01
+41802,4,włocławski,18,gm. Baruchowo,02
+41803,4,włocławski,18,gm. Boniewo,03
+41804,4,włocławski,18,gm. Brześć Kujawski,04
+41805,4,włocławski,18,gm. Choceń,05
+41806,4,włocławski,18,gm. Chodecz,06
+41807,4,włocławski,18,gm. Fabianki,07
+41808,4,włocławski,18,gm. Izbica Kujawska,08
+41809,4,włocławski,18,gm. Kowal,09
+41810,4,włocławski,18,gm. Lubanie,10
+41811,4,włocławski,18,gm. Lubień Kujawski,11
+41812,4,włocławski,18,gm. Lubraniec,12
+41813,4,włocławski,18,gm. Włocławek,13
+46201,4,m. Grudziądz,62,m. Grudziądz,01
+46301,4,m. Toruń,63,m. Toruń,01
+46401,4,m. Włocławek,64,m. Włocławek,01
+60501,6,janowski,05,gm. Batorz,01
+60502,6,janowski,05,gm. Chrzanów,02
+60503,6,janowski,05,gm. Dzwola,03
+60504,6,janowski,05,gm. Godziszów,04
+60505,6,janowski,05,gm. Janów Lubelski,05
+60506,6,janowski,05,gm. Modliborzyce,06
+60507,6,janowski,05,gm. Potok Wielki,07
+60701,6,kraśnicki,07,m. Kraśnik,01
+60702,6,kraśnicki,07,gm. Annopol,02
+60703,6,kraśnicki,07,gm. Dzierzkowice,03
+60704,6,kraśnicki,07,gm. Gościeradów,04
+60705,6,kraśnicki,07,gm. Kraśnik,05
+60706,6,kraśnicki,07,gm. Szastarka,06
+60707,6,kraśnicki,07,gm. Trzydnik Duży,07
+60708,6,kraśnicki,07,gm. Urzędów,08
+60709,6,kraśnicki,07,gm. Wilkołaz,09
+60710,6,kraśnicki,07,gm. Zakrzówek,10
+60801,6,lubartowski,08,m. Lubartów,01
+60802,6,lubartowski,08,gm. Abramów,02
+60803,6,lubartowski,08,gm. Firlej,03
+60804,6,lubartowski,08,gm. Jeziorzany,04
+60805,6,lubartowski,08,gm. Kamionka,05
+60806,6,lubartowski,08,gm. Kock,06
+60807,6,lubartowski,08,gm. Lubartów,07
+60808,6,lubartowski,08,gm. Michów,08
+60809,6,lubartowski,08,gm. Niedźwiada,09
+60810,6,lubartowski,08,gm. Ostrów Lubelski,10
+60811,6,lubartowski,08,gm. Ostrówek,11
+60812,6,lubartowski,08,gm. Serniki,12
+60813,6,lubartowski,08,gm. Uścimów,13
+60901,6,lubelski,09,gm. Bełżyce,01
+60902,6,lubelski,09,gm. Borzechów,02
+60903,6,lubelski,09,gm. Bychawa,03
+60904,6,lubelski,09,gm. Garbów,04
+60905,6,lubelski,09,gm. Głusk,05
+60906,6,lubelski,09,gm. Jabłonna,06
+60907,6,lubelski,09,gm. Jastków,07
+60908,6,lubelski,09,gm. Konopnica,08
+60909,6,lubelski,09,gm. Krzczonów,09
+60910,6,lubelski,09,gm. Niedrzwica Duża,10
+60911,6,lubelski,09,gm. Niemce,11
+60912,6,lubelski,09,gm. Strzyżewice,12
+60913,6,lubelski,09,gm. Wojciechów,13
+60914,6,lubelski,09,gm. Wólka,14
+60915,6,lubelski,09,gm. Wysokie,15
+60916,6,lubelski,09,gm. Zakrzew,16
+61001,6,łęczyński,10,gm. Cyców,01
+61002,6,łęczyński,10,gm. Ludwin,02
+61003,6,łęczyński,10,gm. Łęczna,03
+61004,6,łęczyński,10,gm. Milejów,04
+61005,6,łęczyński,10,gm. Puchaczów,05
+61006,6,łęczyński,10,gm. Spiczyn,06
+61101,6,łukowski,11,m. Łuków,01
+61102,6,łukowski,11,m. Stoczek Łukowski,02
+61103,6,łukowski,11,gm. Adamów,03
+61104,6,łukowski,11,gm. Krzywda,04
+61105,6,łukowski,11,gm. Łuków,05
+61106,6,łukowski,11,gm. Serokomla,06
+61107,6,łukowski,11,gm. Stanin,07
+61108,6,łukowski,11,gm. Stoczek Łukowski,08
+61109,6,łukowski,11,gm. Trzebieszów,09
+61110,6,łukowski,11,gm. Wojcieszków,10
+61111,6,łukowski,11,gm. Wola Mysłowska,11
+61201,6,opolski,12,gm. Chodel,01
+61202,6,opolski,12,gm. Józefów nad Wisłą,02
+61203,6,opolski,12,gm. Karczmiska,03
+61204,6,opolski,12,gm. Łaziska,04
+61205,6,opolski,12,gm. Opole Lubelskie,05
+61206,6,opolski,12,gm. Poniatowa,06
+61207,6,opolski,12,gm. Wilków,07
+61401,6,puławski,14,m. Puławy,01
+61402,6,puławski,14,gm. Baranów,02
+61403,6,puławski,14,gm. Janowiec,03
+61404,6,puławski,14,gm. Kazimierz Dolny,04
+61405,6,puławski,14,gm. Końskowola,05
+61406,6,puławski,14,gm. Kurów,06
+61407,6,puławski,14,gm. Markuszów,07
+61408,6,puławski,14,gm. Nałęczów,08
+61409,6,puławski,14,gm. Puławy,09
+61410,6,puławski,14,gm. Wąwolnica,10
+61411,6,puławski,14,gm. Żyrzyn,11
+61601,6,rycki,16,m. Dęblin,01
+61602,6,rycki,16,gm. Kłoczew,02
+61603,6,rycki,16,gm. Nowodwór,03
+61604,6,rycki,16,gm. Ryki,04
+61605,6,rycki,16,gm. Stężyca,05
+61606,6,rycki,16,gm. Ułęż,06
+61701,6,świdnicki,17,m. Świdnik,01
+61702,6,świdnicki,17,gm. Mełgiew,02
+61703,6,świdnicki,17,gm. Piaski,03
+61704,6,świdnicki,17,gm. Rybczewice,04
+61705,6,świdnicki,17,gm. Trawniki,05
+66301,6,m. Lublin,63,m. Lublin,01
+60101,6,bialski,01,m. Międzyrzec Podlaski,01
+60102,6,bialski,01,m. Terespol,02
+60103,6,bialski,01,gm. Biała Podlaska,03
+60104,6,bialski,01,gm. Drelów,04
+60105,6,bialski,01,gm. Janów Podlaski,05
+60106,6,bialski,01,gm. Kodeń,06
+60107,6,bialski,01,gm. Konstantynów,07
+60108,6,bialski,01,gm. Leśna Podlaska,08
+60109,6,bialski,01,gm. Łomazy,09
+60110,6,bialski,01,gm. Międzyrzec Podlaski,10
+60111,6,bialski,01,gm. Piszczac,11
+60112,6,bialski,01,gm. Rokitno,12
+60113,6,bialski,01,gm. Rossosz,13
+60114,6,bialski,01,gm. Sławatycze,14
+60115,6,bialski,01,gm. Sosnówka,15
+60116,6,bialski,01,gm. Terespol,16
+60117,6,bialski,01,gm. Tuczna,17
+60118,6,bialski,01,gm. Wisznice,18
+60119,6,bialski,01,gm. Zalesie,19
+60201,6,biłgorajski,02,m. Biłgoraj,01
+60202,6,biłgorajski,02,gm. Aleksandrów,02
+60203,6,biłgorajski,02,gm. Biłgoraj,03
+60204,6,biłgorajski,02,gm. Biszcza,04
+60205,6,biłgorajski,02,gm. Frampol,05
+60206,6,biłgorajski,02,gm. Goraj,06
+60207,6,biłgorajski,02,gm. Józefów,07
+60208,6,biłgorajski,02,gm. Księżpol,08
+60209,6,biłgorajski,02,gm. Łukowa,09
+60210,6,biłgorajski,02,gm. Obsza,10
+60211,6,biłgorajski,02,gm. Potok Górny,11
+60212,6,biłgorajski,02,gm. Tarnogród,12
+60213,6,biłgorajski,02,gm. Tereszpol,13
+60214,6,biłgorajski,02,gm. Turobin,14
+60301,6,chełmski,03,m. Rejowiec Fabryczny,01
+60302,6,chełmski,03,gm. Białopole,02
+60303,6,chełmski,03,gm. Chełm,03
+60304,6,chełmski,03,gm. Dorohusk,04
+60305,6,chełmski,03,gm. Dubienka,05
+60306,6,chełmski,03,gm. Kamień,06
+60307,6,chełmski,03,gm. Leśniowice,07
+60308,6,chełmski,03,gm. Rejowiec Fabryczny,08
+60309,6,chełmski,03,gm. Ruda-Huta,09
+60310,6,chełmski,03,gm. Sawin,10
+60311,6,chełmski,03,gm. Siedliszcze,11
+60312,6,chełmski,03,gm. Wierzbica,12
+60313,6,chełmski,03,gm. Wojsławice,13
+60314,6,chełmski,03,gm. Żmudź,14
+60401,6,hrubieszowski,04,m. Hrubieszów,01
+60402,6,hrubieszowski,04,gm. Dołhobyczów,02
+60403,6,hrubieszowski,04,gm. Horodło,03
+60404,6,hrubieszowski,04,gm. Hrubieszów,04
+60405,6,hrubieszowski,04,gm. Mircze,05
+60406,6,hrubieszowski,04,gm. Trzeszczany,06
+60407,6,hrubieszowski,04,gm. Uchanie,07
+60408,6,hrubieszowski,04,gm. Werbkowice,08
+60601,6,krasnostawski,06,m. Krasnystaw,01
+60602,6,krasnostawski,06,gm. Fajsławice,02
+60603,6,krasnostawski,06,gm. Gorzków,03
+60604,6,krasnostawski,06,gm. Izbica,04
+60605,6,krasnostawski,06,gm. Krasnystaw,05
+60606,6,krasnostawski,06,gm. Kraśniczyn,06
+60607,6,krasnostawski,06,gm. Łopiennik Górny,07
+60608,6,krasnostawski,06,gm. Rejowiec,08
+60609,6,krasnostawski,06,gm. Rudnik,09
+60610,6,krasnostawski,06,gm. Siennica Różana,10
+60611,6,krasnostawski,06,gm. Żółkiewka,11
+61301,6,parczewski,13,gm. Dębowa Kłoda,01
+61302,6,parczewski,13,gm. Jabłoń,02
+61303,6,parczewski,13,gm. Milanów,03
+61304,6,parczewski,13,gm. Parczew,04
+61305,6,parczewski,13,gm. Podedwórze,05
+61306,6,parczewski,13,gm. Siemień,06
+61307,6,parczewski,13,gm. Sosnowica,07
+61501,6,radzyński,15,m. Radzyń Podlaski,01
+61502,6,radzyński,15,gm. Borki,02
+61503,6,radzyński,15,gm. Czemierniki,03
+61504,6,radzyński,15,gm. Kąkolewnica Wschodnia,04
+61505,6,radzyński,15,gm. Komarówka Podlaska,05
+61506,6,radzyński,15,gm. Radzyń Podlaski,06
+61507,6,radzyński,15,gm. Ulan-Majorat,07
+61508,6,radzyński,15,gm. Wohyń,08
+61801,6,tomaszowski,18,m. Tomaszów Lubelski,01
+61802,6,tomaszowski,18,gm. Bełżec,02
+61803,6,tomaszowski,18,gm. Jarczów,03
+61804,6,tomaszowski,18,gm. Krynice,04
+61805,6,tomaszowski,18,gm. Lubycza Królewska,05
+61806,6,tomaszowski,18,gm. Łaszczów,06
+61807,6,tomaszowski,18,gm. Rachanie,07
+61808,6,tomaszowski,18,gm. Susiec,08
+61809,6,tomaszowski,18,gm. Tarnawatka,09
+61810,6,tomaszowski,18,gm. Telatyn,10
+61811,6,tomaszowski,18,gm. Tomaszów Lubelski,11
+61812,6,tomaszowski,18,gm. Tyszowce,12
+61813,6,tomaszowski,18,gm. Ulhówek,13
+61901,6,włodawski,19,m. Włodawa,01
+61902,6,włodawski,19,gm. Hanna,02
+61903,6,włodawski,19,gm. Hańsk,03
+61904,6,włodawski,19,gm. Stary Brus,04
+61905,6,włodawski,19,gm. Urszulin,05
+61906,6,włodawski,19,gm. Włodawa,06
+61907,6,włodawski,19,gm. Wola Uhruska,07
+61908,6,włodawski,19,gm. Wyryki,08
+62001,6,zamojski,20,gm. Adamów,01
+62002,6,zamojski,20,gm. Grabowiec,02
+62003,6,zamojski,20,gm. Komarów-Osada,03
+62004,6,zamojski,20,gm. Krasnobród,04
+62005,6,zamojski,20,gm. Łabunie,05
+62006,6,zamojski,20,gm. Miączyn,06
+62007,6,zamojski,20,gm. Nielisz,07
+62008,6,zamojski,20,gm. Radecznica,08
+62009,6,zamojski,20,gm. Sitno,09
+62010,6,zamojski,20,gm. Skierbieszów,10
+62011,6,zamojski,20,gm. Stary Zamość,11
+62012,6,zamojski,20,gm. Sułów,12
+62013,6,zamojski,20,gm. Szczebrzeszyn,13
+62014,6,zamojski,20,gm. Zamość,14
+62015,6,zamojski,20,gm. Zwierzyniec,15
+66101,6,m. Biała Podlaska,61,m. Biała Podlaska,01
+66201,6,m. Chełm,62,m. Chełm,01
+66401,6,m. Zamość,64,m. Zamość,01
+80101,8,gorzowski,01,m. Kostrzyn nad Odrą,01
+80102,8,gorzowski,01,gm. Bogdaniec,02
+80103,8,gorzowski,01,gm. Deszczno,03
+80104,8,gorzowski,01,gm. Kłodawa,04
+80105,8,gorzowski,01,gm. Lubiszyn,05
+80106,8,gorzowski,01,gm. Santok,06
+80107,8,gorzowski,01,gm. Witnica,07
+80201,8,krośnieński,02,m. Gubin,01
+80202,8,krośnieński,02,gm. Bobrowice,02
+80203,8,krośnieński,02,gm. Bytnica,03
+80204,8,krośnieński,02,gm. Dąbie,04
+80205,8,krośnieński,02,gm. Gubin,05
+80206,8,krośnieński,02,gm. Krosno Odrzańskie,06
+80207,8,krośnieński,02,gm. Maszewo,07
+80301,8,międzyrzecki,03,gm. Bledzew,01
+80302,8,międzyrzecki,03,gm. Międzyrzecz,02
+80303,8,międzyrzecki,03,gm. Przytoczna,03
+80304,8,międzyrzecki,03,gm. Pszczew,04
+80305,8,międzyrzecki,03,gm. Skwierzyna,05
+80306,8,międzyrzecki,03,gm. Trzciel,06
+80401,8,nowosolski,04,m. Nowa Sól,01
+80402,8,nowosolski,04,gm. Bytom Odrzański,02
+80403,8,nowosolski,04,gm. Kolsko,03
+80404,8,nowosolski,04,gm. Kożuchów,04
+80405,8,nowosolski,04,gm. Nowa Sól,05
+80406,8,nowosolski,04,gm. Nowe Miasteczko,06
+80407,8,nowosolski,04,gm. Otyń,07
+80408,8,nowosolski,04,gm. Siedlisko,08
+80501,8,słubicki,05,gm. Cybinka,01
+80502,8,słubicki,05,gm. Górzyca,02
+80503,8,słubicki,05,gm. Ośno Lubuskie,03
+80504,8,słubicki,05,gm. Rzepin,04
+80505,8,słubicki,05,gm. Słubice,05
+80601,8,strzelecko-drezdenecki,06,gm. Dobiegniew,01
+80602,8,strzelecko-drezdenecki,06,gm. Drezdenko,02
+80603,8,strzelecko-drezdenecki,06,gm. Stare Kurowo,03
+80604,8,strzelecko-drezdenecki,06,gm. Strzelce Krajeńskie,04
+80605,8,strzelecko-drezdenecki,06,gm. Zwierzyn,05
+80701,8,sulęciński,07,gm. Krzeszyce,01
+80702,8,sulęciński,07,gm. Lubniewice,02
+80703,8,sulęciński,07,gm. Słońsk,03
+80704,8,sulęciński,07,gm. Sulęcin,04
+80705,8,sulęciński,07,gm. Torzym,05
+80801,8,świebodziński,08,gm. Lubrza,01
+80802,8,świebodziński,08,gm. Łagów,02
+80803,8,świebodziński,08,gm. Skąpe,03
+80804,8,świebodziński,08,gm. Szczaniec,04
+80805,8,świebodziński,08,gm. Świebodzin,05
+80806,8,świebodziński,08,gm. Zbąszynek,06
+80901,8,zielonogórski,09,gm. Babimost,01
+80902,8,zielonogórski,09,gm. Bojadła,02
+80903,8,zielonogórski,09,gm. Czerwieńsk,03
+80904,8,zielonogórski,09,gm. Kargowa,04
+80905,8,zielonogórski,09,gm. Nowogród Bobrzański,05
+80906,8,zielonogórski,09,gm. Sulechów,06
+80907,8,zielonogórski,09,gm. Świdnica,07
+80908,8,zielonogórski,09,gm. Trzebiechów,08
+80909,8,zielonogórski,09,gm. Zabór,09
+80910,8,zielonogórski,09,gm. Zielona Góra,10
+81001,8,żagański,10,m. Gozdnica,01
+81002,8,żagański,10,m. Żagań,02
+81003,8,żagański,10,gm. Brzeźnica,03
+81004,8,żagański,10,gm. Iłowa,04
+81005,8,żagański,10,gm. Małomice,05
+81006,8,żagański,10,gm. Niegosławice,06
+81007,8,żagański,10,gm. Szprotawa,07
+81008,8,żagański,10,gm. Wymiarki,08
+81009,8,żagański,10,gm. Żagań,09
+81101,8,żarski,11,m. Łęknica,01
+81102,8,żarski,11,m. Żary,02
+81103,8,żarski,11,gm. Brody,03
+81104,8,żarski,11,gm. Jasień,04
+81105,8,żarski,11,gm. Lipinki Łużyckie,05
+81106,8,żarski,11,gm. Lubsko,06
+81107,8,żarski,11,gm. Przewóz,07
+81108,8,żarski,11,gm. Trzebiel,08
+81109,8,żarski,11,gm. Tuplice,09
+81110,8,żarski,11,gm. Żary,10
+81201,8,wschowski,12,gm. Sława,01
+81202,8,wschowski,12,gm. Szlichtyngowa,02
+81203,8,wschowski,12,gm. Wschowa,03
+86101,8,m. Gorzów Wielkopolski,61,m. Gorzów Wielkopolski,01
+86201,8,m. Zielona Góra,62,m. Zielona Góra,01
+100602,10,łódzki wschodni,06,gm. Andrespol,02
+100603,10,łódzki wschodni,06,gm. Brójce,03
+100607,10,łódzki wschodni,06,gm. Koluszki,07
+100608,10,łódzki wschodni,06,gm. Nowosolna,08
+100610,10,łódzki wschodni,06,gm. Rzgów,10
+100611,10,łódzki wschodni,06,gm. Tuszyn,11
+102101,10,brzeziński,21,m. Brzeziny,01
+102102,10,brzeziński,21,gm. Brzeziny,02
+102103,10,brzeziński,21,gm. Dmosin,03
+102104,10,brzeziński,21,gm. Jeżów,04
+102105,10,brzeziński,21,gm. Rogów,05
+106101,10,m. Łódź,61,m. Łódź,01
+100101,10,bełchatowski,01,m. Bełchatów,01
+100102,10,bełchatowski,01,gm. Bełchatów,02
+100103,10,bełchatowski,01,gm. Drużbice,03
+100104,10,bełchatowski,01,gm. Kleszczów,04
+100105,10,bełchatowski,01,gm. Kluki,05
+100106,10,bełchatowski,01,gm. Rusiec,06
+100107,10,bełchatowski,01,gm. Szczerców,07
+100108,10,bełchatowski,01,gm. Zelów,08
+100701,10,opoczyński,07,gm. Białaczów,01
+100702,10,opoczyński,07,gm. Drzewica,02
+100703,10,opoczyński,07,gm. Mniszków,03
+100704,10,opoczyński,07,gm. Opoczno,04
+100705,10,opoczyński,07,gm. Paradyż,05
+100706,10,opoczyński,07,gm. Poświętne,06
+100707,10,opoczyński,07,gm. Sławno,07
+100708,10,opoczyński,07,gm. Żarnów,08
+101001,10,piotrkowski,10,gm. Aleksandrów,01
+101002,10,piotrkowski,10,gm. Czarnocin,02
+101003,10,piotrkowski,10,gm. Gorzkowice,03
+101004,10,piotrkowski,10,gm. Grabica,04
+101005,10,piotrkowski,10,gm. Łęki Szlacheckie,05
+101006,10,piotrkowski,10,gm. Moszczenica,06
+101007,10,piotrkowski,10,gm. Ręczno,07
+101008,10,piotrkowski,10,gm. Rozprza,08
+101009,10,piotrkowski,10,gm. Sulejów,09
+101010,10,piotrkowski,10,gm. Wola Krzysztoporska,10
+101011,10,piotrkowski,10,gm. Wolbórz,11
+101201,10,radomszczański,12,m. Radomsko,01
+101202,10,radomszczański,12,gm. Dobryszyce,02
+101203,10,radomszczański,12,gm. Gidle,03
+101204,10,radomszczański,12,gm. Gomunice,04
+101205,10,radomszczański,12,gm. Kamieńsk,05
+101206,10,radomszczański,12,gm. Kobiele Wielkie,06
+101207,10,radomszczański,12,gm. Kodrąb,07
+101208,10,radomszczański,12,gm. Lgota Wielka,08
+101209,10,radomszczański,12,gm. Ładzice,09
+101210,10,radomszczański,12,gm. Masłowice,10
+101211,10,radomszczański,12,gm. Przedbórz,11
+101212,10,radomszczański,12,gm. Radomsko,12
+101213,10,radomszczański,12,gm. Wielgomłyny,13
+101214,10,radomszczański,12,gm. Żytno,14
+101301,10,rawski,13,m. Rawa Mazowiecka,01
+101302,10,rawski,13,gm. Biała Rawska,02
+101303,10,rawski,13,gm. Cielądz,03
+101304,10,rawski,13,gm. Rawa Mazowiecka,04
+101305,10,rawski,13,gm. Regnów,05
+101306,10,rawski,13,gm. Sadkowice,06
+101501,10,skierniewicki,15,gm. Bolimów,01
+101502,10,skierniewicki,15,gm. Głuchów,02
+101503,10,skierniewicki,15,gm. Godzianów,03
+101504,10,skierniewicki,15,gm. Kowiesy,04
+101505,10,skierniewicki,15,gm. Lipce Reymontowskie,05
+101506,10,skierniewicki,15,gm. Maków,06
+101507,10,skierniewicki,15,gm. Nowy Kawęczyn,07
+101508,10,skierniewicki,15,gm. Skierniewice,08
+101509,10,skierniewicki,15,gm. Słupia,09
+101601,10,tomaszowski,16,m. Tomaszów Mazowiecki,01
+101602,10,tomaszowski,16,gm. Będków,02
+101603,10,tomaszowski,16,gm. Budziszewice,03
+101604,10,tomaszowski,16,gm. Czerniewice,04
+101605,10,tomaszowski,16,gm. Inowłódz,05
+101606,10,tomaszowski,16,gm. Lubochnia,06
+101607,10,tomaszowski,16,gm. Rokiciny,07
+101608,10,tomaszowski,16,gm. Rzeczyca,08
+101609,10,tomaszowski,16,gm. Tomaszów Mazowiecki,09
+101610,10,tomaszowski,16,gm. Ujazd,10
+101611,10,tomaszowski,16,gm. Żelechlinek,11
+106201,10,m. Piotrków Trybunalski,62,m. Piotrków Trybunalski,01
+106301,10,m. Skierniewice,63,m. Skierniewice,01
+100201,10,kutnowski,02,m. Kutno,01
+100202,10,kutnowski,02,gm. Bedlno,02
+100203,10,kutnowski,02,gm. Dąbrowice,03
+100204,10,kutnowski,02,gm. Krośniewice,04
+100205,10,kutnowski,02,gm. Krzyżanów,05
+100206,10,kutnowski,02,gm. Kutno,06
+100207,10,kutnowski,02,gm. Łanięta,07
+100208,10,kutnowski,02,gm. Nowe Ostrowy,08
+100209,10,kutnowski,02,gm. Oporów,09
+100210,10,kutnowski,02,gm. Strzelce,10
+100211,10,kutnowski,02,gm. Żychlin,11
+100301,10,łaski,03,gm. Buczek,01
+100302,10,łaski,03,gm. Łask,02
+100303,10,łaski,03,gm. Sędziejowice,03
+100304,10,łaski,03,gm. Widawa,04
+100305,10,łaski,03,gm. Wodzierady,05
+100401,10,łęczycki,04,m. Łęczyca,01
+100402,10,łęczycki,04,gm. Daszyna,02
+100403,10,łęczycki,04,gm. Góra Świętej Małgorzaty,03
+100404,10,łęczycki,04,gm. Grabów,04
+100405,10,łęczycki,04,gm. Łęczyca,05
+100406,10,łęczycki,04,gm. Piątek,06
+100407,10,łęczycki,04,gm. Świnice Warckie,07
+100408,10,łęczycki,04,gm. Witonia,08
+100501,10,łowicki,05,m. Łowicz,01
+100502,10,łowicki,05,gm. Bielawy,02
+100503,10,łowicki,05,gm. Chąśno,03
+100504,10,łowicki,05,gm. Domaniewice,04
+100505,10,łowicki,05,gm. Kiernozia,05
+100506,10,łowicki,05,gm. Kocierzew Południowy,06
+100507,10,łowicki,05,gm. Łowicz,07
+100508,10,łowicki,05,gm. Łyszkowice,08
+100509,10,łowicki,05,gm. Nieborów,09
+100510,10,łowicki,05,gm. Zduny,10
+100801,10,pabianicki,08,m. Konstantynów Łódzki,01
+100802,10,pabianicki,08,m. Pabianice,02
+100803,10,pabianicki,08,gm. Dłutów,03
+100804,10,pabianicki,08,gm. Dobroń,04
+100805,10,pabianicki,08,gm. Ksawerów,05
+100806,10,pabianicki,08,gm. Lutomiersk,06
+100807,10,pabianicki,08,gm. Pabianice,07
+100901,10,pajęczański,09,gm. Działoszyn,01
+100902,10,pajęczański,09,gm. Kiełczygłów,02
+100903,10,pajęczański,09,gm. Nowa Brzeźnica,03
+100904,10,pajęczański,09,gm. Pajęczno,04
+100905,10,pajęczański,09,gm. Rząśnia,05
+100906,10,pajęczański,09,gm. Siemkowice,06
+100907,10,pajęczański,09,gm. Strzelce Wielkie,07
+100908,10,pajęczański,09,gm. Sulmierzyce,08
+101101,10,poddębicki,11,gm. Dalików,01
+101102,10,poddębicki,11,gm. Pęczniew,02
+101103,10,poddębicki,11,gm. Poddębice,03
+101104,10,poddębicki,11,gm. Uniejów,04
+101105,10,poddębicki,11,gm. Wartkowice,05
+101106,10,poddębicki,11,gm. Zadzim,06
+101401,10,sieradzki,14,m. Sieradz,01
+101402,10,sieradzki,14,gm. Błaszki,02
+101403,10,sieradzki,14,gm. Brąszewice,03
+101404,10,sieradzki,14,gm. Brzeźnio,04
+101405,10,sieradzki,14,gm. Burzenin,05
+101406,10,sieradzki,14,gm. Goszczanów,06
+101407,10,sieradzki,14,gm. Klonowa,07
+101408,10,sieradzki,14,gm. Sieradz,08
+101409,10,sieradzki,14,gm. Warta,09
+101410,10,sieradzki,14,gm. Wróblew,10
+101411,10,sieradzki,14,gm. Złoczew,11
+101701,10,wieluński,17,gm. Biała,01
+101702,10,wieluński,17,gm. Czarnożyły,02
+101703,10,wieluński,17,gm. Konopnica,03
+101704,10,wieluński,17,gm. Mokrsko,04
+101705,10,wieluński,17,gm. Osjaków,05
+101706,10,wieluński,17,gm. Ostrówek,06
+101707,10,wieluński,17,gm. Pątnów,07
+101708,10,wieluński,17,gm. Skomlin,08
+101709,10,wieluński,17,gm. Wieluń,09
+101710,10,wieluński,17,gm. Wierzchlas,10
+101801,10,wieruszowski,18,gm. Bolesławiec,01
+101802,10,wieruszowski,18,gm. Czastary,02
+101803,10,wieruszowski,18,gm. Galewice,03
+101804,10,wieruszowski,18,gm. Lututów,04
+101805,10,wieruszowski,18,gm. Łubnice,05
+101806,10,wieruszowski,18,gm. Sokolniki,06
+101807,10,wieruszowski,18,gm. Wieruszów,07
+101901,10,zduńskowolski,19,m. Zduńska Wola,01
+101902,10,zduńskowolski,19,gm. Szadek,02
+101903,10,zduńskowolski,19,gm. Zapolice,03
+101904,10,zduńskowolski,19,gm. Zduńska Wola,04
+102001,10,zgierski,20,m. Głowno,01
+102002,10,zgierski,20,m. Ozorków,02
+102003,10,zgierski,20,m. Zgierz,03
+102004,10,zgierski,20,gm. Aleksandrów Łódzki,04
+102005,10,zgierski,20,gm. Głowno,05
+102006,10,zgierski,20,gm. Ozorków,06
+102007,10,zgierski,20,gm. Parzęczew,07
+102008,10,zgierski,20,gm. Stryków,08
+102009,10,zgierski,20,gm. Zgierz,09
+120301,12,chrzanowski,03,gm. Alwernia,01
+120302,12,chrzanowski,03,gm. Babice,02
+120303,12,chrzanowski,03,gm. Chrzanów,03
+120304,12,chrzanowski,03,gm. Libiąż,04
+120305,12,chrzanowski,03,gm. Trzebinia,05
+120901,12,myślenicki,09,gm. Dobczyce,01
+120902,12,myślenicki,09,gm. Lubień,02
+120903,12,myślenicki,09,gm. Myślenice,03
+120904,12,myślenicki,09,gm. Pcim,04
+120905,12,myślenicki,09,gm. Raciechowice,05
+120906,12,myślenicki,09,gm. Siepraw,06
+120907,12,myślenicki,09,gm. Sułkowice,07
+120908,12,myślenicki,09,gm. Tokarnia,08
+120909,12,myślenicki,09,gm. Wiśniowa,09
+121301,12,oświęcimski,13,m. Oświęcim,01
+121302,12,oświęcimski,13,gm. Brzeszcze,02
+121303,12,oświęcimski,13,gm. Chełmek,03
+121304,12,oświęcimski,13,gm. Kęty,04
+121305,12,oświęcimski,13,gm. Osiek,05
+121306,12,oświęcimski,13,gm. Oświęcim,06
+121307,12,oświęcimski,13,gm. Polanka Wielka,07
+121308,12,oświęcimski,13,gm. Przeciszów,08
+121309,12,oświęcimski,13,gm. Zator,09
+121501,12,Suski,15,m. Jordanów,01
+121502,12,Suski,15,m. Sucha Beskidzka,02
+121503,12,Suski,15,gm. Budzów,03
+121504,12,Suski,15,gm. Bystra-Sidzina,04
+121505,12,Suski,15,gm. Jordanów,05
+121506,12,Suski,15,gm. Maków Podhalański,06
+121507,12,Suski,15,gm. Stryszawa,07
+121508,12,Suski,15,gm. Zawoja,08
+121509,12,Suski,15,gm. Zembrzyce,09
+121801,12,wadowicki,18,gm. Andrychów,01
+121802,12,wadowicki,18,gm. Brzeźnica,02
+121803,12,wadowicki,18,gm. Kalwaria Zebrzydowska,03
+121804,12,wadowicki,18,gm. Lanckorona,04
+121805,12,wadowicki,18,gm. Mucharz,05
+121806,12,wadowicki,18,gm. Spytkowice,06
+121807,12,wadowicki,18,gm. Stryszów,07
+121808,12,wadowicki,18,gm. Tomice,08
+121809,12,wadowicki,18,gm. Wadowice,09
+121810,12,wadowicki,18,gm. Wieprz,10
+120601,12,krakowski,06,gm. Czernichów,01
+120602,12,krakowski,06,gm. Igołomia-Wawrzeńczyce,02
+120603,12,krakowski,06,gm. Iwanowice,03
+120604,12,krakowski,06,gm. Jerzmanowice-Przeginia,04
+120605,12,krakowski,06,gm. Kocmyrzów-Luborzyca,05
+120606,12,krakowski,06,gm. Krzeszowice,06
+120607,12,krakowski,06,gm. Liszki,07
+120608,12,krakowski,06,gm. Michałowice,08
+120609,12,krakowski,06,gm. Mogilany,09
+120610,12,krakowski,06,gm. Skała,10
+120611,12,krakowski,06,gm. Skawina,11
+120612,12,krakowski,06,gm. Słomniki,12
+120613,12,krakowski,06,gm. Sułoszowa,13
+120614,12,krakowski,06,gm. Świątniki Górne,14
+120615,12,krakowski,06,gm. Wielka Wieś,15
+120616,12,krakowski,06,gm. Zabierzów,16
+120617,12,krakowski,06,gm. Zielonki,17
+120801,12,miechowski,08,gm. Charsznica,01
+120802,12,miechowski,08,gm. Gołcza,02
+120803,12,miechowski,08,gm. Kozłów,03
+120804,12,miechowski,08,gm. Książ Wielki,04
+120805,12,miechowski,08,gm. Miechów,05
+120806,12,miechowski,08,gm. Racławice,06
+120807,12,miechowski,08,gm. Słaboszów,07
+121201,12,olkuski,12,m. Bukowno,01
+121203,12,olkuski,12,gm. Bolesław,03
+121204,12,olkuski,12,gm. Klucze,04
+121205,12,olkuski,12,gm. Olkusz,05
+121206,12,olkuski,12,gm. Trzyciąż,06
+121207,12,olkuski,12,gm. Wolbrom,07
+126101,12,m. Kraków,61,m. Kraków,01
+120501,12,gorlicki,05,m. Gorlice,01
+120502,12,gorlicki,05,gm. Biecz,02
+120503,12,gorlicki,05,gm. Bobowa,03
+120504,12,gorlicki,05,gm. Gorlice,04
+120505,12,gorlicki,05,gm. Lipinki,05
+120506,12,gorlicki,05,gm. Łużna,06
+120507,12,gorlicki,05,gm. Moszczenica,07
+120508,12,gorlicki,05,gm. Ropa,08
+120509,12,gorlicki,05,gm. Sękowa,09
+120510,12,gorlicki,05,gm. Uście Gorlickie,10
+120701,12,limanowski,07,m. Limanowa,01
+120702,12,limanowski,07,m. Mszana Dolna,02
+120703,12,limanowski,07,gm. Dobra,03
+120704,12,limanowski,07,gm. Jodłownik,04
+120705,12,limanowski,07,gm. Kamienica,05
+120706,12,limanowski,07,gm. Laskowa,06
+120707,12,limanowski,07,gm. Limanowa,07
+120708,12,limanowski,07,gm. Łukowica,08
+120709,12,limanowski,07,gm. Mszana Dolna,09
+120710,12,limanowski,07,gm. Niedźwiedź,10
+120711,12,limanowski,07,gm. Słopnice,11
+120712,12,limanowski,07,gm. Tymbark,12
+121001,12,nowosądecki,10,m. Grybów,01
+121002,12,nowosądecki,10,gm. Chełmiec,02
+121003,12,nowosądecki,10,gm. Gródek nad Dunajcem,03
+121004,12,nowosądecki,10,gm. Grybów,04
+121005,12,nowosądecki,10,gm. Kamionka Wielka,05
+121006,12,nowosądecki,10,gm. Korzenna,06
+121007,12,nowosądecki,10,gm. Krynica-Zdrój,07
+121008,12,nowosądecki,10,gm. Łabowa,08
+121009,12,nowosądecki,10,gm. Łącko,09
+121010,12,nowosądecki,10,gm. Łososina Dolna,10
+121011,12,nowosądecki,10,gm. Muszyna,11
+121012,12,nowosądecki,10,gm. Nawojowa,12
+121013,12,nowosądecki,10,gm. Piwniczna-Zdrój,13
+121014,12,nowosądecki,10,gm. Podegrodzie,14
+121015,12,nowosądecki,10,gm. Rytro,15
+121016,12,nowosądecki,10,gm. Stary Sącz,16
+121101,12,nowotarski,11,m. Nowy Targ,01
+121102,12,nowotarski,11,m. Szczawnica,02
+121103,12,nowotarski,11,gm. Czarny Dunajec,03
+121104,12,nowotarski,11,gm. Czorsztyn,04
+121105,12,nowotarski,11,gm. Jabłonka,05
+121106,12,nowotarski,11,gm. Krościenko nad Dunajcem,06
+121107,12,nowotarski,11,gm. Lipnica Wielka,07
+121108,12,nowotarski,11,gm. Łapsze Niżne,08
+121109,12,nowotarski,11,gm. Nowy Targ,09
+121110,12,nowotarski,11,gm. Ochotnica Dolna,10
+121111,12,nowotarski,11,gm. Raba Wyżna,11
+121112,12,nowotarski,11,gm. Rabka-Zdrój,12
+121113,12,nowotarski,11,gm. Spytkowice,13
+121114,12,nowotarski,11,gm. Szaflary,14
+121701,12,tatrzański,17,m. Zakopane,01
+121702,12,tatrzański,17,gm. Biały Dunajec,02
+121703,12,tatrzański,17,gm. Bukowina Tatrzańska,03
+121704,12,tatrzański,17,gm. Kościelisko,04
+121705,12,tatrzański,17,gm. Poronin,05
+126201,12,m. Nowy Sącz,62,m. Nowy Sącz,01
+120101,12,bocheński,01,m. Bochnia,01
+120102,12,bocheński,01,gm. Bochnia,02
+120103,12,bocheński,01,gm. Drwinia,03
+120104,12,bocheński,01,gm. Lipnica Murowana,04
+120105,12,bocheński,01,gm. Łapanów,05
+120106,12,bocheński,01,gm. Nowy Wiśnicz,06
+120107,12,bocheński,01,gm. Rzezawa,07
+120108,12,bocheński,01,gm. Trzciana,08
+120109,12,bocheński,01,gm. Żegocina,09
+120201,12,brzeski,02,gm. Borzęcin,01
+120202,12,brzeski,02,gm. Brzesko,02
+120203,12,brzeski,02,gm. Czchów,03
+120204,12,brzeski,02,gm. Dębno,04
+120205,12,brzeski,02,gm. Gnojnik,05
+120206,12,brzeski,02,gm. Iwkowa,06
+120207,12,brzeski,02,gm. Szczurowa,07
+120401,12,dąbrowski,04,gm. Bolesław,01
+120402,12,dąbrowski,04,gm. Dąbrowa Tarnowska,02
+120403,12,dąbrowski,04,gm. Gręboszów,03
+120404,12,dąbrowski,04,gm. Mędrzechów,04
+120405,12,dąbrowski,04,gm. Olesno,05
+120406,12,dąbrowski,04,gm. Radgoszcz,06
+120407,12,dąbrowski,04,gm. Szczucin,07
+121401,12,proszowicki,14,gm. Koniusza,01
+121402,12,proszowicki,14,gm. Koszyce,02
+121403,12,proszowicki,14,gm. Nowe Brzesko,03
+121404,12,proszowicki,14,gm. Pałecznica,04
+121405,12,proszowicki,14,gm. Proszowice,05
+121406,12,proszowicki,14,gm. Radziemice,06
+121601,12,tarnowski,16,gm. Ciężkowice,01
+121602,12,tarnowski,16,gm. Gromnik,02
+121603,12,tarnowski,16,gm. Lisia Góra,03
+121604,12,tarnowski,16,gm. Pleśna,04
+121605,12,tarnowski,16,gm. Radłów,05
+121606,12,tarnowski,16,gm. Ryglice,06
+121607,12,tarnowski,16,gm. Rzepiennik Strzyżewski,07
+121608,12,tarnowski,16,gm. Skrzyszów,08
+121609,12,tarnowski,16,gm. Tarnów,09
+121610,12,tarnowski,16,gm. Tuchów,10
+121611,12,tarnowski,16,gm. Wierzchosławice,11
+121612,12,tarnowski,16,gm. Wietrzychowice,12
+121613,12,tarnowski,16,gm. Wojnicz,13
+121614,12,tarnowski,16,gm. Zakliczyn,14
+121615,12,tarnowski,16,gm. Żabno,15
+121616,12,tarnowski,16,gm. Szerzyny,16
+121901,12,wielicki,19,gm. Biskupice,01
+121902,12,wielicki,19,gm. Gdów,02
+121903,12,wielicki,19,gm. Kłaj,03
+121904,12,wielicki,19,gm. Niepołomice,04
+121905,12,wielicki,19,gm. Wieliczka,05
+126301,12,m. Tarnów,63,m. Tarnów,01
+140201,14,ciechanowski,02,m. Ciechanów,01
+140202,14,ciechanowski,02,gm. Ciechanów,02
+140203,14,ciechanowski,02,gm. Glinojeck,03
+140204,14,ciechanowski,02,gm. Gołymin-Ośrodek,04
+140205,14,ciechanowski,02,gm. Grudusk,05
+140206,14,ciechanowski,02,gm. Ojrzeń,06
+140207,14,ciechanowski,02,gm. Opinogóra Górna,07
+140208,14,ciechanowski,02,gm. Regimin,08
+140209,14,ciechanowski,02,gm. Sońsk,09
+140401,14,gostyniński,04,m. Gostynin,01
+140402,14,gostyniński,04,gm. Gostynin,02
+140403,14,gostyniński,04,gm. Pacyna,03
+140404,14,gostyniński,04,gm. Sanniki,04
+140405,14,gostyniński,04,gm. Szczawin Kośc.,05
+141301,14,mławski,13,m. Mława,01
+141302,14,mławski,13,gm. Dzierzgowo,02
+141303,14,mławski,13,gm. Lipowiec Kościelny,03
+141304,14,mławski,13,gm. Radzanów,04
+141305,14,mławski,13,gm. Strzegowo,05
+141306,14,mławski,13,gm. Stupsk,06
+141307,14,mławski,13,gm. Szreńsk,07
+141308,14,mławski,13,gm. Szydłowo,08
+141309,14,mławski,13,gm. Wieczfnia Kościelna,09
+141310,14,mławski,13,gm. Wiśniewo,10
+141901,14,płocki,19,gm. Bielsk,01
+141902,14,płocki,19,gm. Bodzanów,02
+141903,14,płocki,19,gm. Brudzeń Duży,03
+141904,14,płocki,19,gm. Bulkowo,04
+141905,14,płocki,19,gm. Drobin,05
+141906,14,płocki,19,gm. Gąbin,06
+141907,14,płocki,19,gm. Łąck,07
+141908,14,płocki,19,gm. Mała Wieś,08
+141909,14,płocki,19,gm. Nowy Duninów,09
+141910,14,płocki,19,gm. Radzanowo,10
+141911,14,płocki,19,gm. Słubice,11
+141912,14,płocki,19,gm. Słupno,12
+141913,14,płocki,19,gm. Stara Biała,13
+141914,14,płocki,19,gm. Staroźreby,14
+141915,14,płocki,19,gm. Wyszogród,15
+142001,14,płoński,20,m. Płońsk,01
+142002,14,płoński,20,m. Raciąż,02
+142003,14,płoński,20,gm. Baboszewo,03
+142004,14,płoński,20,gm. Czerwińsk nad Wisłą,04
+142005,14,płoński,20,gm. Dzierzążnia,05
+142006,14,płoński,20,gm. Joniec,06
+142007,14,płoński,20,gm. Naruszewo,07
+142008,14,płoński,20,gm. Nowe Miasto,08
+142009,14,płoński,20,gm. Płońsk,09
+142010,14,płoński,20,gm. Raciąż,10
+142011,14,płoński,20,gm. Sochocin,11
+142012,14,płoński,20,gm. Załuski,12
+142201,14,przasnyski,22,m. Przasnysz,01
+142202,14,przasnyski,22,gm. Chorzele,02
+142203,14,przasnyski,22,gm. Czernice Borowe,03
+142204,14,przasnyski,22,gm. Jednorożec,04
+142205,14,przasnyski,22,gm. Krasne,05
+142206,14,przasnyski,22,gm. Krzynowłoga Mała,06
+142207,14,przasnyski,22,gm. Przasnysz,07
+142701,14,sierpecki,27,m. Sierpc,01
+142702,14,sierpecki,27,gm. Gozdowo,02
+142703,14,sierpecki,27,gm. Mochowo,03
+142704,14,sierpecki,27,gm. Rościszewo,04
+142705,14,sierpecki,27,gm. Sierpc,05
+142706,14,sierpecki,27,gm. Szczutowo,06
+142707,14,sierpecki,27,gm. Zawidz,07
+142801,14,sochaczewski,28,m. Sochaczew,01
+142802,14,sochaczewski,28,gm. Brochów,02
+142803,14,sochaczewski,28,gm. Iłów,03
+142804,14,sochaczewski,28,gm. Młodzieszyn,04
+142805,14,sochaczewski,28,gm. Nowa Sucha,05
+142806,14,sochaczewski,28,gm. Rybno,06
+142807,14,sochaczewski,28,gm. Sochaczew,07
+142808,14,sochaczewski,28,gm. Teresin,08
+143701,14,żuromiński,37,gm. Bieżuń,01
+143702,14,żuromiński,37,gm. Kuczbork-Osada,02
+143703,14,żuromiński,37,gm. Lubowidz,03
+143704,14,żuromiński,37,gm. Lutocin,04
+143705,14,żuromiński,37,gm. Siemiątkowo,05
+143706,14,żuromiński,37,gm. Żuromin,06
+143801,14,żyrardowski,38,m. Żyrardów,01
+143802,14,żyrardowski,38,gm. Mszczonów,02
+143803,14,żyrardowski,38,gm. Puszcza Mariańska,03
+143804,14,żyrardowski,38,gm. Radziejowice,04
+143805,14,żyrardowski,38,gm. Wiskitki,05
+146201,14,m. Płock,62,m. Płock,01
+140101,14,białobrzeski,01,gm. Białobrzegi,01
+140102,14,białobrzeski,01,gm. Promna,02
+140103,14,białobrzeski,01,gm. Radzanów,03
+140104,14,białobrzeski,01,gm. Stara Błotnica,04
+140105,14,białobrzeski,01,gm. Stromiec,05
+140106,14,białobrzeski,01,gm. Wyśmierzyce,06
+140601,14,grójecki,06,gm. Belsk Duży,01
+140602,14,grójecki,06,gm. Błędów,02
+140603,14,grójecki,06,gm. Chynów,03
+140604,14,grójecki,06,gm. Goszczyn,04
+140605,14,grójecki,06,gm. Grójec,05
+140606,14,grójecki,06,gm. Jasieniec,06
+140607,14,grójecki,06,gm. Mogielnica,07
+140608,14,grójecki,06,gm. Nowe Miasto nad Pilicą,08
+140609,14,grójecki,06,gm. Pniewy,09
+140611,14,grójecki,06,gm. Warka,11
+140701,14,kozienicki,07,gm. Garbatka-Letnisko,01
+140702,14,kozienicki,07,gm. Głowaczów,02
+140703,14,kozienicki,07,gm. Gniewoszów,03
+140704,14,kozienicki,07,gm. Grabów nad Pilicą,04
+140705,14,kozienicki,07,gm. Kozienice,05
+140706,14,kozienicki,07,gm. Magnuszew,06
+140707,14,kozienicki,07,gm. Sieciechów,07
+140901,14,lipski,09,gm. Chotcza,01
+140902,14,lipski,09,gm. Ciepielów,02
+140903,14,lipski,09,gm. Lipsko,03
+140904,14,lipski,09,gm. Rzeczniów,04
+140905,14,lipski,09,gm. Sienno,05
+140906,14,lipski,09,gm. Solec nad Wisłą,06
+142301,14,przysuski,23,gm. Borkowice,01
+142302,14,przysuski,23,gm. Gielniów,02
+142303,14,przysuski,23,gm. Klwów,03
+142304,14,przysuski,23,gm. Odrzywół,04
+142305,14,przysuski,23,gm. Potworów,05
+142306,14,przysuski,23,gm. Przysucha,06
+142307,14,przysuski,23,gm. Rusinów,07
+142308,14,przysuski,23,gm. Wieniawa,08
+142501,14,radomski,25,m. Pionki,01
+142502,14,radomski,25,gm. Gózd,02
+142503,14,radomski,25,gm. Iłża,03
+142504,14,radomski,25,gm. Jastrzębia,04
+142505,14,radomski,25,gm. Jedlińsk,05
+142506,14,radomski,25,gm. Jedlnia-Letnisko,06
+142507,14,radomski,25,gm. Kowala,07
+142508,14,radomski,25,gm. Pionki,08
+142509,14,radomski,25,gm. Przytyk,09
+142510,14,radomski,25,gm. Skaryszew,10
+142511,14,radomski,25,gm. Wierzbica,11
+142512,14,radomski,25,gm. Wolanów,12
+142513,14,radomski,25,gm. Zakrzew,13
+143001,14,szydłowiecki,30,gm. Chlewiska,01
+143002,14,szydłowiecki,30,gm. Jastrząb,02
+143003,14,szydłowiecki,30,gm. Mirów,03
+143004,14,szydłowiecki,30,gm. Orońsko,04
+143005,14,szydłowiecki,30,gm. Szydłowiec,05
+143601,14,zwoleński,36,gm. Kazanów,01
+143602,14,zwoleński,36,gm. Policzna,02
+143603,14,zwoleński,36,gm. Przyłęk,03
+143604,14,zwoleński,36,gm. Tczów,04
+143605,14,zwoleński,36,gm. Zwoleń,05
+146301,14,m. Radom,63,m. Radom,01
+140301,14,garwoliński,03,m. Garwolin,01
+140302,14,garwoliński,03,m. Łaskarzew,02
+140303,14,garwoliński,03,gm. Borowie,03
+140304,14,garwoliński,03,gm. Garwolin,04
+140305,14,garwoliński,03,gm. Górzno,05
+140306,14,garwoliński,03,gm. Łaskarzew,06
+140307,14,garwoliński,03,gm. Maciejowice,07
+140308,14,garwoliński,03,gm. Miastków Kościelny,08
+140309,14,garwoliński,03,gm. Parysów,09
+140310,14,garwoliński,03,gm. Pilawa,10
+140311,14,garwoliński,03,gm. Sobolew,11
+140312,14,garwoliński,03,gm. Trojanów,12
+140313,14,garwoliński,03,gm. Wilga,13
+140314,14,garwoliński,03,gm. Żelechów,14
+141001,14,łosicki,10,gm. Huszlew,01
+141002,14,łosicki,10,gm. Łosice,02
+141003,14,łosicki,10,gm. Olszanka,03
+141004,14,łosicki,10,gm. Platerów,04
+141005,14,łosicki,10,gm. Sarnaki,05
+141006,14,łosicki,10,gm. Stara Kornica,06
+141101,14,makowski,11,m. Maków Mazowiecki,01
+141102,14,makowski,11,gm. Czerwonka,02
+141103,14,makowski,11,gm. Karniewo,03
+141104,14,makowski,11,gm. Krasnosielc,04
+141105,14,makowski,11,gm. Młynarze,05
+141106,14,makowski,11,gm. Płoniawy-Bramura,06
+141107,14,makowski,11,gm. Różan,07
+141108,14,makowski,11,gm. Rzewnie,08
+141109,14,makowski,11,gm. Sypniewo,09
+141110,14,makowski,11,gm. Szelków,10
+141201,14,miński,12,m. Mińsk Mazowiecki,01
+141204,14,miński,12,gm. Cegłów,04
+141205,14,miński,12,gm. Dębe Wielkie,05
+141206,14,miński,12,gm. Dobre,06
+141207,14,miński,12,gm. Halinów,07
+141208,14,miński,12,gm. Jakubów,08
+141209,14,miński,12,gm. Kałuszyn,09
+141210,14,miński,12,gm. Latowicz,10
+141211,14,miński,12,gm. Mińsk Mazowiecki,11
+141212,14,miński,12,gm. Mrozy,12
+141213,14,miński,12,gm. Siennica,13
+141214,14,miński,12,gm. Stanisławów,14
+141215,14,miński,12,m. Sulejówek,15
+141501,14,ostrołęcki,15,gm. Baranowo,01
+141502,14,ostrołęcki,15,gm. Czarnia,02
+141503,14,ostrołęcki,15,gm. Czerwin,03
+141504,14,ostrołęcki,15,gm. Goworowo,04
+141505,14,ostrołęcki,15,gm. Kadzidło,05
+141506,14,ostrołęcki,15,gm. Lelis,06
+141507,14,ostrołęcki,15,gm. Łyse,07
+141508,14,ostrołęcki,15,gm. Myszyniec,08
+141509,14,ostrołęcki,15,gm. Olszewo-Borki,09
+141510,14,ostrołęcki,15,gm. Rzekuń,10
+141511,14,ostrołęcki,15,gm. Troszyn,11
+141601,14,ostrowski,16,m. Ostrów Mazowiecka,01
+141602,14,ostrowski,16,gm. Andrzejewo,02
+141603,14,ostrowski,16,gm. Boguty-Pianki,03
+141604,14,ostrowski,16,gm. Brok,04
+141605,14,ostrowski,16,gm. Małkinia Górna,05
+141606,14,ostrowski,16,gm. Nur,06
+141607,14,ostrowski,16,gm. Ostrów Mazowiecka,07
+141608,14,ostrowski,16,gm. Stary Lubotyń,08
+141609,14,ostrowski,16,gm. Szulborze Wielkie,09
+141610,14,ostrowski,16,gm. Wąsewo,10
+141611,14,ostrowski,16,gm. Zaręby Kościelne,11
+142401,14,pułtuski,24,gm. Gzy,01
+142402,14,pułtuski,24,gm. Obryte,02
+142403,14,pułtuski,24,gm. Pokrzywnica,03
+142404,14,pułtuski,24,gm. Pułtusk,04
+142405,14,pułtuski,24,gm. Świercze,05
+142406,14,pułtuski,24,gm. Winnica,06
+142407,14,pułtuski,24,gm. Zatory,07
+142601,14,siedlecki,26,gm. Domanice,01
+142602,14,siedlecki,26,gm. Korczew,02
+142603,14,siedlecki,26,gm. Kotuń,03
+142604,14,siedlecki,26,gm. Mokobody,04
+142605,14,siedlecki,26,gm. Mordy,05
+142606,14,siedlecki,26,gm. Paprotnia,06
+142607,14,siedlecki,26,gm. Przesmyki,07
+142608,14,siedlecki,26,gm. Siedlce,08
+142609,14,siedlecki,26,gm. Skórzec,09
+142610,14,siedlecki,26,gm. Suchożebry,10
+142611,14,siedlecki,26,gm. Wiśniew,11
+142612,14,siedlecki,26,gm. Wodynie,12
+142613,14,siedlecki,26,gm. Zbuczyn,13
+142901,14,sokołowski,29,m. Sokołów Podlaski,01
+142902,14,sokołowski,29,gm. Bielany,02
+142903,14,sokołowski,29,gm. Ceranów,03
+142904,14,sokołowski,29,gm. Jabłonna Lacka,04
+142905,14,sokołowski,29,gm. Kosów Lacki,05
+142906,14,sokołowski,29,gm. Repki,06
+142907,14,sokołowski,29,gm. Sabnie,07
+142908,14,sokołowski,29,gm. Sokołów Podlaski,08
+142909,14,sokołowski,29,gm. Sterdyń,09
+143301,14,węgrowski,33,m. Węgrów,01
+143302,14,węgrowski,33,gm. Grębków,02
+143303,14,węgrowski,33,gm. Korytnica,03
+143304,14,węgrowski,33,gm. Liw,04
+143305,14,węgrowski,33,gm. Łochów,05
+143306,14,węgrowski,33,gm. Miedzna,06
+143307,14,węgrowski,33,gm. Sadowne,07
+143308,14,węgrowski,33,gm. Stoczek,08
+143309,14,węgrowski,33,gm. Wierzbno,09
+143501,14,wyszkowski,35,gm. Brańszczyk,01
+143502,14,wyszkowski,35,gm. Długosiodło,02
+143503,14,wyszkowski,35,gm. Rząśnik,03
+143504,14,wyszkowski,35,gm. Somianka,04
+143505,14,wyszkowski,35,gm. Wyszków,05
+143506,14,wyszkowski,35,gm. Zabrodzie,06
+146101,14,m. Ostrołęka,61,m. Ostrołęka,01
+146401,14,m. Siedlce,64,m. Siedlce,01
+146501,14,m. st. Warszawa,65,m. st. Warszawa,01
+149901,14,Zagranica,99,Zagranica,01
+140501,14,grodziski,05,m. Milanówek,01
+140502,14,grodziski,05,m. Podkowa Leśna,02
+140503,14,grodziski,05,gm. Baranów,03
+140504,14,grodziski,05,gm. Grodzisk Mazowiecki,04
+140505,14,grodziski,05,gm. Jaktorów,05
+140506,14,grodziski,05,gm. Żabia Wola,06
+140801,14,legionowski,08,m. Legionowo,01
+140802,14,legionowski,08,gm. Jabłonna,02
+140803,14,legionowski,08,gm. Nieporęt,03
+140804,14,legionowski,08,gm. Serock,04
+140805,14,legionowski,08,gm. Wieliszew,05
+141401,14,nowodworski,14,m. Nowy Dwór Mazowiecki,01
+141402,14,nowodworski,14,gm. Czosnów,02
+141403,14,nowodworski,14,gm. Leoncin,03
+141404,14,nowodworski,14,gm. Nasielsk,04
+141405,14,nowodworski,14,gm. Pomiechówek,05
+141406,14,nowodworski,14,gm. Zakroczym,06
+141701,14,otwocki,17,m. Józefów,01
+141702,14,otwocki,17,m. Otwock,02
+141703,14,otwocki,17,gm. Celestynów,03
+141704,14,otwocki,17,gm. Karczew,04
+141705,14,otwocki,17,gm. Kołbiel,05
+141706,14,otwocki,17,gm. Osieck,06
+141707,14,otwocki,17,gm. Sobienie-Jeziory,07
+141708,14,otwocki,17,gm. Wiązowna,08
+141801,14,piaseczyński,18,gm. Góra Kalwaria,01
+141802,14,piaseczyński,18,gm. Konstancin-Jeziorna,02
+141803,14,piaseczyński,18,gm. Lesznowola,03
+141804,14,piaseczyński,18,gm. Piaseczno,04
+141805,14,piaseczyński,18,gm. Prażmów,05
+141806,14,piaseczyński,18,gm. Tarczyn,06
+142101,14,pruszkowski,21,m. Piastów,01
+142102,14,pruszkowski,21,m. Pruszków,02
+142103,14,pruszkowski,21,gm. Brwinów,03
+142104,14,pruszkowski,21,gm. Michałowice,04
+142105,14,pruszkowski,21,gm. Nadarzyn,05
+142106,14,pruszkowski,21,gm. Raszyn,06
+143201,14,warszawski zachodni,32,gm. Błonie,01
+143202,14,warszawski zachodni,32,gm. Izabelin,02
+143203,14,warszawski zachodni,32,gm. Kampinos,03
+143204,14,warszawski zachodni,32,gm. Leszno,04
+143205,14,warszawski zachodni,32,gm. Łomianki,05
+143206,14,warszawski zachodni,32,gm. Ożarów Mazowiecki,06
+143207,14,warszawski zachodni,32,gm. Stare Babice,07
+143401,14,wołomiński,34,m. Kobyłka,01
+143402,14,wołomiński,34,m. Marki,02
+143403,14,wołomiński,34,m. Ząbki,03
+143404,14,wołomiński,34,m. Zielonka,04
+143405,14,wołomiński,34,gm. Dąbrówka,05
+143406,14,wołomiński,34,gm. Jadów,06
+143407,14,wołomiński,34,gm. Klembów,07
+143408,14,wołomiński,34,gm. Poświętne,08
+143409,14,wołomiński,34,gm. Radzymin,09
+143410,14,wołomiński,34,gm. Strachówka,10
+143411,14,wołomiński,34,gm. Tłuszcz,11
+143412,14,wołomiński,34,gm. Wołomin,12
+160101,16,brzeski,01,m. Brzeg,01
+160102,16,brzeski,01,gm. Skarbimierz,02
+160103,16,brzeski,01,gm. Grodków,03
+160104,16,brzeski,01,gm. Lewin Brzeski,04
+160105,16,brzeski,01,gm. Lubsza,05
+160106,16,brzeski,01,gm. Olszanka,06
+160201,16,głubczycki,02,gm. Baborów,01
+160202,16,głubczycki,02,gm. Branice,02
+160203,16,głubczycki,02,gm. Głubczyce,03
+160204,16,głubczycki,02,gm. Kietrz,04
+160301,16,kędzierzyńsko-kozielski,03,m. Kędzierzyn-Koźle,01
+160302,16,kędzierzyńsko-kozielski,03,gm. Bierawa,02
+160303,16,kędzierzyńsko-kozielski,03,gm. Cisek,03
+160304,16,kędzierzyńsko-kozielski,03,gm. Pawłowiczki,04
+160305,16,kędzierzyńsko-kozielski,03,gm. Polska Cerekiew,05
+160306,16,kędzierzyńsko-kozielski,03,gm. Reńska Wieś,06
+160401,16,kluczborski,04,gm. Byczyna,01
+160402,16,kluczborski,04,gm. Kluczbork,02
+160403,16,kluczborski,04,gm. Lasowice Wielkie,03
+160404,16,kluczborski,04,gm. Wołczyn,04
+160501,16,krapkowicki,05,gm. Gogolin,01
+160502,16,krapkowicki,05,gm. Krapkowice,02
+160503,16,krapkowicki,05,gm. Strzeleczki,03
+160504,16,krapkowicki,05,gm. Walce,04
+160505,16,krapkowicki,05,gm. Zdzieszowice,05
+160601,16,namysłowski,06,gm. Domaszowice,01
+160602,16,namysłowski,06,gm. Namysłów,02
+160603,16,namysłowski,06,gm. Pokój,03
+160604,16,namysłowski,06,gm. Świerczów,04
+160605,16,namysłowski,06,gm. Wilków,05
+160701,16,nyski,07,gm. Głuchołazy,01
+160702,16,nyski,07,gm. Kamiennik,02
+160703,16,nyski,07,gm. Korfantów,03
+160704,16,nyski,07,gm. Łambinowice,04
+160705,16,nyski,07,gm. Nysa,05
+160706,16,nyski,07,gm. Otmuchów,06
+160707,16,nyski,07,gm. Paczków,07
+160708,16,nyski,07,gm. Pakosławice,08
+160709,16,nyski,07,gm. Skoroszyce,09
+160801,16,oleski,08,gm. Dobrodzień,01
+160802,16,oleski,08,gm. Gorzów Śląski,02
+160803,16,oleski,08,gm. Olesno,03
+160804,16,oleski,08,gm. Praszka,04
+160805,16,oleski,08,gm. Radłów,05
+160806,16,oleski,08,gm. Rudniki,06
+160807,16,oleski,08,gm. Zębowice,07
+160901,16,opolski,09,gm. Chrząstowice,01
+160902,16,opolski,09,gm. Dąbrowa,02
+160903,16,opolski,09,gm. Dobrzeń Wielki,03
+160904,16,opolski,09,gm. Komprachcice,04
+160905,16,opolski,09,gm. Łubniany,05
+160906,16,opolski,09,gm. Murów,06
+160907,16,opolski,09,gm. Niemodlin,07
+160908,16,opolski,09,gm. Ozimek,08
+160909,16,opolski,09,gm. Popielów,09
+160910,16,opolski,09,gm. Prószków,10
+160911,16,opolski,09,gm. Tarnów Opolski,11
+160912,16,opolski,09,gm. Tułowice,12
+160913,16,opolski,09,gm. Turawa,13
+161001,16,prudnicki,10,gm. Biała,01
+161002,16,prudnicki,10,gm. Głogówek,02
+161003,16,prudnicki,10,gm. Lubrza,03
+161004,16,prudnicki,10,gm. Prudnik,04
+161101,16,strzelecki,11,gm. Izbicko,01
+161102,16,strzelecki,11,gm. Jemielnica,02
+161103,16,strzelecki,11,gm. Kolonowskie,03
+161104,16,strzelecki,11,gm. Leśnica,04
+161105,16,strzelecki,11,gm. Strzelce Opolskie,05
+161106,16,strzelecki,11,gm. Ujazd,06
+161107,16,strzelecki,11,gm. Zawadzkie,07
+166101,16,m. Opole,61,m. Opole,01
+180103,18,bieszczadzki,01,gm. Czarna,03
+180105,18,bieszczadzki,01,gm. Lutowiska,05
+180108,18,bieszczadzki,01,gm. Ustrzyki Dolne,08
+180201,18,brzozowski,02,gm. Brzozów,01
+180202,18,brzozowski,02,gm. Domaradz,02
+180203,18,brzozowski,02,gm. Dydnia,03
+180204,18,brzozowski,02,gm. Haczów,04
+180205,18,brzozowski,02,gm. Jasienica Rosielna,05
+180206,18,brzozowski,02,gm. Nozdrzec,06
+180401,18,jarosławski,04,m. Jarosław,01
+180402,18,jarosławski,04,m. Radymno,02
+180403,18,jarosławski,04,gm. Chłopice,03
+180404,18,jarosławski,04,gm. Jarosław,04
+180405,18,jarosławski,04,gm. Laszki,05
+180406,18,jarosławski,04,gm. Pawłosiów,06
+180407,18,jarosławski,04,gm. Pruchnik,07
+180408,18,jarosławski,04,gm. Radymno,08
+180409,18,jarosławski,04,gm. Rokietnica,09
+180410,18,jarosławski,04,gm. Roźwienica,10
+180411,18,jarosławski,04,gm. Wiązownica,11
+180501,18,jasielski,05,m. Jasło,01
+180502,18,jasielski,05,gm. Brzyska,02
+180503,18,jasielski,05,gm. Dębowiec,03
+180504,18,jasielski,05,gm. Jasło,04
+180505,18,jasielski,05,gm. Kołaczyce,05
+180506,18,jasielski,05,gm. Krempna,06
+180507,18,jasielski,05,gm. Nowy Żmigród,07
+180508,18,jasielski,05,gm. Osiek Jasielski,08
+180509,18,jasielski,05,gm. Skołyszyn,09
+180511,18,jasielski,05,gm. Tarnowiec,11
+180701,18,krośnieński,07,gm. Chorkówka,01
+180702,18,krośnieński,07,gm. Dukla,02
+180703,18,krośnieński,07,gm. Iwonicz-Zdrój,03
+180704,18,krośnieński,07,gm. Jedlicze,04
+180705,18,krośnieński,07,gm. Korczyna,05
+180706,18,krośnieński,07,gm. Krościenko Wyżne,06
+180707,18,krośnieński,07,gm. Miejsce Piastowe,07
+180708,18,krośnieński,07,gm. Rymanów,08
+180709,18,krośnieński,07,gm. Wojaszówka,09
+180901,18,lubaczowski,09,m. Lubaczów,01
+180902,18,lubaczowski,09,gm. Cieszanów,02
+180903,18,lubaczowski,09,gm. Horyniec-Zdrój,03
+180904,18,lubaczowski,09,gm. Lubaczów,04
+180905,18,lubaczowski,09,gm. Narol,05
+180906,18,lubaczowski,09,gm. Oleszyce,06
+180907,18,lubaczowski,09,gm. Stary Dzików,07
+180908,18,lubaczowski,09,gm. Wielkie Oczy,08
+181301,18,przemyski,13,gm. Bircza,01
+181302,18,przemyski,13,gm. Dubiecko,02
+181303,18,przemyski,13,gm. Fredropol,03
+181304,18,przemyski,13,gm. Krasiczyn,04
+181305,18,przemyski,13,gm. Krzywcza,05
+181306,18,przemyski,13,gm. Medyka,06
+181307,18,przemyski,13,gm. Orły,07
+181308,18,przemyski,13,gm. Przemyśl,08
+181309,18,przemyski,13,gm. Stubno,09
+181310,18,przemyski,13,gm. Żurawica,10
+181401,18,przeworski,14,m. Przeworsk,01
+181402,18,przeworski,14,gm. Adamówka,02
+181403,18,przeworski,14,gm. Gać,03
+181404,18,przeworski,14,gm. Jawornik Polski,04
+181405,18,przeworski,14,gm. Kańczuga,05
+181406,18,przeworski,14,gm. Przeworsk,06
+181407,18,przeworski,14,gm. Sieniawa,07
+181408,18,przeworski,14,gm. Tryńcza,08
+181409,18,przeworski,14,gm. Zarzecze,09
+181701,18,sanocki,17,m. Sanok,01
+181702,18,sanocki,17,gm. Besko,02
+181703,18,sanocki,17,gm. Bukowsko,03
+181704,18,sanocki,17,gm. Komańcza,04
+181705,18,sanocki,17,gm. Sanok,05
+181706,18,sanocki,17,gm. Tyrawa Wołoska,06
+181707,18,sanocki,17,gm. Zagórz,07
+181708,18,sanocki,17,gm. Zarszyn,08
+182101,18,leski,21,gm. Baligród,01
+182102,18,leski,21,gm. Cisna,02
+182103,18,leski,21,gm. Lesko,03
+182104,18,leski,21,gm. Olszanica,04
+182105,18,leski,21,gm. Solina,05
+186101,18,m. Krosno,61,m. Krosno,01
+186201,18,m. Przemyśl,62,m. Przemyśl,01
+180301,18,dębicki,03,m. Dębica,01
+180302,18,dębicki,03,gm. Brzostek,02
+180303,18,dębicki,03,gm. Czarna,03
+180304,18,dębicki,03,gm. Dębica,04
+180305,18,dębicki,03,gm. Jodłowa,05
+180306,18,dębicki,03,gm. Pilzno,06
+180307,18,dębicki,03,gm. Żyraków,07
+180601,18,kolbuszowski,06,gm. Cmolas,01
+180602,18,kolbuszowski,06,gm. Kolbuszowa,02
+180603,18,kolbuszowski,06,gm. Majdan Królewski,03
+180604,18,kolbuszowski,06,gm. Niwiska,04
+180605,18,kolbuszowski,06,gm. Raniżów,05
+180606,18,kolbuszowski,06,gm. Dzikowiec,06
+180801,18,leżajski,08,m. Leżajsk,01
+180802,18,leżajski,08,gm. Grodzisko Dolne,02
+180803,18,leżajski,08,gm. Kuryłówka,03
+180804,18,leżajski,08,gm. Leżajsk,04
+180805,18,leżajski,08,gm. Nowa Sarzyna,05
+181001,18,łańcucki,10,m. Łańcut,01
+181002,18,łańcucki,10,gm. Białobrzegi,02
+181003,18,łańcucki,10,gm. Czarna,03
+181004,18,łańcucki,10,gm. Łańcut,04
+181005,18,łańcucki,10,gm. Markowa,05
+181006,18,łańcucki,10,gm. Rakszawa,06
+181007,18,łańcucki,10,gm. Żołynia,07
+181101,18,mielecki,11,m. Mielec,01
+181102,18,mielecki,11,gm. Borowa,02
+181103,18,mielecki,11,gm. Czermin,03
+181104,18,mielecki,11,gm. Gawłuszowice,04
+181105,18,mielecki,11,gm. Mielec,05
+181106,18,mielecki,11,gm. Padew Narodowa,06
+181107,18,mielecki,11,gm. Przecław,07
+181108,18,mielecki,11,gm. Radomyśl Wielki,08
+181109,18,mielecki,11,gm. Tuszów Narodowy,09
+181110,18,mielecki,11,gm. Wadowice Górne,10
+181201,18,niżański,12,gm. Harasiuki,01
+181202,18,niżański,12,gm. Jarocin,02
+181203,18,niżański,12,gm. Jeżowe,03
+181204,18,niżański,12,gm. Krzeszów,04
+181205,18,niżański,12,gm. Nisko,05
+181206,18,niżański,12,gm. Rudnik nad Sanem,06
+181207,18,niżański,12,gm. Ulanów,07
+181501,18,ropczycko-sędziszowski,15,gm. Iwierzyce,01
+181502,18,ropczycko-sędziszowski,15,gm. Ostrów,02
+181503,18,ropczycko-sędziszowski,15,gm. Ropczyce,03
+181504,18,ropczycko-sędziszowski,15,gm. Sędziszów Małopolski,04
+181505,18,ropczycko-sędziszowski,15,gm. Wielopole Skrzyńskie,05
+181601,18,rzeszowski,16,m. Dynów,01
+181602,18,rzeszowski,16,gm. Błażowa,02
+181603,18,rzeszowski,16,gm. Boguchwała,03
+181604,18,rzeszowski,16,gm. Chmielnik,04
+181605,18,rzeszowski,16,gm. Dynów,05
+181606,18,rzeszowski,16,gm. Głogów Małopolski,06
+181607,18,rzeszowski,16,gm. Hyżne,07
+181608,18,rzeszowski,16,gm. Kamień,08
+181609,18,rzeszowski,16,gm. Krasne,09
+181610,18,rzeszowski,16,gm. Lubenia,10
+181611,18,rzeszowski,16,gm. Sokołów Małopolski,11
+181612,18,rzeszowski,16,gm. Świlcza,12
+181613,18,rzeszowski,16,gm. Trzebownisko,13
+181614,18,rzeszowski,16,gm. Tyczyn,14
+181801,18,stalowowolski,18,m. Stalowa Wola,01
+181802,18,stalowowolski,18,gm. Bojanów,02
+181803,18,stalowowolski,18,gm. Pysznica,03
+181804,18,stalowowolski,18,gm. Radomyśl nad Sanem,04
+181805,18,stalowowolski,18,gm. Zaklików,05
+181806,18,stalowowolski,18,gm. Zaleszany,06
+181901,18,strzyżowski,19,gm. Czudec,01
+181902,18,strzyżowski,19,gm. Frysztak,02
+181903,18,strzyżowski,19,gm. Niebylec,03
+181904,18,strzyżowski,19,gm. Strzyżów,04
+181905,18,strzyżowski,19,gm. Wiśniowa,05
+182001,18,tarnobrzeski,20,gm. Baranów Sandomierski,01
+182002,18,tarnobrzeski,20,gm. Gorzyce,02
+182003,18,tarnobrzeski,20,gm. Grębów,03
+182004,18,tarnobrzeski,20,gm. Nowa Dęba,04
+186301,18,m. Rzeszów,63,m. Rzeszów,01
+186401,18,m. Tarnobrzeg,64,m. Tarnobrzeg,01
+200101,20,augustowski,01,m. Augustów,01
+200102,20,augustowski,01,gm. Augustów,02
+200103,20,augustowski,01,gm. Bargłów Kościelny,03
+200104,20,augustowski,01,gm. Lipsk,04
+200105,20,augustowski,01,gm. Nowinka,05
+200106,20,augustowski,01,gm. Płaska,06
+200107,20,augustowski,01,gm. Sztabin,07
+200201,20,białostocki,02,gm. Choroszcz,01
+200202,20,białostocki,02,gm. Czarna Białostocka,02
+200203,20,białostocki,02,gm. Dobrzyniewo Duże,03
+200204,20,białostocki,02,gm. Gródek,04
+200205,20,białostocki,02,gm. Juchnowiec Kościelny,05
+200206,20,białostocki,02,gm. Łapy,06
+200207,20,białostocki,02,gm. Michałowo,07
+200208,20,białostocki,02,gm. Poświętne,08
+200209,20,białostocki,02,gm. Supraśl,09
+200210,20,białostocki,02,gm. Suraż,10
+200211,20,białostocki,02,gm. Turośń Kościelna,11
+200212,20,białostocki,02,gm. Tykocin,12
+200213,20,białostocki,02,gm. Wasilków,13
+200214,20,białostocki,02,gm. Zabłudów,14
+200215,20,białostocki,02,gm. Zawady,15
+200301,20,bielski,03,m. Bielsk Podlaski,01
+200302,20,bielski,03,m. Brańsk,02
+200303,20,bielski,03,gm. Bielsk Podlaski,03
+200304,20,bielski,03,gm. Boćki,04
+200305,20,bielski,03,gm. Brańsk,05
+200306,20,bielski,03,gm. Orla,06
+200307,20,bielski,03,gm. Rudka,07
+200308,20,bielski,03,gm. Wyszki,08
+200401,20,grajewski,04,m. Grajewo,01
+200402,20,grajewski,04,gm. Grajewo,02
+200403,20,grajewski,04,gm. Radziłów,03
+200404,20,grajewski,04,gm. Rajgród,04
+200405,20,grajewski,04,gm. Szczuczyn,05
+200406,20,grajewski,04,gm. Wąsosz,06
+200501,20,hajnowski,05,m. Hajnówka,01
+200502,20,hajnowski,05,gm. Białowieża,02
+200503,20,hajnowski,05,gm. Czeremcha,03
+200504,20,hajnowski,05,gm. Czyże,04
+200505,20,hajnowski,05,gm. Dubicze Cerkiewne,05
+200506,20,hajnowski,05,gm. Hajnówka,06
+200507,20,hajnowski,05,gm. Kleszczele,07
+200508,20,hajnowski,05,gm. Narew,08
+200509,20,hajnowski,05,gm. Narewka,09
+200601,20,kolneński,06,m. Kolno,01
+200602,20,kolneński,06,gm. Grabowo,02
+200603,20,kolneński,06,gm. Kolno,03
+200604,20,kolneński,06,gm. Mały Płock,04
+200605,20,kolneński,06,gm. Stawiski,05
+200606,20,kolneński,06,gm. Turośl,06
+200701,20,łomżyński,07,gm. Jedwabne,01
+200702,20,łomżyński,07,gm. Łomża,02
+200703,20,łomżyński,07,gm. Miastkowo,03
+200704,20,łomżyński,07,gm. Nowogród,04
+200705,20,łomżyński,07,gm. Piątnica,05
+200706,20,łomżyński,07,gm. Przytuły,06
+200707,20,łomżyński,07,gm. Śniadowo,07
+200708,20,łomżyński,07,gm. Wizna,08
+200709,20,łomżyński,07,gm. Zbójna,09
+200801,20,moniecki,08,gm. Goniądz,01
+200802,20,moniecki,08,gm. Jasionówka,02
+200803,20,moniecki,08,gm. Jaświły,03
+200804,20,moniecki,08,gm. Knyszyn,04
+200805,20,moniecki,08,gm. Krypno,05
+200806,20,moniecki,08,gm. Mońki,06
+200807,20,moniecki,08,gm. Trzcianne,07
+200901,20,sejneński,09,m. Sejny,01
+200902,20,sejneński,09,gm. Giby,02
+200903,20,sejneński,09,gm. Krasnopol,03
+200904,20,sejneński,09,gm. Puńsk,04
+200905,20,sejneński,09,gm. Sejny,05
+201001,20,siemiatycki,10,m. Siemiatycze,01
+201002,20,siemiatycki,10,gm. Drohiczyn,02
+201003,20,siemiatycki,10,gm. Dziadkowice,03
+201004,20,siemiatycki,10,gm. Grodzisk,04
+201005,20,siemiatycki,10,gm. Mielnik,05
+201006,20,siemiatycki,10,gm. Milejczyce,06
+201007,20,siemiatycki,10,gm. Nurzec-Stacja,07
+201008,20,siemiatycki,10,gm. Perlejewo,08
+201009,20,siemiatycki,10,gm. Siemiatycze,09
+201101,20,sokólski,11,gm. Dąbrowa Białostocka,01
+201102,20,sokólski,11,gm. Janów,02
+201103,20,sokólski,11,gm. Korycin,03
+201104,20,sokólski,11,gm. Krynki,04
+201105,20,sokólski,11,gm. Kuźnica,05
+201106,20,sokólski,11,gm. Nowy Dwór,06
+201107,20,sokólski,11,gm. Sidra,07
+201108,20,sokólski,11,gm. Sokółka,08
+201109,20,sokólski,11,gm. Suchowola,09
+201110,20,sokólski,11,gm. Szudziałowo,10
+201201,20,suwalski,12,gm. Bakałarzewo,01
+201202,20,suwalski,12,gm. Filipów,02
+201203,20,suwalski,12,gm. Jeleniewo,03
+201204,20,suwalski,12,gm. Przerośl,04
+201205,20,suwalski,12,gm. Raczki,05
+201206,20,suwalski,12,gm. Rutka-Tartak,06
+201207,20,suwalski,12,gm. Suwałki,07
+201208,20,suwalski,12,gm. Szypliszki,08
+201209,20,suwalski,12,gm. Wiżajny,09
+201301,20,wysokomazowiecki,13,m. Wysokie Mazowieckie,01
+201302,20,wysokomazowiecki,13,gm. Ciechanowiec,02
+201303,20,wysokomazowiecki,13,gm. Czyżew-Osada,03
+201304,20,wysokomazowiecki,13,gm. Klukowo,04
+201305,20,wysokomazowiecki,13,gm. Kobylin-Borzymy,05
+201306,20,wysokomazowiecki,13,gm. Kulesze Kościelne,06
+201307,20,wysokomazowiecki,13,gm. Nowe Piekuty,07
+201308,20,wysokomazowiecki,13,gm. Sokoły,08
+201309,20,wysokomazowiecki,13,gm. Szepietowo,09
+201310,20,wysokomazowiecki,13,gm. Wysokie Mazowieckie,10
+201401,20,zambrowski,14,m. Zambrów,01
+201402,20,zambrowski,14,gm. Kołaki Kościelne,02
+201403,20,zambrowski,14,gm. Rutki,03
+201404,20,zambrowski,14,gm. Szumowo,04
+201405,20,zambrowski,14,gm. Zambrów,05
+206101,20,m. Białystok,61,m. Białystok,01
+206201,20,m. Łomża,62,m. Łomża,01
+206301,20,m. Suwałki,63,m. Suwałki,01
+220401,22,gdański,04,m. Pruszcz Gdański,01
+220402,22,gdański,04,gm. Cedry Wielkie,02
+220403,22,gdański,04,gm. Kolbudy,03
+220404,22,gdański,04,gm. Pruszcz Gdański,04
+220405,22,gdański,04,gm. Przywidz,05
+220406,22,gdański,04,gm. Pszczółki,06
+220407,22,gdański,04,gm. Suchy Dąb,07
+220408,22,gdański,04,gm. Trąbki Wielkie,08
+220701,22,kwidzyński,07,m. Kwidzyn,01
+220702,22,kwidzyński,07,gm. Gardeja,02
+220703,22,kwidzyński,07,gm. Kwidzyn,03
+220704,22,kwidzyński,07,gm. Prabuty,04
+220705,22,kwidzyński,07,gm. Ryjewo,05
+220706,22,kwidzyński,07,gm. Sadlinki,06
+220901,22,malborski,09,m. Malbork,01
+220903,22,malborski,09,gm. Lichnowy,03
+220904,22,malborski,09,gm. Malbork,04
+220906,22,malborski,09,gm. Miłoradz,06
+220907,22,malborski,09,gm. Nowy Staw,07
+220908,22,malborski,09,gm. Stare Pole,08
+221001,22,nowodworski,10,m. Krynica Morska,01
+221002,22,nowodworski,10,gm. Nowy Dwór Gdański,02
+221003,22,nowodworski,10,gm. Ostaszewo,03
+221004,22,nowodworski,10,gm. Stegna,04
+221005,22,nowodworski,10,gm. Sztutowo,05
+221301,22,starogardzki,13,m. Czarna Woda,01
+221302,22,starogardzki,13,m. Skórcz,02
+221303,22,starogardzki,13,m. Starogard Gdański,03
+221304,22,starogardzki,13,gm. Bobowo,04
+221305,22,starogardzki,13,gm. Kaliska,05
+221306,22,starogardzki,13,gm. Lubichowo,06
+221307,22,starogardzki,13,gm. Osieczna,07
+221308,22,starogardzki,13,gm. Osiek,08
+221309,22,starogardzki,13,gm. Skarszewy,09
+221310,22,starogardzki,13,gm. Skórcz,10
+221311,22,starogardzki,13,gm. Smętowo Graniczne,11
+221312,22,starogardzki,13,gm. Starogard Gdański,12
+221313,22,starogardzki,13,gm. Zblewo,13
+221401,22,tczewski,14,m. Tczew,01
+221402,22,tczewski,14,gm. Gniew,02
+221403,22,tczewski,14,gm. Morzeszczyn,03
+221404,22,tczewski,14,gm. Pelplin,04
+221405,22,tczewski,14,gm. Subkowy,05
+221406,22,tczewski,14,gm. Tczew,06
+221601,22,sztumski,16,gm. Dzierzgoń,01
+221602,22,sztumski,16,gm. Mikołajki Pomorskie,02
+221603,22,sztumski,16,gm. Stary Dzierzgoń,03
+221604,22,sztumski,16,gm. Stary Targ,04
+221605,22,sztumski,16,gm. Sztum,05
+226101,22,m. Gdańsk,61,m. Gdańsk,01
+226401,22,m. Sopot,64,m. Sopot,01
+229901,22,Statki,99,Statki,01
+220101,22,bytowski,01,gm. Borzytuchom,01
+220102,22,bytowski,01,gm. Bytów,02
+220103,22,bytowski,01,gm. Czarna Dąbrówka,03
+220104,22,bytowski,01,gm. Kołczygłowy,04
+220105,22,bytowski,01,gm. Lipnica,05
+220106,22,bytowski,01,gm. Miastko,06
+220107,22,bytowski,01,gm. Parchowo,07
+220108,22,bytowski,01,gm. Studzienice,08
+220109,22,bytowski,01,gm. Trzebielino,09
+220110,22,bytowski,01,gm. Tuchomie,10
+220201,22,chojnicki,02,m. Chojnice,01
+220202,22,chojnicki,02,gm. Brusy,02
+220203,22,chojnicki,02,gm. Chojnice,03
+220204,22,chojnicki,02,gm. Czersk,04
+220205,22,chojnicki,02,gm. Konarzyny,05
+220301,22,człuchowski,03,m. Człuchów,01
+220302,22,człuchowski,03,gm. Czarne,02
+220303,22,człuchowski,03,gm. Człuchów,03
+220304,22,człuchowski,03,gm. Debrzno,04
+220305,22,człuchowski,03,gm. Koczała,05
+220306,22,człuchowski,03,gm. Przechlewo,06
+220307,22,człuchowski,03,gm. Rzeczenica,07
+220501,22,kartuski,05,gm. Chmielno,01
+220502,22,kartuski,05,gm. Kartuzy,02
+220503,22,kartuski,05,gm. Przodkowo,03
+220504,22,kartuski,05,gm. Sierakowice,04
+220505,22,kartuski,05,gm. Somonino,05
+220506,22,kartuski,05,gm. Stężyca,06
+220507,22,kartuski,05,gm. Sulęczyno,07
+220508,22,kartuski,05,gm. Żukowo,08
+220601,22,kościerski,06,m. Kościerzyna,01
+220602,22,kościerski,06,gm. Dziemiany,02
+220603,22,kościerski,06,gm. Karsin,03
+220604,22,kościerski,06,gm. Kościerzyna,04
+220605,22,kościerski,06,gm. Liniewo,05
+220606,22,kościerski,06,gm. Lipusz,06
+220607,22,kościerski,06,gm. Nowa Karczma,07
+220608,22,kościerski,06,gm. Stara Kiszewa,08
+220801,22,lęborski,08,m. Lębork,01
+220802,22,lęborski,08,m. Łeba,02
+220803,22,lęborski,08,gm. Cewice,03
+220804,22,lęborski,08,gm. Nowa Wieś Lęborska,04
+220805,22,lęborski,08,gm. Wicko,05
+221101,22,pucki,11,m. Hel,01
+221102,22,pucki,11,m. Jastarnia,02
+221103,22,pucki,11,m. Puck,03
+221104,22,pucki,11,m. Władysławowo,04
+221105,22,pucki,11,gm. Kosakowo,05
+221106,22,pucki,11,gm. Krokowa,06
+221107,22,pucki,11,gm. Puck,07
+221201,22,słupski,12,m. Ustka,01
+221202,22,słupski,12,gm. Damnica,02
+221203,22,słupski,12,gm. Dębnica Kaszubska,03
+221204,22,słupski,12,gm. Główczyce,04
+221205,22,słupski,12,gm. Kępice,05
+221206,22,słupski,12,gm. Kobylnica,06
+221207,22,słupski,12,gm. Potęgowo,07
+221208,22,słupski,12,gm. Słupsk,08
+221209,22,słupski,12,gm. Smołdzino,09
+221210,22,słupski,12,gm. Ustka,10
+221501,22,wejherowski,15,m. Reda,01
+221502,22,wejherowski,15,m. Rumia,02
+221503,22,wejherowski,15,m. Wejherowo,03
+221504,22,wejherowski,15,gm. Choczewo,04
+221505,22,wejherowski,15,gm. Gniewino,05
+221506,22,wejherowski,15,gm. Linia,06
+221507,22,wejherowski,15,gm. Luzino,07
+221508,22,wejherowski,15,gm. Łęczyce,08
+221509,22,wejherowski,15,gm. Szemud,09
+221510,22,wejherowski,15,gm. Wejherowo,10
+226201,22,m. Gdynia,62,m. Gdynia,01
+226301,22,m. Słupsk,63,m. Słupsk,01
+229801,22,Statki,98,Statki,01
+240201,24,bielski,02,m. Szczyrk,01
+240202,24,bielski,02,gm. Bestwina,02
+240203,24,bielski,02,gm. Buczkowice,03
+240204,24,bielski,02,gm. Czechowice-Dziedzice,04
+240205,24,bielski,02,gm. Jasienica,05
+240206,24,bielski,02,gm. Jaworze,06
+240207,24,bielski,02,gm. Kozy,07
+240208,24,bielski,02,gm. Porąbka,08
+240209,24,bielski,02,gm. Wilamowice,09
+240210,24,bielski,02,gm. Wilkowice,10
+240301,24,cieszyński,03,m. Cieszyn,01
+240302,24,cieszyński,03,m. Ustroń,02
+240303,24,cieszyński,03,m. Wisła,03
+240304,24,cieszyński,03,gm. Brenna,04
+240305,24,cieszyński,03,gm. Chybie,05
+240306,24,cieszyński,03,gm. Dębowiec,06
+240307,24,cieszyński,03,gm. Goleszów,07
+240308,24,cieszyński,03,gm. Hażlach,08
+240309,24,cieszyński,03,gm. Istebna,09
+240310,24,cieszyński,03,gm. Skoczów,10
+240311,24,cieszyński,03,gm. Strumień,11
+240312,24,cieszyński,03,gm. Zebrzydowice,12
+241001,24,pszczyński,10,gm. Goczałkowice-Zdrój,01
+241002,24,pszczyński,10,gm. Kobiór,02
+241003,24,pszczyński,10,gm. Miedźna,03
+241004,24,pszczyński,10,gm. Pawłowice,04
+241005,24,pszczyński,10,gm. Pszczyna,05
+241006,24,pszczyński,10,gm. Suszec,06
+241701,24,żywiecki,17,m. Żywiec,01
+241702,24,żywiecki,17,gm. Czernichów,02
+241703,24,żywiecki,17,gm. Gilowice,03
+241704,24,żywiecki,17,gm. Jeleśnia,04
+241705,24,żywiecki,17,gm. Koszarawa,05
+241706,24,żywiecki,17,gm. Lipowa,06
+241707,24,żywiecki,17,gm. Łękawica,07
+241708,24,żywiecki,17,gm. Łodygowice,08
+241709,24,żywiecki,17,gm. Milówka,09
+241710,24,żywiecki,17,gm. Radziechowy-Wieprz,10
+241711,24,żywiecki,17,gm. Rajcza,11
+241712,24,żywiecki,17,gm. Ślemień,12
+241713,24,żywiecki,17,gm. Świnna,13
+241714,24,żywiecki,17,gm. Ujsoły,14
+241715,24,żywiecki,17,gm. Węgierska Górka,15
+246101,24,m. Bielsko-Biała,61,m. Bielsko-Biała,01
+240401,24,częstochowski,04,gm. Blachownia,01
+240402,24,częstochowski,04,gm. Dąbrowa Zielona,02
+240403,24,częstochowski,04,gm. Janów,03
+240404,24,częstochowski,04,gm. Kamienica Polska,04
+240405,24,częstochowski,04,gm. Kłomnice,05
+240406,24,częstochowski,04,gm. Koniecpol,06
+240407,24,częstochowski,04,gm. Konopiska,07
+240408,24,częstochowski,04,gm. Kruszyna,08
+240409,24,częstochowski,04,gm. Lelów,09
+240410,24,częstochowski,04,gm. Mstów,10
+240411,24,częstochowski,04,gm. Mykanów,11
+240412,24,częstochowski,04,gm. Olsztyn,12
+240413,24,częstochowski,04,gm. Poczesna,13
+240414,24,częstochowski,04,gm. Przyrów,14
+240415,24,częstochowski,04,gm. Rędziny,15
+240416,24,częstochowski,04,gm. Starcza,16
+240601,24,kłobucki,06,gm. Kłobuck,01
+240602,24,kłobucki,06,gm. Krzepice,02
+240603,24,kłobucki,06,gm. Lipie,03
+240604,24,kłobucki,06,gm. Miedźno,04
+240605,24,kłobucki,06,gm. Opatów,05
+240606,24,kłobucki,06,gm. Panki,06
+240607,24,kłobucki,06,gm. Popów,07
+240608,24,kłobucki,06,gm. Przystajń,08
+240609,24,kłobucki,06,gm. Wręczyca Wielka,09
+240701,24,lubliniecki,07,m. Lubliniec,01
+240702,24,lubliniecki,07,gm. Boronów,02
+240703,24,lubliniecki,07,gm. Ciasna,03
+240704,24,lubliniecki,07,gm. Herby,04
+240705,24,lubliniecki,07,gm. Kochanowice,05
+240706,24,lubliniecki,07,gm. Koszęcin,06
+240707,24,lubliniecki,07,gm. Pawonków,07
+240708,24,lubliniecki,07,gm. Woźniki,08
+240901,24,myszkowski,09,m. Myszków,01
+240902,24,myszkowski,09,gm. Koziegłowy,02
+240903,24,myszkowski,09,gm. Niegowa,03
+240904,24,myszkowski,09,gm. Poraj,04
+240905,24,myszkowski,09,gm. Żarki,05
+246401,24,m. Częstochowa,64,m. Częstochowa,01
+240501,24,gliwicki,05,m. Knurów,01
+240502,24,gliwicki,05,m. Pyskowice,02
+240503,24,gliwicki,05,gm. Gierałtowice,03
+240504,24,gliwicki,05,gm. Pilchowice,04
+240505,24,gliwicki,05,gm. Rudziniec,05
+240506,24,gliwicki,05,gm. Sośnicowice,06
+240507,24,gliwicki,05,gm. Toszek,07
+240508,24,gliwicki,05,gm. Wielowieś,08
+241301,24,tarnogórski,13,m. Kalety,01
+241302,24,tarnogórski,13,m. Miasteczko Śląskie,02
+241303,24,tarnogórski,13,m. Radzionków,03
+241304,24,tarnogórski,13,m. Tarnowskie Góry,04
+241305,24,tarnogórski,13,gm. Krupski Młyn,05
+241306,24,tarnogórski,13,gm. Ożarowice,06
+241307,24,tarnogórski,13,gm. Świerklaniec,07
+241308,24,tarnogórski,13,gm. Tworóg,08
+241309,24,tarnogórski,13,gm. Zbrosławice,09
+246201,24,m. Bytom,62,m. Bytom,01
+246601,24,m. Gliwice,66,m. Gliwice,01
+247801,24,m. Zabrze,78,m. Zabrze,01
+240801,24,mikołowski,08,m. Łaziska Górne,01
+240802,24,mikołowski,08,m. Mikołów,02
+240803,24,mikołowski,08,m. Orzesze,03
+240804,24,mikołowski,08,gm. Ornontowice,04
+240805,24,mikołowski,08,gm. Wyry,05
+241101,24,raciborski,11,m. Racibórz,01
+241102,24,raciborski,11,gm. Kornowac,02
+241103,24,raciborski,11,gm. Krzanowice,03
+241104,24,raciborski,11,gm. Krzyżanowice,04
+241105,24,raciborski,11,gm. Kuźnia Raciborska,05
+241106,24,raciborski,11,gm. Nędza,06
+241107,24,raciborski,11,gm. Pietrowice Wielkie,07
+241108,24,raciborski,11,gm. Rudnik,08
+241201,24,rybnicki,12,gm. Czerwionka-Leszczyny,01
+241202,24,rybnicki,12,gm. Gaszowice,02
+241203,24,rybnicki,12,gm. Jejkowice,03
+241204,24,rybnicki,12,gm. Lyski,04
+241205,24,rybnicki,12,gm. Świerklany,05
+241501,24,wodzisławski,15,m. Pszów,01
+241502,24,wodzisławski,15,m. Radlin,02
+241503,24,wodzisławski,15,m. Rydułtowy,03
+241504,24,wodzisławski,15,m. Wodzisław Śląski,04
+241505,24,wodzisławski,15,gm. Godów,05
+241506,24,wodzisławski,15,gm. Gorzyce,06
+241507,24,wodzisławski,15,gm. Lubomia,07
+241508,24,wodzisławski,15,gm. Marklowice,08
+241509,24,wodzisławski,15,gm. Mszana,09
+246701,24,m. Jastrzębie-Zdrój,67,m. Jastrzębie-Zdrój,01
+247301,24,m. Rybnik,73,m. Rybnik,01
+247901,24,m. Żory,79,m. Żory,01
+241401,24,bieruńsko-lędziński,14,m. Bieruń,01
+241402,24,bieruńsko-lędziński,14,m. Imielin,02
+241403,24,bieruńsko-lędziński,14,m. Lędziny,03
+241404,24,bieruńsko-lędziński,14,gm. Bojszowy,04
+241405,24,bieruńsko-lędziński,14,gm. Chełm Śląski,05
+246301,24,m. Chorzów,63,m. Chorzów,01
+246901,24,m. Katowice,69,m. Katowice,01
+247001,24,m. Mysłowice,70,m. Mysłowice,01
+247101,24,m. Piekary Śląskie,71,m. Piekary Śląskie,01
+247201,24,m. Ruda Śląska,72,m. Ruda Śląska,01
+247401,24,m. Siemianowice Śląskie,74,m. Siemianowice Śląskie,01
+247601,24,m. Świętochłowice,76,m. Świętochłowice,01
+247701,24,m. Tychy,77,m. Tychy,01
+240101,24,będziński,01,m. Będzin,01
+240102,24,będziński,01,m. Czeladź,02
+240103,24,będziński,01,m. Wojkowice,03
+240104,24,będziński,01,gm. Bobrowniki,04
+240105,24,będziński,01,gm. Mierzęcice,05
+240106,24,będziński,01,gm. Psary,06
+240107,24,będziński,01,gm. Siewierz,07
+240108,24,będziński,01,m. Sławków,08
+241601,24,zawierciański,16,m. Poręba,01
+241602,24,zawierciański,16,m. Zawiercie,02
+241603,24,zawierciański,16,gm. Irządze,03
+241604,24,zawierciański,16,gm. Kroczyce,04
+241605,24,zawierciański,16,gm. Łazy,05
+241606,24,zawierciański,16,gm. Ogrodzieniec,06
+241607,24,zawierciański,16,gm. Pilica,07
+241608,24,zawierciański,16,gm. Szczekociny,08
+241609,24,zawierciański,16,gm. Włodowice,09
+241610,24,zawierciański,16,gm. Żarnowiec,10
+246501,24,m. Dąbrowa Górnicza,65,m. Dąbrowa Górnicza,01
+246801,24,m. Jaworzno,68,m. Jaworzno,01
+247501,24,m. Sosnowiec,75,m. Sosnowiec,01
+260101,26,buski,01,gm. Busko-Zdrój,01
+260102,26,buski,01,gm. Gnojno,02
+260103,26,buski,01,gm. Nowy Korczyn,03
+260104,26,buski,01,gm. Pacanów,04
+260105,26,buski,01,gm. Solec-Zdrój,05
+260106,26,buski,01,gm. Stopnica,06
+260107,26,buski,01,gm. Tuczępy,07
+260108,26,buski,01,gm. Wiślica,08
+260201,26,jędrzejowski,02,gm. Imielno,01
+260202,26,jędrzejowski,02,gm. Jędrzejów,02
+260203,26,jędrzejowski,02,gm. Małogoszcz,03
+260204,26,jędrzejowski,02,gm. Nagłowice,04
+260205,26,jędrzejowski,02,gm. Oksa,05
+260206,26,jędrzejowski,02,gm. Sędziszów,06
+260207,26,jędrzejowski,02,gm. Słupia (Jędrzejowska),07
+260208,26,jędrzejowski,02,gm. Sobków,08
+260209,26,jędrzejowski,02,gm. Wodzisław,09
+260301,26,kazimierski,03,gm. Bejsce,01
+260302,26,kazimierski,03,gm. Czarnocin,02
+260303,26,kazimierski,03,gm. Kazimierza Wielka,03
+260304,26,kazimierski,03,gm. Opatowiec,04
+260305,26,kazimierski,03,gm. Skalbmierz,05
+260401,26,kielecki,04,gm. Bieliny,01
+260402,26,kielecki,04,gm. Bodzentyn,02
+260403,26,kielecki,04,gm. Chęciny,03
+260404,26,kielecki,04,gm. Chmielnik,04
+260405,26,kielecki,04,gm. Daleszyce,05
+260406,26,kielecki,04,gm. Górno,06
+260407,26,kielecki,04,gm. Łagów,07
+260408,26,kielecki,04,gm. Łopuszno,08
+260409,26,kielecki,04,gm. Masłów,09
+260410,26,kielecki,04,gm. Miedziana Góra,10
+260411,26,kielecki,04,gm. Mniów,11
+260412,26,kielecki,04,gm. Morawica,12
+260413,26,kielecki,04,gm. Nowa Słupia,13
+260414,26,kielecki,04,gm. Piekoszów,14
+260415,26,kielecki,04,gm. Pierzchnica,15
+260416,26,kielecki,04,gm. Raków,16
+260417,26,kielecki,04,gm. Sitkówka-Nowiny,17
+260418,26,kielecki,04,gm. Strawczyn,18
+260419,26,kielecki,04,gm. Zagnańsk,19
+260501,26,konecki,05,gm. Fałków,01
+260502,26,konecki,05,gm. Gowarczów,02
+260503,26,konecki,05,gm. Końskie,03
+260504,26,konecki,05,gm. Radoszyce,04
+260505,26,konecki,05,gm. Ruda Maleniecka,05
+260506,26,konecki,05,gm. Słupia (Konecka),06
+260507,26,konecki,05,gm. Smyków,07
+260508,26,konecki,05,gm. Stąporków,08
+260601,26,opatowski,06,gm. Baćkowice,01
+260602,26,opatowski,06,gm. Iwaniska,02
+260603,26,opatowski,06,gm. Lipnik,03
+260604,26,opatowski,06,gm. Opatów,04
+260605,26,opatowski,06,gm. Ożarów,05
+260606,26,opatowski,06,gm. Sadowie,06
+260607,26,opatowski,06,gm. Tarłów,07
+260608,26,opatowski,06,gm. Wojciechowice,08
+260701,26,ostrowiecki,07,m. Ostrowiec Świętokrzyski,01
+260702,26,ostrowiecki,07,gm. Bałtów,02
+260703,26,ostrowiecki,07,gm. Bodzechów,03
+260704,26,ostrowiecki,07,gm. Ćmielów,04
+260705,26,ostrowiecki,07,gm. Kunów,05
+260706,26,ostrowiecki,07,gm. Waśniów,06
+260801,26,pińczowski,08,gm. Działoszyce,01
+260802,26,pińczowski,08,gm. Kije,02
+260803,26,pińczowski,08,gm. Michałów,03
+260804,26,pińczowski,08,gm. Pińczów,04
+260805,26,pińczowski,08,gm. Złota,05
+260901,26,sandomierski,09,m. Sandomierz,01
+260902,26,sandomierski,09,gm. Dwikozy,02
+260903,26,sandomierski,09,gm. Klimontów,03
+260904,26,sandomierski,09,gm. Koprzywnica,04
+260905,26,sandomierski,09,gm. Łoniów,05
+260906,26,sandomierski,09,gm. Obrazów,06
+260907,26,sandomierski,09,gm. Samborzec,07
+260908,26,sandomierski,09,gm. Wilczyce,08
+260909,26,sandomierski,09,gm. Zawichost,09
+261001,26,skarżyski,10,m. Skarżysko-Kamienna,01
+261002,26,skarżyski,10,gm. Bliżyn,02
+261003,26,skarżyski,10,gm. Łączna,03
+261004,26,skarżyski,10,gm. Skarżysko Kościelne,04
+261005,26,skarżyski,10,gm. Suchedniów,05
+261101,26,starachowicki,11,m. Starachowice,01
+261102,26,starachowicki,11,gm. Brody,02
+261103,26,starachowicki,11,gm. Mirzec,03
+261104,26,starachowicki,11,gm. Pawłów,04
+261105,26,starachowicki,11,gm. Wąchock,05
+261201,26,staszowski,12,gm. Bogoria,01
+261202,26,staszowski,12,gm. Łubnice,02
+261203,26,staszowski,12,gm. Oleśnica,03
+261204,26,staszowski,12,gm. Osiek,04
+261205,26,staszowski,12,gm. Połaniec,05
+261206,26,staszowski,12,gm. Rytwiany,06
+261207,26,staszowski,12,gm. Staszów,07
+261208,26,staszowski,12,gm. Szydłów,08
+261301,26,włoszczowski,13,gm. Kluczewsko,01
+261302,26,włoszczowski,13,gm. Krasocin,02
+261303,26,włoszczowski,13,gm. Moskorzew,03
+261304,26,włoszczowski,13,gm. Radków,04
+261305,26,włoszczowski,13,gm. Secemin,05
+261306,26,włoszczowski,13,gm. Włoszczowa,06
+266101,26,m. Kielce,61,m. Kielce,01
+280101,28,bartoszycki,01,m. Bartoszyce,01
+280102,28,bartoszycki,01,m. Górowo Iławeckie,02
+280103,28,bartoszycki,01,gm. Bartoszyce,03
+280104,28,bartoszycki,01,gm. Bisztynek,04
+280105,28,bartoszycki,01,gm. Górowo Iławeckie,05
+280106,28,bartoszycki,01,gm. Sępopol,06
+280201,28,braniewski,02,m. Braniewo,01
+280202,28,braniewski,02,gm. Braniewo,02
+280203,28,braniewski,02,gm. Frombork,03
+280204,28,braniewski,02,gm. Lelkowo,04
+280205,28,braniewski,02,gm. Pieniężno,05
+280206,28,braniewski,02,gm. Płoskinia,06
+280207,28,braniewski,02,gm. Wilczęta,07
+280301,28,działdowski,03,m. Działdowo,01
+280302,28,działdowski,03,gm. Działdowo,02
+280303,28,działdowski,03,gm. Iłowo-Osada,03
+280304,28,działdowski,03,gm. Lidzbark,04
+280305,28,działdowski,03,gm. Płośnica,05
+280306,28,działdowski,03,gm. Rybno,06
+280401,28,elbląski,04,gm. Elbląg,01
+280402,28,elbląski,04,gm. Godkowo,02
+280403,28,elbląski,04,gm. Gronowo Elbląskie,03
+280404,28,elbląski,04,gm. Markusy,04
+280405,28,elbląski,04,gm. Milejewo,05
+280406,28,elbląski,04,gm. Młynary,06
+280407,28,elbląski,04,gm. Pasłęk,07
+280408,28,elbląski,04,gm. Rychliki,08
+280409,28,elbląski,04,gm. Tolkmicko,09
+280701,28,iławski,07,m. Iława,01
+280702,28,iławski,07,m. Lubawa,02
+280703,28,iławski,07,gm. Iława,03
+280704,28,iławski,07,gm. Kisielice,04
+280705,28,iławski,07,gm. Lubawa,05
+280706,28,iławski,07,gm. Susz,06
+280707,28,iławski,07,gm. Zalewo,07
+280901,28,lidzbarski,09,m. Lidzbark Warmiński,01
+280902,28,lidzbarski,09,gm. Kiwity,02
+280903,28,lidzbarski,09,gm. Lidzbark Warmiński,03
+280904,28,lidzbarski,09,gm. Lubomino,04
+280905,28,lidzbarski,09,gm. Orneta,05
+281201,28,nowomiejski,12,m. Nowe Miasto Lubawskie,01
+281202,28,nowomiejski,12,gm. Biskupiec,02
+281203,28,nowomiejski,12,gm. Grodziczno,03
+281204,28,nowomiejski,12,gm. Kurzętnik,04
+281205,28,nowomiejski,12,gm. Nowe Miasto Lubawskie,05
+281501,28,ostródzki,15,m. Ostróda,01
+281502,28,ostródzki,15,gm. Dąbrówno,02
+281503,28,ostródzki,15,gm. Grunwald,03
+281504,28,ostródzki,15,gm. Łukta,04
+281505,28,ostródzki,15,gm. Małdyty,05
+281506,28,ostródzki,15,gm. Miłakowo,06
+281507,28,ostródzki,15,gm. Miłomłyn,07
+281508,28,ostródzki,15,gm. Morąg,08
+281509,28,ostródzki,15,gm. Ostróda,09
+286101,28,m. Elbląg,61,m. Elbląg,01
+280501,28,ełcki,05,m. Ełk,01
+280502,28,ełcki,05,gm. Ełk,02
+280503,28,ełcki,05,gm. Kalinowo,03
+280504,28,ełcki,05,gm. Prostki,04
+280505,28,ełcki,05,gm. Stare Juchy,05
+280601,28,giżycki,06,m. Giżycko,01
+280604,28,giżycki,06,gm. Giżycko,04
+280605,28,giżycki,06,gm. Kruklanki,05
+280606,28,giżycki,06,gm. Miłki,06
+280608,28,giżycki,06,gm. Ryn,08
+280610,28,giżycki,06,gm. Wydminy,10
+280801,28,kętrzyński,08,m. Kętrzyn,01
+280802,28,kętrzyński,08,gm. Barciany,02
+280803,28,kętrzyński,08,gm. Kętrzyn,03
+280804,28,kętrzyński,08,gm. Korsze,04
+280805,28,kętrzyński,08,gm. Reszel,05
+280806,28,kętrzyński,08,gm. Srokowo,06
+281001,28,mrągowski,10,m. Mrągowo,01
+281002,28,mrągowski,10,gm. Mikołajki,02
+281003,28,mrągowski,10,gm. Mrągowo,03
+281004,28,mrągowski,10,gm. Piecki,04
+281005,28,mrągowski,10,gm. Sorkwity,05
+281101,28,nidzicki,11,gm. Janowiec Kościelny,01
+281102,28,nidzicki,11,gm. Janowo,02
+281103,28,nidzicki,11,gm. Kozłowo,03
+281104,28,nidzicki,11,gm. Nidzica,04
+281303,28,olecki,13,gm. Kowale Oleckie,03
+281304,28,olecki,13,gm. Olecko,04
+281305,28,olecki,13,gm. Świętajno,05
+281306,28,olecki,13,gm. Wieliczki,06
+281401,28,olsztyński,14,gm. Barczewo,01
+281402,28,olsztyński,14,gm. Biskupiec,02
+281403,28,olsztyński,14,gm. Dobre Miasto,03
+281404,28,olsztyński,14,gm. Dywity,04
+281405,28,olsztyński,14,gm. Gietrzwałd,05
+281406,28,olsztyński,14,gm. Jeziorany,06
+281407,28,olsztyński,14,gm. Jonkowo,07
+281408,28,olsztyński,14,gm. Kolno,08
+281409,28,olsztyński,14,gm. Olsztynek,09
+281410,28,olsztyński,14,gm. Purda,10
+281411,28,olsztyński,14,gm. Stawiguda,11
+281412,28,olsztyński,14,gm. Świątki,12
+281601,28,piski,16,gm. Biała Piska,01
+281602,28,piski,16,gm. Orzysz,02
+281603,28,piski,16,gm. Pisz,03
+281604,28,piski,16,gm. Ruciane-Nida,04
+281701,28,szczycieński,17,m. Szczytno,01
+281702,28,szczycieński,17,gm. Dźwierzuty,02
+281703,28,szczycieński,17,gm. Jedwabno,03
+281704,28,szczycieński,17,gm. Pasym,04
+281705,28,szczycieński,17,gm. Rozogi,05
+281706,28,szczycieński,17,gm. Szczytno,06
+281707,28,szczycieński,17,gm. Świętajno,07
+281708,28,szczycieński,17,gm. Wielbark,08
+281801,28,gołdapski,18,gm. Banie Mazurskie,01
+281802,28,gołdapski,18,gm. Dubeninki,02
+281803,28,gołdapski,18,gm. Gołdap,03
+281901,28,węgorzewski,19,gm. Budry,01
+281902,28,węgorzewski,19,gm. Pozezdrze,02
+281903,28,węgorzewski,19,gm. Węgorzewo,03
+286201,28,m. Olsztyn,62,m. Olsztyn,01
+300401,30,gostyński,04,gm. Borek Wielkopolski,01
+300402,30,gostyński,04,gm. Gostyń,02
+300403,30,gostyński,04,gm. Krobia,03
+300404,30,gostyński,04,gm. Pępowo,04
+300405,30,gostyński,04,gm. Piaski,05
+300406,30,gostyński,04,gm. Pogorzela,06
+300407,30,gostyński,04,gm. Poniec,07
+300601,30,jarociński,06,gm. Jaraczewo,01
+300602,30,jarociński,06,gm. Jarocin,02
+300603,30,jarociński,06,gm. Kotlin,03
+300604,30,jarociński,06,gm. Żerków,04
+300701,30,kaliski,07,gm. Blizanów,01
+300702,30,kaliski,07,gm. Brzeziny,02
+300703,30,kaliski,07,gm. Ceków-Kolonia,03
+300704,30,kaliski,07,gm. Godziesze Wielkie,04
+300705,30,kaliski,07,gm. Koźminek,05
+300706,30,kaliski,07,gm. Lisków,06
+300707,30,kaliski,07,gm. Mycielin,07
+300708,30,kaliski,07,gm. Opatówek,08
+300709,30,kaliski,07,gm. Stawiszyn,09
+300710,30,kaliski,07,gm. Szczytniki,10
+300711,30,kaliski,07,gm. Żelazków,11
+300801,30,kępiński,08,gm. Baranów,01
+300802,30,kępiński,08,gm. Bralin,02
+300803,30,kępiński,08,gm. Kępno,03
+300804,30,kępiński,08,gm. Łęka Opatowska,04
+300805,30,kępiński,08,gm. Perzów,05
+300806,30,kępiński,08,gm. Rychtal,06
+300807,30,kępiński,08,gm. Trzcinica,07
+301101,30,kościański,11,m. Kościan,01
+301102,30,kościański,11,gm. Czempiń,02
+301103,30,kościański,11,gm. Kościan,03
+301104,30,kościański,11,gm. Krzywiń,04
+301105,30,kościański,11,gm. Śmigiel,05
+301201,30,krotoszyński,12,m. Sulmierzyce,01
+301202,30,krotoszyński,12,gm. Kobylin,02
+301203,30,krotoszyński,12,gm. Koźmin Wielkopolski,03
+301204,30,krotoszyński,12,gm. Krotoszyn,04
+301205,30,krotoszyński,12,gm. Rozdrażew,05
+301206,30,krotoszyński,12,gm. Zduny,06
+301301,30,leszczyński,13,gm. Krzemieniewo,01
+301302,30,leszczyński,13,gm. Lipno,02
+301303,30,leszczyński,13,gm. Osieczna,03
+301304,30,leszczyński,13,gm. Rydzyna,04
+301305,30,leszczyński,13,gm. Święciechowa,05
+301306,30,leszczyński,13,gm. Wijewo,06
+301307,30,leszczyński,13,gm. Włoszakowice,07
+301701,30,ostrowski,17,m. Ostrów Wielkopolski,01
+301702,30,ostrowski,17,gm. Nowe Skalmierzyce,02
+301703,30,ostrowski,17,gm. Odolanów,03
+301704,30,ostrowski,17,gm. Ostrów Wielkopolski,04
+301705,30,ostrowski,17,gm. Przygodzice,05
+301706,30,ostrowski,17,gm. Raszków,06
+301707,30,ostrowski,17,gm. Sieroszewice,07
+301708,30,ostrowski,17,gm. Sośnie,08
+301801,30,ostrzeszowski,18,gm. Czajków,01
+301802,30,ostrzeszowski,18,gm. Doruchów,02
+301803,30,ostrzeszowski,18,gm. Grabów nad Prosną,03
+301804,30,ostrzeszowski,18,gm. Kobyla Góra,04
+301805,30,ostrzeszowski,18,gm. Kraszewice,05
+301806,30,ostrzeszowski,18,gm. Mikstat,06
+301807,30,ostrzeszowski,18,gm. Ostrzeszów,07
+302001,30,pleszewski,20,gm. Chocz,01
+302002,30,pleszewski,20,gm. Czermin,02
+302003,30,pleszewski,20,gm. Dobrzyca,03
+302004,30,pleszewski,20,gm. Gizałki,04
+302005,30,pleszewski,20,gm. Gołuchów,05
+302006,30,pleszewski,20,gm. Pleszew,06
+302201,30,rawicki,22,gm. Bojanowo,01
+302202,30,rawicki,22,gm. Jutrosin,02
+302203,30,rawicki,22,gm. Miejska Górka,03
+302204,30,rawicki,22,gm. Pakosław,04
+302205,30,rawicki,22,gm. Rawicz,05
+306101,30,m. Kalisz,61,m. Kalisz,01
+306301,30,m. Leszno,63,m. Leszno,01
+300301,30,gnieźnieński,03,m. Gniezno,01
+300302,30,gnieźnieński,03,gm. Czerniejewo,02
+300303,30,gnieźnieński,03,gm. Gniezno,03
+300304,30,gnieźnieński,03,gm. Kiszkowo,04
+300305,30,gnieźnieński,03,gm. Kłecko,05
+300306,30,gnieźnieński,03,gm. Łubowo,06
+300307,30,gnieźnieński,03,gm. Mieleszyn,07
+300308,30,gnieźnieński,03,gm. Niechanowo,08
+300309,30,gnieźnieński,03,gm. Trzemeszno,09
+300310,30,gnieźnieński,03,gm. Witkowo,10
+300901,30,kolski,09,m. Koło,01
+300902,30,kolski,09,gm. Babiak,02
+300903,30,kolski,09,gm. Chodów,03
+300904,30,kolski,09,gm. Dąbie,04
+300905,30,kolski,09,gm. Grzegorzew,05
+300906,30,kolski,09,gm. Kłodawa,06
+300907,30,kolski,09,gm. Koło,07
+300908,30,kolski,09,gm. Kościelec,08
+300909,30,kolski,09,gm. Olszówka,09
+300910,30,kolski,09,gm. Osiek Mały,10
+300911,30,kolski,09,gm. Przedecz,11
+301001,30,koniński,10,gm. Golina,01
+301002,30,koniński,10,gm. Grodziec,02
+301003,30,koniński,10,gm. Kazimierz Biskupi,03
+301004,30,koniński,10,gm. Kleczew,04
+301005,30,koniński,10,gm. Kramsk,05
+301006,30,koniński,10,gm. Krzymów,06
+301007,30,koniński,10,gm. Rychwał,07
+301008,30,koniński,10,gm. Rzgów,08
+301009,30,koniński,10,gm. Skulsk,09
+301010,30,koniński,10,gm. Sompolno,10
+301011,30,koniński,10,gm. Stare Miasto,11
+301012,30,koniński,10,gm. Ślesin,12
+301013,30,koniński,10,gm. Wierzbinek,13
+301014,30,koniński,10,gm. Wilczyn,14
+302301,30,słupecki,23,m. Słupca,01
+302302,30,słupecki,23,gm. Lądek,02
+302303,30,słupecki,23,gm. Orchowo,03
+302304,30,słupecki,23,gm. Ostrowite,04
+302305,30,słupecki,23,gm. Powidz,05
+302306,30,słupecki,23,gm. Słupca,06
+302307,30,słupecki,23,gm. Strzałkowo,07
+302308,30,słupecki,23,gm. Zagórów,08
+302501,30,średzki,25,gm. Dominowo,01
+302502,30,średzki,25,gm. Krzykosy,02
+302503,30,średzki,25,gm. Nowe Miasto nad Wartą,03
+302504,30,średzki,25,gm. Środa Wielkopolska,04
+302505,30,średzki,25,gm. Zaniemyśl,05
+302601,30,śremski,26,gm. Brodnica,01
+302602,30,śremski,26,gm. Dolsk,02
+302603,30,śremski,26,gm. Książ Wielkopolski,03
+302604,30,śremski,26,gm. Śrem,04
+302701,30,turecki,27,m. Turek,01
+302702,30,turecki,27,gm. Brudzew,02
+302703,30,turecki,27,gm. Dobra,03
+302704,30,turecki,27,gm. Kawęczyn,04
+302705,30,turecki,27,gm. Malanów,05
+302706,30,turecki,27,gm. Przykona,06
+302707,30,turecki,27,gm. Tuliszków,07
+302708,30,turecki,27,gm. Turek,08
+302709,30,turecki,27,gm. Władysławów,09
+303001,30,wrzesiński,30,gm. Kołaczkowo,01
+303002,30,wrzesiński,30,gm. Miłosław,02
+303003,30,wrzesiński,30,gm. Nekla,03
+303004,30,wrzesiński,30,gm. Pyzdry,04
+303005,30,wrzesiński,30,gm. Września,05
+306201,30,m. Konin,62,m. Konin,01
+300101,30,chodzieski,01,m. Chodzież,01
+300102,30,chodzieski,01,gm. Budzyń,02
+300103,30,chodzieski,01,gm. Chodzież,03
+300104,30,chodzieski,01,gm. Margonin,04
+300105,30,chodzieski,01,gm. Szamocin,05
+300201,30,czarnkowsko-trzcianecki,02,m. Czarnków,01
+300202,30,czarnkowsko-trzcianecki,02,gm. Czarnków,02
+300203,30,czarnkowsko-trzcianecki,02,gm. Drawsko,03
+300204,30,czarnkowsko-trzcianecki,02,gm. Krzyż Wielkopolski,04
+300205,30,czarnkowsko-trzcianecki,02,gm. Lubasz,05
+300206,30,czarnkowsko-trzcianecki,02,gm. Połajewo,06
+300207,30,czarnkowsko-trzcianecki,02,gm. Trzcianka,07
+300208,30,czarnkowsko-trzcianecki,02,gm. Wieleń,08
+300501,30,grodziski,05,gm. Granowo,01
+300502,30,grodziski,05,gm. Grodzisk Wielkopolski,02
+300503,30,grodziski,05,gm. Kamieniec,03
+300504,30,grodziski,05,gm. Rakoniewice,04
+300505,30,grodziski,05,gm. Wielichowo,05
+301401,30,międzychodzki,14,gm. Chrzypsko Wielkie,01
+301402,30,międzychodzki,14,gm. Kwilcz,02
+301403,30,międzychodzki,14,gm. Międzychód,03
+301404,30,międzychodzki,14,gm. Sieraków,04
+301501,30,nowotomyski,15,gm. Kuślin,01
+301502,30,nowotomyski,15,gm. Lwówek,02
+301503,30,nowotomyski,15,gm. Miedzichowo,03
+301504,30,nowotomyski,15,gm. Nowy Tomyśl,04
+301505,30,nowotomyski,15,gm. Opalenica,05
+301506,30,nowotomyski,15,gm. Zbąszyń,06
+301601,30,obornicki,16,gm. Oborniki,01
+301602,30,obornicki,16,gm. Rogoźno,02
+301603,30,obornicki,16,gm. Ryczywół,03
+301901,30,pilski,19,m. Piła,01
+301902,30,pilski,19,gm. Białośliwie,02
+301903,30,pilski,19,gm. Kaczory,03
+301904,30,pilski,19,gm. Łobżenica,04
+301905,30,pilski,19,gm. Miasteczko Krajeńskie,05
+301906,30,pilski,19,gm. Szydłowo,06
+301907,30,pilski,19,gm. Ujście,07
+301908,30,pilski,19,gm. Wyrzysk,08
+301909,30,pilski,19,gm. Wysoka,09
+302401,30,szamotulski,24,m. Obrzycko,01
+302402,30,szamotulski,24,gm. Duszniki,02
+302403,30,szamotulski,24,gm. Kaźmierz,03
+302404,30,szamotulski,24,gm. Obrzycko,04
+302405,30,szamotulski,24,gm. Ostroróg,05
+302406,30,szamotulski,24,gm. Pniewy,06
+302407,30,szamotulski,24,gm. Szamotuły,07
+302408,30,szamotulski,24,gm. Wronki,08
+302801,30,wągrowiecki,28,m. Wągrowiec,01
+302802,30,wągrowiecki,28,gm. Damasławek,02
+302803,30,wągrowiecki,28,gm. Gołańcz,03
+302804,30,wągrowiecki,28,gm. Mieścisko,04
+302805,30,wągrowiecki,28,gm. Skoki,05
+302806,30,wągrowiecki,28,gm. Wapno,06
+302807,30,wągrowiecki,28,gm. Wągrowiec,07
+302901,30,wolsztyński,29,gm. Przemęt,01
+302902,30,wolsztyński,29,gm. Siedlec,02
+302903,30,wolsztyński,29,gm. Wolsztyn,03
+303101,30,złotowski,31,m. Złotów,01
+303102,30,złotowski,31,gm. Jastrowie,02
+303103,30,złotowski,31,gm. Krajenka,03
+303104,30,złotowski,31,gm. Lipka,04
+303105,30,złotowski,31,gm. Okonek,05
+303106,30,złotowski,31,gm. Tarnówka,06
+303107,30,złotowski,31,gm. Zakrzewo,07
+303108,30,złotowski,31,gm. Złotów,08
+302101,30,poznański,21,m. Luboń,01
+302102,30,poznański,21,m. Puszczykowo,02
+302103,30,poznański,21,gm. Buk,03
+302104,30,poznański,21,gm. Czerwonak,04
+302105,30,poznański,21,gm. Dopiewo,05
+302106,30,poznański,21,gm. Kleszczewo,06
+302107,30,poznański,21,gm. Komorniki,07
+302108,30,poznański,21,gm. Kostrzyn,08
+302109,30,poznański,21,gm. Kórnik,09
+302110,30,poznański,21,gm. Mosina,10
+302111,30,poznański,21,gm. Murowana Goślina,11
+302112,30,poznański,21,gm. Pobiedziska,12
+302113,30,poznański,21,gm. Rokietnica,13
+302114,30,poznański,21,gm. Stęszew,14
+302115,30,poznański,21,gm. Suchy Las,15
+302116,30,poznański,21,gm. Swarzędz,16
+302117,30,poznański,21,gm. Tarnowo Podgórne,17
+306401,30,m. Poznań,64,m. Poznań,01
+320101,32,białogardzki,01,m. Białogard,01
+320102,32,białogardzki,01,gm. Białogard,02
+320103,32,białogardzki,01,gm. Karlino,03
+320104,32,białogardzki,01,gm. Tychowo,04
+320201,32,choszczeński,02,gm. Bierzwnik,01
+320202,32,choszczeński,02,gm. Choszczno,02
+320203,32,choszczeński,02,gm. Drawno,03
+320204,32,choszczeński,02,gm. Krzęcin,04
+320205,32,choszczeński,02,gm. Pełczyce,05
+320206,32,choszczeński,02,gm. Recz,06
+320301,32,drawski,03,gm. Czaplinek,01
+320302,32,drawski,03,gm. Drawsko Pomorskie,02
+320303,32,drawski,03,gm. Kalisz Pomorski,03
+320304,32,drawski,03,gm. Ostrowice,04
+320305,32,drawski,03,gm. Wierzchowo,05
+320306,32,drawski,03,gm. Złocieniec,06
+320801,32,kołobrzeski,08,m. Kołobrzeg,01
+320802,32,kołobrzeski,08,gm. Dygowo,02
+320803,32,kołobrzeski,08,gm. Gościno,03
+320804,32,kołobrzeski,08,gm. Kołobrzeg,04
+320805,32,kołobrzeski,08,gm. Rymań,05
+320806,32,kołobrzeski,08,gm. Siemyśl,06
+320807,32,kołobrzeski,08,gm. Ustronie Morskie,07
+320901,32,koszaliński,09,gm. Będzino,01
+320902,32,koszaliński,09,gm. Biesiekierz,02
+320903,32,koszaliński,09,gm. Bobolice,03
+320904,32,koszaliński,09,gm. Manowo,04
+320905,32,koszaliński,09,gm. Mielno,05
+320906,32,koszaliński,09,gm. Polanów,06
+320907,32,koszaliński,09,gm. Sianów,07
+320908,32,koszaliński,09,gm. Świeszyno,08
+321301,32,sławieński,13,m. Darłowo,01
+321302,32,sławieński,13,m. Sławno,02
+321303,32,sławieński,13,gm. Darłowo,03
+321304,32,sławieński,13,gm. Malechowo,04
+321305,32,sławieński,13,gm. Postomino,05
+321306,32,sławieński,13,gm. Sławno,06
+321501,32,szczecinecki,15,m. Szczecinek,01
+321502,32,szczecinecki,15,gm. Barwice,02
+321503,32,szczecinecki,15,gm. Biały Bór,03
+321504,32,szczecinecki,15,gm. Borne Sulinowo,04
+321505,32,szczecinecki,15,gm. Grzmiąca,05
+321506,32,szczecinecki,15,gm. Szczecinek,06
+321601,32,świdwiński,16,m. Świdwin,01
+321602,32,świdwiński,16,gm. Brzeżno,02
+321603,32,świdwiński,16,gm. Połczyn-Zdrój,03
+321604,32,świdwiński,16,gm. Rąbino,04
+321605,32,świdwiński,16,gm. Sławoborze,05
+321606,32,świdwiński,16,gm. Świdwin,06
+321701,32,wałecki,17,m. Wałcz,01
+321702,32,wałecki,17,gm. Człopa,02
+321703,32,wałecki,17,gm. Mirosławiec,03
+321704,32,wałecki,17,gm. Tuczno,04
+321705,32,wałecki,17,gm. Wałcz,05
+326101,32,m. Koszalin,61,m. Koszalin,01
+320402,32,goleniowski,04,gm. Goleniów,02
+320403,32,goleniowski,04,gm. Maszewo,03
+320404,32,goleniowski,04,gm. Nowogard,04
+320405,32,goleniowski,04,gm. Osina,05
+320406,32,goleniowski,04,gm. Przybiernów,06
+320407,32,goleniowski,04,gm. Stepnica,07
+320501,32,gryficki,05,gm. Brojce,01
+320502,32,gryficki,05,gm. Gryfice,02
+320503,32,gryficki,05,gm. Karnice,03
+320504,32,gryficki,05,gm. Płoty,04
+320507,32,gryficki,05,gm. Rewal,07
+320508,32,gryficki,05,gm. Trzebiatów,08
+320601,32,gryfiński,06,gm. Banie,01
+320602,32,gryfiński,06,gm. Cedynia,02
+320603,32,gryfiński,06,gm. Chojna,03
+320604,32,gryfiński,06,gm. Gryfino,04
+320605,32,gryfiński,06,gm. Mieszkowice,05
+320606,32,gryfiński,06,gm. Moryń,06
+320607,32,gryfiński,06,gm. Stare Czarnowo,07
+320608,32,gryfiński,06,gm. Trzcińsko-Zdrój,08
+320609,32,gryfiński,06,gm. Widuchowa,09
+320701,32,kamieński,07,gm. Dziwnów,01
+320702,32,kamieński,07,gm. Golczewo,02
+320703,32,kamieński,07,gm. Kamień Pomorski,03
+320704,32,kamieński,07,gm. Międzyzdroje,04
+320705,32,kamieński,07,gm. Świerzno,05
+320706,32,kamieński,07,gm. Wolin,06
+321001,32,myśliborski,10,gm. Barlinek,01
+321002,32,myśliborski,10,gm. Boleszkowice,02
+321003,32,myśliborski,10,gm. Dębno,03
+321004,32,myśliborski,10,gm. Myślibórz,04
+321005,32,myśliborski,10,gm. Nowogródek Pomorski,05
+321101,32,policki,11,gm. Dobra (Szczecińska),01
+321102,32,policki,11,gm. Kołbaskowo,02
+321103,32,policki,11,gm. Nowe Warpno,03
+321104,32,policki,11,gm. Police,04
+321201,32,pyrzycki,12,gm. Bielice,01
+321202,32,pyrzycki,12,gm. Kozielice,02
+321203,32,pyrzycki,12,gm. Lipiany,03
+321204,32,pyrzycki,12,gm. Przelewice,04
+321205,32,pyrzycki,12,gm. Pyrzyce,05
+321206,32,pyrzycki,12,gm. Warnice,06
+321401,32,stargardzki,14,m. Stargard Szczeciński,01
+321402,32,stargardzki,14,gm. Chociwel,02
+321403,32,stargardzki,14,gm. Dobrzany,03
+321404,32,stargardzki,14,gm. Dolice,04
+321405,32,stargardzki,14,gm. Ińsko,05
+321406,32,stargardzki,14,gm. Kobylanka,06
+321408,32,stargardzki,14,gm. Marianowo,08
+321409,32,stargardzki,14,gm. Stara Dąbrowa,09
+321410,32,stargardzki,14,gm. Stargard Szczeciński,10
+321411,32,stargardzki,14,gm. Suchań,11
+321801,32,łobeski,18,gm. Dobra,01
+321802,32,łobeski,18,gm. Łobez,02
+321803,32,łobeski,18,gm. Radowo Małe,03
+321804,32,łobeski,18,gm. Resko,04
+321805,32,łobeski,18,gm. Węgorzyno,05
+326201,32,m. Szczecin,62,m. Szczecin,01
+326301,32,m. Świnoujście,63,m. Świnoujście,01
+329901,32,Statki,99,Statki,01
