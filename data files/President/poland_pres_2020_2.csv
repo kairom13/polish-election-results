@@ -1,0 +1,2497 @@
+﻿code,Gmina,Powiat,Województwo,registered_voters,ballots_cast,valid_votes,duda,trzaskowski
+020101,m. Bolesławiec,bolesławiecki,dolnośląskie,29061,18929,18984,7915,11069
+020102,gm. Bolesławiec,bolesławiecki,dolnośląskie,11100,7182,7140,3607,3533
+020103,gm. Gromadka,bolesławiecki,dolnośląskie,4277,2584,2572,1617,955
+020104,gm. Nowogrodziec,bolesławiecki,dolnośląskie,11463,6578,6588,4013,2575
+020105,gm. Osiecznica,bolesławiecki,dolnośląskie,5356,3089,3080,1576,1504
+020106,gm. Warta Bolesławiecka,bolesławiecki,dolnośląskie,6543,3876,3883,2238,1645
+020201,m. Bielawa,dzierżoniowski,dolnośląskie,23065,13910,13907,6559,7348
+020202,m. Dzierżoniów,dzierżoniowski,dolnośląskie,25138,16317,16327,7396,8931
+020203,m. Pieszyce,dzierżoniowski,dolnośląskie,7380,4252,4266,2295,1971
+020204,m. Piława Górna,dzierżoniowski,dolnośląskie,4850,2852,2858,1645,1213
+020205,gm. Dzierżoniów,dzierżoniowski,dolnośląskie,7306,4750,4725,2763,1962
+020206,gm. Łagiewniki,dzierżoniowski,dolnośląskie,5804,3745,3728,2318,1410
+020207,gm. Niemcza,dzierżoniowski,dolnośląskie,4293,2527,2531,1407,1124
+020301,m. Głogów,głogowski,dolnośląskie,49537,32613,32559,16112,16447
+020302,gm. Głogów,głogowski,dolnośląskie,5205,3607,3613,2025,1588
+020303,gm. Jerzmanowa,głogowski,dolnośląskie,3899,2834,2831,1459,1372
+020304,gm. Kotla,głogowski,dolnośląskie,3372,2047,2042,1271,771
+020305,gm. Pęcław,głogowski,dolnośląskie,1672,1007,1002,747,255
+020306,gm. Żukowice,głogowski,dolnośląskie,2638,1862,1832,1108,724
+020401,gm. Góra,górowski,dolnośląskie,14871,8731,8745,4517,4228
+020402,gm. Jemielno,górowski,dolnośląskie,2357,1373,1360,928,432
+020403,gm. Niechlów,górowski,dolnośląskie,3840,2294,2278,1594,684
+020404,gm. Wąsosz,górowski,dolnośląskie,5668,3294,3332,1918,1414
+020501,m. Jawor,jaworski,dolnośląskie,17881,11231,11304,5859,5445
+020502,gm. Bolków,jaworski,dolnośląskie,8110,4739,4726,2492,2234
+020503,gm. Męcinka,jaworski,dolnośląskie,3967,2557,2537,1612,925
+020504,gm. Mściwojów,jaworski,dolnośląskie,3165,1938,1944,1096,848
+020505,gm. Paszowice,jaworski,dolnośląskie,3193,1949,1948,1123,825
+020506,gm. Wądroże Wielkie,jaworski,dolnośląskie,3191,2092,2078,1176,902
+020601,m. Karpacz,jeleniogórski,dolnośląskie,6213,4632,4628,1294,3334
+020602,m. Kowary,jeleniogórski,dolnośląskie,8192,4996,5000,1928,3072
+020603,m. Piechowice,jeleniogórski,dolnośląskie,4946,3259,3257,1195,2062
+020604,m. Szklarska Poręba,jeleniogórski,dolnośląskie,6931,5095,5101,1716,3385
+020605,gm. Janowice Wielkie,jeleniogórski,dolnośląskie,3431,2305,2287,932,1355
+020606,gm. Jeżów Sudecki,jeleniogórski,dolnośląskie,5735,3783,3830,1341,2489
+020607,gm. Mysłakowice,jeleniogórski,dolnośląskie,7976,5113,5142,2072,3070
+020608,gm. Podgórzyn,jeleniogórski,dolnośląskie,6975,4581,4597,1639,2958
+020609,gm. Stara Kamienica,jeleniogórski,dolnośląskie,4193,2514,2514,1014,1500
+020701,m. Kamienna Góra,kamiennogórski,dolnośląskie,14865,8959,8989,4189,4800
+020702,gm. Kamienna Góra,kamiennogórski,dolnośląskie,6862,4385,4381,2221,2160
+020703,gm. Lubawka,kamiennogórski,dolnośląskie,8551,5408,5374,2412,2962
+020704,gm. Marciszów,kamiennogórski,dolnośląskie,3531,2144,2122,1098,1024
+020801,m. Duszniki-Zdrój,kłodzki,dolnośląskie,4255,2809,2810,1142,1668
+020802,m. Kłodzko,kłodzki,dolnośląskie,20910,13323,13328,5726,7602
+020803,m. Kudowa-Zdrój,kłodzki,dolnośląskie,8971,6139,6163,2674,3489
+020804,m. Nowa Ruda,kłodzki,dolnośląskie,17179,9975,9988,4254,5734
+020805,m. Polanica-Zdrój,kłodzki,dolnośląskie,6116,4163,4194,1713,2481
+020806,gm. Bystrzyca Kłodzka,kłodzki,dolnośląskie,15199,9427,9459,4867,4592
+020807,gm. Kłodzko,kłodzki,dolnośląskie,13285,7903,7948,4472,3476
+020808,gm. Lądek-Zdrój,kłodzki,dolnośląskie,7076,4400,4411,2070,2341
+020809,gm. Lewin Kłodzki,kłodzki,dolnośląskie,1642,1035,1026,469,557
+020810,gm. Międzylesie,kłodzki,dolnośląskie,5808,3570,3569,1742,1827
+020811,gm. Nowa Ruda,kłodzki,dolnośląskie,9195,5506,5478,2632,2846
+020812,gm. Radków,kłodzki,dolnośląskie,7242,4400,4406,2242,2164
+020813,gm. Stronie Śląskie,kłodzki,dolnośląskie,6234,3859,3860,1612,2248
+020814,gm. Szczytna,kłodzki,dolnośląskie,5933,3670,3668,1661,2007
+020901,m. Chojnów,legnicki,dolnośląskie,9966,6108,6103,3122,2981
+020902,gm. Chojnów,legnicki,dolnośląskie,7408,4721,4720,2944,1776
+020903,gm. Krotoszyce,legnicki,dolnośląskie,2532,1696,1683,1076,607
+020904,gm. Kunice,legnicki,dolnośląskie,5355,3777,3787,1759,2028
+020905,gm. Legnickie Pole,legnicki,dolnośląskie,3781,2622,2601,1559,1042
+020906,gm. Miłkowice,legnicki,dolnośląskie,5140,3476,3466,1889,1577
+020907,gm. Prochowice,legnicki,dolnośląskie,5691,3552,3543,2001,1542
+020908,gm. Ruja,legnicki,dolnośląskie,1996,1306,1306,909,397
+021001,m. Lubań,lubański,dolnośląskie,15913,9932,9940,4154,5786
+021002,m. Świeradów-Zdrój,lubański,dolnośląskie,4049,2766,2775,1030,1745
+021003,gm. Leśna,lubański,dolnośląskie,7766,4531,4513,2273,2240
+021004,gm. Lubań,lubański,dolnośląskie,5094,3084,3068,1524,1544
+021005,gm. Olszyna,lubański,dolnośląskie,5084,2972,2959,1352,1607
+021006,gm. Platerówka,lubański,dolnośląskie,1242,959,932,548,384
+021007,gm. Siekierczyn,lubański,dolnośląskie,4002,2534,2535,1215,1320
+021101,m. Lubin,lubiński,dolnośląskie,53799,35616,35580,19200,16380
+021102,gm. Lubin,lubiński,dolnośląskie,12194,8613,8572,4629,3943
+021103,gm. Rudna,lubiński,dolnośląskie,5987,3847,3846,2517,1329
+021104,gm. Ścinawa,lubiński,dolnośląskie,7525,4822,4833,3358,1475
+021201,gm. Gryfów Śląski,lwówecki,dolnośląskie,7519,4451,4450,2078,2372
+021202,gm. Lubomierz,lwówecki,dolnośląskie,4784,2731,2724,1359,1365
+021203,gm. Lwówek Śląski,lwówecki,dolnośląskie,13226,7982,7974,3789,4185
+021204,gm. Mirsk,lwówecki,dolnośląskie,6814,3945,3954,1943,2011
+021205,gm. Wleń,lwówecki,dolnośląskie,3469,2133,2132,1037,1095
+021301,gm. Cieszków,milicki,dolnośląskie,3679,2367,2370,1465,905
+021302,gm. Krośnice,milicki,dolnośląskie,6329,3974,3972,2360,1612
+021303,gm. Milicz,milicki,dolnośląskie,18848,12007,12030,6328,5702
+021401,m. Oleśnica,oleśnicki,dolnośląskie,28141,18833,18875,8103,10772
+021402,gm. Bierutów,oleśnicki,dolnośląskie,7612,4583,4600,2604,1996
+021403,gm. Dobroszyce,oleśnicki,dolnośląskie,5237,3465,3468,1886,1582
+021404,gm. Dziadowa Kłoda,oleśnicki,dolnośląskie,3508,2241,2229,1207,1022
+021405,gm. Międzybórz,oleśnicki,dolnośląskie,3930,2357,2359,1216,1143
+021406,gm. Oleśnica,oleśnicki,dolnośląskie,10505,6675,6698,3405,3293
+021407,gm. Syców,oleśnicki,dolnośląskie,12886,8336,8361,3666,4695
+021408,gm. Twardogóra,oleśnicki,dolnośląskie,10000,6363,6395,3437,2958
+021501,m. Oława,oławski,dolnośląskie,24718,17087,17108,7505,9603
+021502,gm. Domaniów,oławski,dolnośląskie,4096,2740,2719,1694,1025
+021503,gm. Jelcz-Laskowice,oławski,dolnośląskie,17546,11976,11996,6180,5816
+021504,gm. Oława,oławski,dolnośląskie,11824,8192,8180,4446,3734
+021601,gm. Chocianów,polkowicki,dolnośląskie,9777,6312,6292,4267,2025
+021602,gm. Gaworzyce,polkowicki,dolnośląskie,2994,2044,2016,1321,695
+021603,gm. Grębocice,polkowicki,dolnośląskie,4174,2695,2692,1750,942
+021604,gm. Polkowice,polkowicki,dolnośląskie,19799,12844,12823,7340,5483
+021605,gm. Przemków,polkowicki,dolnośląskie,6453,3810,3787,2380,1407
+021606,gm. Radwanice,polkowicki,dolnośląskie,3729,2534,2514,1539,975
+021701,gm. Borów,strzeliński,dolnośląskie,4219,2890,2900,1870,1030
+021702,gm. Kondratowice,strzeliński,dolnośląskie,3399,2163,2155,1375,780
+021703,gm. Przeworno,strzeliński,dolnośląskie,3873,2437,2469,1623,846
+021704,gm. Strzelin,strzeliński,dolnośląskie,17781,11869,11904,5877,6027
+021705,gm. Wiązów,strzeliński,dolnośląskie,5739,3589,3601,2454,1147
+021801,gm. Kostomłoty,średzki,dolnośląskie,5647,3616,3617,2258,1359
+021802,gm. Malczyce,średzki,dolnośląskie,4560,2838,2855,1670,1185
+021803,gm. Miękinia,średzki,dolnośląskie,12870,9054,9089,3895,5194
+021804,gm. Środa Śląska,średzki,dolnośląskie,15157,9784,9742,5022,4720
+021805,gm. Udanin,średzki,dolnośląskie,4127,2687,2684,1811,873
+021901,m. Świdnica,świdnicki,dolnośląskie,42572,28827,28893,11560,17333
+021902,m. Świebodzice,świdnicki,dolnośląskie,17102,10855,10889,4807,6082
+021903,gm. Dobromierz,świdnicki,dolnośląskie,4089,2476,2456,1473,983
+021904,gm. Jaworzyna Śląska,świdnicki,dolnośląskie,7998,4719,4724,2533,2191
+021905,gm. Marcinowice,świdnicki,dolnośląskie,5111,3579,3562,2061,1501
+021906,gm. Strzegom,świdnicki,dolnośląskie,19907,12483,12467,6641,5826
+021907,gm. Świdnica,świdnicki,dolnośląskie,13866,8714,8717,4219,4498
+021908,gm. Żarów,świdnicki,dolnośląskie,9653,5882,5868,3040,2828
+022001,gm. Oborniki Śląskie,trzebnicki,dolnośląskie,15767,11212,11259,5105,6154
+022002,gm. Prusice,trzebnicki,dolnośląskie,7387,4797,4789,2906,1883
+022003,gm. Trzebnica,trzebnicki,dolnośląskie,18569,12737,12729,6282,6447
+022004,gm. Wisznia Mała,trzebnicki,dolnośląskie,8201,6106,6095,2938,3157
+022005,gm. Zawonia,trzebnicki,dolnośląskie,4679,2949,2938,1630,1308
+022006,gm. Żmigród,trzebnicki,dolnośląskie,11360,7106,7095,3766,3329
+022101,m. Boguszów-Gorce,wałbrzyski,dolnośląskie,11509,6430,6420,2618,3802
+022102,m. Jedlina-Zdrój,wałbrzyski,dolnośląskie,3711,2371,2400,915,1485
+022103,m. Szczawno-Zdrój,wałbrzyski,dolnośląskie,4587,3228,3271,1113,2158
+022104,gm. Czarny Bór,wałbrzyski,dolnośląskie,3798,2582,2568,1312,1256
+022105,gm. Głuszyca,wałbrzyski,dolnośląskie,6790,4041,4039,1648,2391
+022106,gm. Mieroszów,wałbrzyski,dolnośląskie,5232,3132,3117,1368,1749
+022107,gm. Stare Bogaczowice,wałbrzyski,dolnośląskie,3306,2189,2188,1002,1186
+022108,gm. Walim,wałbrzyski,dolnośląskie,4457,2765,2769,1289,1480
+022201,gm. Brzeg Dolny,wołowski,dolnośląskie,12380,8098,8056,3766,4290
+022202,gm. Wińsko,wołowski,dolnośląskie,6634,4124,4141,2948,1193
+022203,gm. Wołów,wołowski,dolnośląskie,18479,11702,11682,6133,5549
+022301,gm. Czernica,wrocławski,dolnośląskie,12506,9965,9959,3749,6210
+022302,gm. Długołęka,wrocławski,dolnośląskie,25561,19568,19592,8154,11438
+022303,gm. Jordanów Śląski,wrocławski,dolnośląskie,2537,2095,2044,1280,764
+022304,gm. Kąty Wrocławskie,wrocławski,dolnośląskie,18578,13571,13557,5841,7716
+022305,gm. Kobierzyce,wrocławski,dolnośląskie,15288,11440,11467,4144,7323
+022306,gm. Mietków,wrocławski,dolnośląskie,3115,2166,2146,1207,939
+022307,gm. Sobótka,wrocławski,dolnośląskie,10132,6603,6602,3364,3238
+022308,gm. Siechnice,wrocławski,dolnośląskie,18158,12860,12973,4933,8040
+022309,gm. Żórawina,wrocławski,dolnośląskie,8611,6197,6168,2694,3474
+022401,gm. Bardo,ząbkowicki,dolnośląskie,4215,2582,2604,1307,1297
+022402,gm. Ciepłowody,ząbkowicki,dolnośląskie,2457,1608,1596,989,607
+022403,gm. Kamieniec Ząbkowicki,ząbkowicki,dolnośląskie,6538,3921,3949,2123,1826
+022404,gm. Stoszowice,ząbkowicki,dolnośląskie,4278,2541,2545,1482,1063
+022405,gm. Ząbkowice Śląskie,ząbkowicki,dolnośląskie,16819,10588,10581,5330,5251
+022406,gm. Ziębice,ząbkowicki,dolnośląskie,13365,8082,8120,4770,3350
+022407,gm. Złoty Stok,ząbkowicki,dolnośląskie,3563,2143,2147,1140,1007
+022501,m. Zawidów,zgorzelecki,dolnośląskie,3168,1931,1944,906,1038
+022502,m. Zgorzelec,zgorzelecki,dolnośląskie,23702,15609,15647,6555,9092
+022503,gm. Bogatynia,zgorzelecki,dolnośląskie,17640,10775,10672,5316,5356
+022504,gm. Pieńsk,zgorzelecki,dolnośląskie,6879,3852,3865,1930,1935
+022505,gm. Sulików,zgorzelecki,dolnośląskie,4656,2780,2807,1651,1156
+022506,gm. Węgliniec,zgorzelecki,dolnośląskie,6445,3789,3782,1876,1906
+022507,gm. Zgorzelec,zgorzelecki,dolnośląskie,6673,4183,4149,2118,2031
+022601,m. Wojcieszów,złotoryjski,dolnośląskie,2766,1654,1651,741,910
+022602,m. Złotoryja,złotoryjski,dolnośląskie,11959,7774,7778,3508,4270
+022603,gm. Pielgrzymka,złotoryjski,dolnośląskie,3567,2115,2100,1183,917
+022604,gm. Świerzawa,złotoryjski,dolnośląskie,5919,3526,3531,1752,1779
+022605,gm. Zagrodno,złotoryjski,dolnośląskie,4144,2577,2561,1721,840
+022606,gm. Złotoryja,złotoryjski,dolnośląskie,5364,3399,3393,1883,1510
+026101,m. Jelenia Góra,Jelenia Góra,dolnośląskie,60866,40401,40445,14403,26042
+026201,m. Legnica,Legnica,dolnośląskie,72273,46816,46830,21190,25640
+026401,m. Wrocław,Wrocław,dolnośląskie,501319,364567,365345,121958,243387
+026501,m. Wałbrzych,Wałbrzych,dolnośląskie,81030,49609,49512,19628,29884
+040101,m. Aleksandrów Kujawski,aleksandrowski,kujawsko-pomorskie,9536,5956,5944,2707,3237
+040102,m. Ciechocinek,aleksandrowski,kujawsko-pomorskie,10330,7641,7714,3560,4154
+040103,m. Nieszawa,aleksandrowski,kujawsko-pomorskie,1516,973,963,523,440
+040104,gm. Aleksandrów Kujawski,aleksandrowski,kujawsko-pomorskie,9063,5556,5548,3254,2294
+040105,gm. Bądkowo,aleksandrowski,kujawsko-pomorskie,3391,2129,2127,1363,764
+040106,gm. Koneck,aleksandrowski,kujawsko-pomorskie,2620,1600,1590,1085,505
+040107,gm. Raciążek,aleksandrowski,kujawsko-pomorskie,2562,1728,1730,1019,711
+040108,gm. Waganiec,aleksandrowski,kujawsko-pomorskie,3602,2351,2355,1667,688
+040109,gm. Zakrzewo,aleksandrowski,kujawsko-pomorskie,2811,1691,1686,1020,666
+040201,m. Brodnica,brodnicki,kujawsko-pomorskie,21309,13812,13836,6304,7532
+040202,gm. Bobrowo,brodnicki,kujawsko-pomorskie,5097,3115,3110,1958,1152
+040203,gm. Brodnica,brodnicki,kujawsko-pomorskie,6350,3948,3935,2049,1886
+040204,gm. Brzozie,brodnicki,kujawsko-pomorskie,3024,2091,2080,1466,614
+040205,gm. Górzno,brodnicki,kujawsko-pomorskie,3197,2070,2069,1360,709
+040206,gm. Bartniczka,brodnicki,kujawsko-pomorskie,3606,2230,2214,1560,654
+040207,gm. Jabłonowo Pomorskie,brodnicki,kujawsko-pomorskie,6927,3959,3961,2440,1521
+040208,gm. Osiek,brodnicki,kujawsko-pomorskie,3102,1811,1816,1215,601
+040209,gm. Świedziebnia,brodnicki,kujawsko-pomorskie,4017,2412,2392,1670,722
+040210,gm. Zbiczno,brodnicki,kujawsko-pomorskie,4095,2924,2904,1456,1448
+040301,gm. Białe Błota,bydgoski,kujawsko-pomorskie,16423,12119,12096,4049,8047
+040302,gm. Dąbrowa Chełmińska,bydgoski,kujawsko-pomorskie,6387,3964,3969,1899,2070
+040303,gm. Dobrcz,bydgoski,kujawsko-pomorskie,9013,6283,6255,2815,3440
+040304,gm. Koronowo,bydgoski,kujawsko-pomorskie,18919,12111,12107,5680,6427
+040305,gm. Nowa Wieś Wielka,bydgoski,kujawsko-pomorskie,7704,5113,5103,2032,3071
+040306,gm. Osielsko,bydgoski,kujawsko-pomorskie,10790,8594,8669,2577,6092
+040307,gm. Sicienko,bydgoski,kujawsko-pomorskie,7939,5292,5273,2317,2956
+040308,gm. Solec Kujawski,bydgoski,kujawsko-pomorskie,12170,8195,8192,3167,5025
+040401,m. Chełmno,chełmiński,kujawsko-pomorskie,13989,8832,8837,3522,5315
+040402,gm. Chełmno,chełmiński,kujawsko-pomorskie,4562,2562,2546,1315,1231
+040403,gm. Kijewo Królewskie,chełmiński,kujawsko-pomorskie,3402,2185,2174,1214,960
+040404,gm. Lisewo,chełmiński,kujawsko-pomorskie,3843,2308,2303,1377,926
+040405,gm. Papowo Biskupie,chełmiński,kujawsko-pomorskie,3313,1848,1839,1111,728
+040406,gm. Stolno,chełmiński,kujawsko-pomorskie,4004,2412,2391,1358,1033
+040407,gm. Unisław,chełmiński,kujawsko-pomorskie,5208,3147,3160,1721,1439
+040501,m. Golub-Dobrzyń,golubsko-dobrzyński,kujawsko-pomorskie,9266,5721,5727,2985,2742
+040502,gm. Ciechocin,golubsko-dobrzyński,kujawsko-pomorskie,3223,2060,2062,1379,683
+040503,gm. Golub-Dobrzyń,golubsko-dobrzyński,kujawsko-pomorskie,7053,4234,4227,2586,1641
+040504,gm. Kowalewo Pomorskie,golubsko-dobrzyński,kujawsko-pomorskie,8732,5521,5508,3106,2402
+040505,gm. Radomin,golubsko-dobrzyński,kujawsko-pomorskie,3252,2020,2029,1476,553
+040506,gm. Zbójno,golubsko-dobrzyński,kujawsko-pomorskie,3510,2027,2015,1375,640
+040601,gm. Grudziądz,grudziądzki,kujawsko-pomorskie,9507,5936,5910,2757,3153
+040602,gm. Gruta,grudziądzki,kujawsko-pomorskie,4979,3037,3038,1864,1174
+040603,gm. Łasin,grudziądzki,kujawsko-pomorskie,6017,3501,3524,2164,1360
+040604,gm. Radzyń Chełmiński,grudziądzki,kujawsko-pomorskie,3646,2049,2040,1242,798
+040605,gm. Rogóźno,grudziądzki,kujawsko-pomorskie,3169,1875,1857,1155,702
+040606,gm. Świecie nad Osą,grudziądzki,kujawsko-pomorskie,3240,1679,1673,1168,505
+040701,m. Inowrocław,inowrocławski,kujawsko-pomorskie,55844,37060,37096,14401,22695
+040702,gm. Dąbrowa Biskupia,inowrocławski,kujawsko-pomorskie,3926,2262,2247,1349,898
+040703,gm. Gniewkowo,inowrocławski,kujawsko-pomorskie,10959,6671,6676,3580,3096
+040704,gm. Inowrocław,inowrocławski,kujawsko-pomorskie,9352,5910,5904,3034,2870
+040705,gm. Janikowo,inowrocławski,kujawsko-pomorskie,10382,6265,6270,3209,3061
+040706,gm. Kruszwica,inowrocławski,kujawsko-pomorskie,15498,9237,9213,5067,4146
+040707,gm. Pakość,inowrocławski,kujawsko-pomorskie,7613,4654,4643,2356,2287
+040708,gm. Rojewo,inowrocławski,kujawsko-pomorskie,3587,2118,2112,1324,788
+040709,gm. Złotniki Kujawskie,inowrocławski,kujawsko-pomorskie,7088,4348,4345,2321,2024
+040801,m. Lipno,lipnowski,kujawsko-pomorskie,11064,6490,6471,3088,3383
+040802,gm. Bobrowniki,lipnowski,kujawsko-pomorskie,2416,1433,1443,851,592
+040803,gm. Chrostkowo,lipnowski,kujawsko-pomorskie,2359,1373,1379,1008,371
+040804,gm. Dobrzyń nad Wisłą,lipnowski,kujawsko-pomorskie,6103,3560,3564,2366,1198
+040805,gm. Kikół,lipnowski,kujawsko-pomorskie,5613,3196,3199,2040,1159
+040806,gm. Lipno,lipnowski,kujawsko-pomorskie,9050,5173,5133,3232,1901
+040807,gm. Skępe,lipnowski,kujawsko-pomorskie,6152,3865,3855,2234,1621
+040808,gm. Tłuchowo,lipnowski,kujawsko-pomorskie,3639,2117,2166,1554,612
+040809,gm. Wielgie,lipnowski,kujawsko-pomorskie,5214,2961,2952,1791,1161
+040901,gm. Dąbrowa,mogileński,kujawsko-pomorskie,3604,2174,2168,1243,925
+040902,gm. Jeziora Wielkie,mogileński,kujawsko-pomorskie,3905,2418,2425,1519,906
+040903,gm. Mogilno,mogileński,kujawsko-pomorskie,19351,12324,12292,6109,6183
+040904,gm. Strzelno,mogileński,kujawsko-pomorskie,9404,5529,5513,3055,2458
+041001,gm. Kcynia,nakielski,kujawsko-pomorskie,10071,6088,6101,3477,2624
+041002,gm. Mrocza,nakielski,kujawsko-pomorskie,6873,4097,4071,2302,1769
+041003,gm. Nakło nad Notecią,nakielski,kujawsko-pomorskie,24274,15570,15524,7080,8444
+041004,gm. Sadki,nakielski,kujawsko-pomorskie,5557,3356,3358,1904,1454
+041005,gm. Szubin,nakielski,kujawsko-pomorskie,18454,11622,11621,5295,6326
+041101,m. Radziejów,radziejowski,kujawsko-pomorskie,4490,2897,2901,1569,1332
+041102,gm. Bytoń,radziejowski,kujawsko-pomorskie,2901,1891,1906,1411,495
+041103,gm. Dobre,radziejowski,kujawsko-pomorskie,4246,2499,2505,1651,854
+041104,gm. Osięciny,radziejowski,kujawsko-pomorskie,6148,3708,3702,2443,1259
+041105,gm. Piotrków Kujawski,radziejowski,kujawsko-pomorskie,7625,4828,4816,3262,1554
+041106,gm. Radziejów,radziejowski,kujawsko-pomorskie,3524,2195,2205,1430,775
+041107,gm. Topólka,radziejowski,kujawsko-pomorskie,4352,2842,2841,1711,1130
+041201,m. Rypin,rypiński,kujawsko-pomorskie,12277,7869,7906,3889,4017
+041202,gm. Brzuze,rypiński,kujawsko-pomorskie,4297,2582,2578,1638,940
+041203,gm. Rogowo,rypiński,kujawsko-pomorskie,3873,2345,2344,1652,692
+041204,gm. Rypin,rypiński,kujawsko-pomorskie,5869,3406,3394,2117,1277
+041205,gm. Skrwilno,rypiński,kujawsko-pomorskie,4633,2893,2875,2059,816
+041206,gm. Wąpielsk,rypiński,kujawsko-pomorskie,3221,1840,1829,1214,615
+041301,gm. Kamień Krajeński,sępoleński,kujawsko-pomorskie,5252,3145,3134,1740,1394
+041302,gm. Sępólno Krajeńskie,sępoleński,kujawsko-pomorskie,12028,7582,7576,3542,4034
+041303,gm. Sośno,sępoleński,kujawsko-pomorskie,3739,2147,2148,1332,816
+041304,gm. Więcbork,sępoleński,kujawsko-pomorskie,10113,6123,6125,3268,2857
+041401,gm. Bukowiec,świecki,kujawsko-pomorskie,3854,2305,2284,1446,838
+041402,gm. Dragacz,świecki,kujawsko-pomorskie,5399,3141,3150,1566,1584
+041403,gm. Drzycim,świecki,kujawsko-pomorskie,3801,2300,2294,1421,873
+041404,gm. Jeżewo,świecki,kujawsko-pomorskie,6158,3723,3710,2136,1574
+041405,gm. Lniano,świecki,kujawsko-pomorskie,3388,2189,2190,1302,888
+041406,gm. Nowe,świecki,kujawsko-pomorskie,7742,4402,4424,2225,2199
+041407,gm. Osie,świecki,kujawsko-pomorskie,4663,2918,2907,1411,1496
+041408,gm. Pruszcz,świecki,kujawsko-pomorskie,7288,4683,4666,2455,2211
+041409,gm. Świecie,świecki,kujawsko-pomorskie,24934,15888,15861,6787,9074
+041410,gm. Świekatowo,świecki,kujawsko-pomorskie,2879,1823,1809,1027,782
+041411,gm. Warlubie,świecki,kujawsko-pomorskie,4960,2774,2783,1635,1148
+041501,m. Chełmża,toruński,kujawsko-pomorskie,10546,6397,6393,2980,3413
+041502,gm. Chełmża,toruński,kujawsko-pomorskie,7561,4415,4417,2580,1837
+041503,gm. Czernikowo,toruński,kujawsko-pomorskie,7030,4107,4094,2352,1742
+041504,gm. Lubicz,toruński,kujawsko-pomorskie,14940,10398,10407,4848,5559
+041505,gm. Łubianka,toruński,kujawsko-pomorskie,5480,3703,3708,1854,1854
+041506,gm. Łysomice,toruński,kujawsko-pomorskie,7762,5155,5162,2229,2933
+041507,gm. Obrowo,toruński,kujawsko-pomorskie,12959,9073,9072,4253,4819
+041508,gm. Wielka Nieszawka,toruński,kujawsko-pomorskie,3774,2662,2665,1036,1629
+041509,gm. Zławieś Wielka,toruński,kujawsko-pomorskie,10661,6973,6997,2985,4012
+041601,gm. Cekcyn,tucholski,kujawsko-pomorskie,5492,3631,3608,2094,1514
+041602,gm. Gostycyn,tucholski,kujawsko-pomorskie,4025,2362,2367,1420,947
+041603,gm. Kęsowo,tucholski,kujawsko-pomorskie,3441,2132,2138,1371,767
+041604,gm. Lubiewo,tucholski,kujawsko-pomorskie,4776,3101,3082,1903,1179
+041605,gm. Śliwice,tucholski,kujawsko-pomorskie,4761,3290,3286,1962,1324
+041606,gm. Tuchola,tucholski,kujawsko-pomorskie,15505,9976,9971,5230,4741
+041701,m. Wąbrzeźno,wąbrzeski,kujawsko-pomorskie,10004,6241,6235,2530,3705
+041702,gm. Dębowa Łąka,wąbrzeski,kujawsko-pomorskie,2453,1376,1374,877,497
+041703,gm. Książki,wąbrzeski,kujawsko-pomorskie,3231,1847,1849,1086,763
+041704,gm. Płużnica,wąbrzeski,kujawsko-pomorskie,3709,2127,2126,1208,918
+041705,gm. Ryńsk,wąbrzeski,kujawsko-pomorskie,6665,3846,3831,2234,1597
+041801,m. Kowal,włocławski,kujawsko-pomorskie,2764,1858,1843,921,922
+041802,gm. Baruchowo,włocławski,kujawsko-pomorskie,3013,1943,1948,1178,770
+041803,gm. Boniewo,włocławski,kujawsko-pomorskie,2799,2023,1989,1297,692
+041804,gm. Brześć Kujawski,włocławski,kujawsko-pomorskie,9241,5678,5663,2895,2768
+041805,gm. Choceń,włocławski,kujawsko-pomorskie,6479,3632,3646,2217,1429
+041806,gm. Chodecz,włocławski,kujawsko-pomorskie,5260,3158,3153,1895,1258
+041807,gm. Fabianki,włocławski,kujawsko-pomorskie,7598,4783,4786,2162,2624
+041808,gm. Izbica Kujawska,włocławski,kujawsko-pomorskie,6051,3692,3694,2643,1051
+041809,gm. Kowal,włocławski,kujawsko-pomorskie,3237,1935,1944,1230,714
+041810,gm. Lubanie,włocławski,kujawsko-pomorskie,3610,2422,2420,1596,824
+041811,gm. Lubień Kujawski,włocławski,kujawsko-pomorskie,5923,3362,3370,2313,1057
+041812,gm. Lubraniec,włocławski,kujawsko-pomorskie,7571,4698,4728,2946,1782
+041813,gm. Włocławek,włocławski,kujawsko-pomorskie,5861,3842,3837,1937,1900
+041901,gm. Barcin,żniński,kujawsko-pomorskie,11000,6866,6905,2945,3960
+041902,gm. Gąsawa,żniński,kujawsko-pomorskie,4322,2781,2763,1601,1162
+041903,gm. Janowiec Wielkopolski,żniński,kujawsko-pomorskie,6909,4346,4303,2364,1939
+041904,gm. Łabiszyn,żniński,kujawsko-pomorskie,7799,4813,4809,2517,2292
+041905,gm. Rogowo,żniński,kujawsko-pomorskie,5302,3519,3495,2013,1482
+041906,gm. Żnin,żniński,kujawsko-pomorskie,18946,11916,11905,6322,5583
+046101,m. Bydgoszcz,Bydgoszcz,kujawsko-pomorskie,255625,177645,177857,66131,111726
+046201,m. Grudziądz,Grudziądz,kujawsko-pomorskie,67400,42706,42638,17782,24856
+046301,m. Toruń,Toruń,kujawsko-pomorskie,147733,103739,103899,38332,65567
+046401,m. Włocławek,Włocławek,kujawsko-pomorskie,83294,53744,53721,21244,32477
+060101,m. Międzyrzec Podlaski,bialski,lubelskie,12995,8552,8551,5699,2852
+060102,m. Terespol,bialski,lubelskie,4348,2792,2855,1644,1211
+060103,gm. Biała Podlaska,bialski,lubelskie,11151,7354,7359,4845,2514
+060104,gm. Drelów,bialski,lubelskie,4265,2574,2568,2004,564
+060105,gm. Janów Podlaski,bialski,lubelskie,4208,2569,2577,1690,887
+060106,gm. Kodeń,bialski,lubelskie,2998,1761,1818,1223,595
+060107,gm. Konstantynów,bialski,lubelskie,3202,2007,1994,1431,563
+060108,gm. Leśna Podlaska,bialski,lubelskie,3370,2172,2162,1664,498
+060109,gm. Łomazy,bialski,lubelskie,4025,2508,2528,1892,636
+060110,gm. Międzyrzec Podlaski,bialski,lubelskie,8039,5442,5436,4444,992
+060111,gm. Piszczac,bialski,lubelskie,5643,2654,2974,2238,736
+060112,gm. Rokitno,bialski,lubelskie,2382,1462,1470,1072,398
+060113,gm. Rossosz,bialski,lubelskie,1791,1447,1399,1007,392
+060114,gm. Sławatycze,bialski,lubelskie,1973,1224,1214,776,438
+060115,gm. Sosnówka,bialski,lubelskie,2038,1126,1119,786,333
+060116,gm. Terespol,bialski,lubelskie,5201,3245,3269,2316,953
+060117,gm. Tuczna,bialski,lubelskie,2537,1428,1437,1059,378
+060118,gm. Wisznice,bialski,lubelskie,3920,2464,2468,1669,799
+060119,gm. Zalesie,bialski,lubelskie,3523,2077,2078,1465,613
+060201,m. Biłgoraj,biłgorajski,lubelskie,20518,13458,13468,8072,5396
+060202,gm. Aleksandrów,biłgorajski,lubelskie,2604,1609,1619,1379,240
+060203,gm. Biłgoraj,biłgorajski,lubelskie,10427,6767,6718,5337,1381
+060204,gm. Biszcza,biłgorajski,lubelskie,3050,1953,1944,1597,347
+060205,gm. Frampol,biłgorajski,lubelskie,4996,3139,3156,2479,677
+060206,gm. Goraj,biłgorajski,lubelskie,3360,2111,2122,1813,309
+060207,gm. Józefów,biłgorajski,lubelskie,5726,3446,3435,2346,1089
+060208,gm. Księżpol,biłgorajski,lubelskie,5459,3728,3697,3029,668
+060209,gm. Łukowa,biłgorajski,lubelskie,3466,2288,2274,1874,400
+060210,gm. Obsza,biłgorajski,lubelskie,3397,2226,2214,1856,358
+060211,gm. Potok Górny,biłgorajski,lubelskie,4377,2877,2881,2496,385
+060212,gm. Tarnogród,biłgorajski,lubelskie,5313,3507,3498,2709,789
+060213,gm. Tereszpol,biłgorajski,lubelskie,3174,1973,1969,1476,493
+060214,gm. Turobin,biłgorajski,lubelskie,5117,3583,3610,3069,541
+060301,m. Rejowiec Fabryczny,chełmski,lubelskie,3491,2007,2017,1300,717
+060302,gm. Białopole,chełmski,lubelskie,2379,1291,1287,1015,272
+060303,gm. Chełm,chełmski,lubelskie,11514,7058,7113,4670,2443
+060304,gm. Dorohusk,chełmski,lubelskie,5132,3102,3091,2329,762
+060305,gm. Dubienka,chełmski,lubelskie,1999,1197,1201,771,430
+060306,gm. Kamień,chełmski,lubelskie,3317,1915,1906,1363,543
+060307,gm. Leśniowice,chełmski,lubelskie,3031,1641,1630,1102,528
+060308,gm. Rejowiec Fabryczny,chełmski,lubelskie,3443,2001,2037,1637,400
+060309,gm. Ruda-Huta,chełmski,lubelskie,3604,2017,2009,1430,579
+060310,gm. Sawin,chełmski,lubelskie,4392,2560,2562,1867,695
+060311,gm. Siedliszcze,chełmski,lubelskie,5415,3022,3022,2402,620
+060312,gm. Wierzbica,chełmski,lubelskie,4025,2589,2570,2058,512
+060313,gm. Wojsławice,chełmski,lubelskie,3163,1869,1888,1510,378
+060314,gm. Żmudź,chełmski,lubelskie,2551,1443,1434,1055,379
+060315,gm. Rejowiec,chełmski,lubelskie,5071,2770,2801,2014,787
+060401,m. Hrubieszów,hrubieszowski,lubelskie,14484,8836,8881,5107,3774
+060402,gm. Dołhobyczów,hrubieszowski,lubelskie,4342,2373,2374,1822,552
+060403,gm. Horodło,hrubieszowski,lubelskie,4182,2305,2287,1703,584
+060404,gm. Hrubieszów,hrubieszowski,lubelskie,8115,4603,4618,3571,1047
+060405,gm. Mircze,hrubieszowski,lubelskie,5931,3266,3279,2470,809
+060406,gm. Trzeszczany,hrubieszowski,lubelskie,3378,1961,1970,1529,441
+060407,gm. Uchanie,hrubieszowski,lubelskie,3762,2336,2320,1949,371
+060408,gm. Werbkowice,hrubieszowski,lubelskie,7615,4460,4449,3450,999
+060501,gm. Batorz,janowski,lubelskie,2645,1960,2000,1753,247
+060502,gm. Chrzanów,janowski,lubelskie,2318,1886,1896,1789,107
+060503,gm. Dzwola,janowski,lubelskie,5048,3552,3563,3296,267
+060504,gm. Godziszów,janowski,lubelskie,4682,3704,3676,3501,175
+060505,gm. Janów Lubelski,janowski,lubelskie,12674,8572,8655,6432,2223
+060506,gm. Modliborzyce,janowski,lubelskie,5671,3724,3692,3026,666
+060507,gm. Potok Wielki,janowski,lubelskie,3763,2410,2401,1998,403
+060601,m. Krasnystaw,krasnostawski,lubelskie,15073,9431,9410,5315,4095
+060602,gm. Fajsławice,krasnostawski,lubelskie,3772,2502,2531,2001,530
+060603,gm. Gorzków,krasnostawski,lubelskie,2920,1790,1810,1360,450
+060604,gm. Izbica,krasnostawski,lubelskie,6727,4000,4011,3003,1008
+060605,gm. Krasnystaw,krasnostawski,lubelskie,6886,4087,4150,2948,1202
+060606,gm. Kraśniczyn,krasnostawski,lubelskie,3212,1861,1867,1349,518
+060607,gm. Łopiennik Górny,krasnostawski,lubelskie,3241,1943,1971,1592,379
+060609,gm. Rudnik,krasnostawski,lubelskie,2566,1485,1525,1199,326
+060610,gm. Siennica Różana,krasnostawski,lubelskie,3459,1957,1965,1209,756
+060611,gm. Żółkiewka,krasnostawski,lubelskie,4504,2588,2599,2124,475
+060701,m. Kraśnik,kraśnicki,lubelskie,26602,17115,17032,10461,6571
+060702,gm. Annopol,kraśnicki,lubelskie,7003,4459,4469,3426,1043
+060703,gm. Dzierzkowice,kraśnicki,lubelskie,4217,2775,2746,2094,652
+060704,gm. Gościeradów,kraśnicki,lubelskie,5693,3535,3570,2783,787
+060705,gm. Kraśnik,kraśnicki,lubelskie,5650,3584,3599,2717,882
+060706,gm. Szastarka,kraśnicki,lubelskie,4661,3121,3134,2700,434
+060707,gm. Trzydnik Duży,kraśnicki,lubelskie,5145,3263,3247,2464,783
+060708,gm. Urzędów,kraśnicki,lubelskie,6920,4590,4570,3558,1012
+060709,gm. Wilkołaz,kraśnicki,lubelskie,4310,3140,3131,2582,549
+060710,gm. Zakrzówek,kraśnicki,lubelskie,5201,3378,3398,2757,641
+060801,m. Lubartów,lubartowski,lubelskie,16829,11782,11748,6720,5028
+060802,gm. Abramów,lubartowski,lubelskie,3210,2189,2179,1917,262
+060803,gm. Firlej,lubartowski,lubelskie,4737,3028,3013,2241,772
+060804,gm. Jeziorzany,lubartowski,lubelskie,2213,1406,1396,1143,253
+060805,gm. Kamionka,lubartowski,lubelskie,5103,3287,3276,2335,941
+060806,gm. Kock,lubartowski,lubelskie,5074,3335,3323,2686,637
+060807,gm. Lubartów,lubartowski,lubelskie,8976,6101,6135,4235,1900
+060808,gm. Michów,lubartowski,lubelskie,4990,3084,3083,2466,617
+060809,gm. Niedźwiada,lubartowski,lubelskie,5021,3374,3346,2731,615
+060810,gm. Ostrów Lubelski,lubartowski,lubelskie,4222,2764,2751,2112,639
+060811,gm. Ostrówek,lubartowski,lubelskie,3066,1988,1973,1609,364
+060812,gm. Serniki,lubartowski,lubelskie,3953,2711,2688,2187,501
+060813,gm. Uścimów,lubartowski,lubelskie,2692,1798,1797,1311,486
+060901,gm. Bełżyce,lubelski,lubelskie,10490,6863,6856,5018,1838
+060902,gm. Borzechów,lubelski,lubelskie,3104,2153,2155,1811,344
+060903,gm. Bychawa,lubelski,lubelskie,9321,6033,6081,4573,1508
+060904,gm. Garbów,lubelski,lubelskie,7130,4852,4822,3548,1274
+060905,gm. Głusk,lubelski,lubelskie,8882,6440,6447,3827,2620
+060906,gm. Jabłonna,lubelski,lubelskie,6355,4029,4035,2932,1103
+060907,gm. Jastków,lubelski,lubelskie,10983,7849,7886,5087,2799
+060908,gm. Konopnica,lubelski,lubelskie,10908,7918,7914,4294,3620
+060909,gm. Krzczonów,lubelski,lubelskie,3723,2417,2421,1814,607
+060910,gm. Niedrzwica Duża,lubelski,lubelskie,9062,6186,6195,4416,1779
+060911,gm. Niemce,lubelski,lubelskie,15391,10759,10708,6837,3871
+060912,gm. Strzyżewice,lubelski,lubelskie,6251,4118,4125,2953,1172
+060913,gm. Wojciechów,lubelski,lubelskie,4726,3191,3186,2375,811
+060914,gm. Wólka,lubelski,lubelskie,9200,6528,6489,4039,2450
+060915,gm. Wysokie,lubelski,lubelskie,3802,2476,2471,2023,448
+060916,gm. Zakrzew,lubelski,lubelskie,2428,1568,1563,1343,220
+061001,gm. Cyców,łęczyński,lubelskie,6041,3835,3869,2994,875
+061002,gm. Ludwin,łęczyński,lubelskie,4584,3075,3054,2144,910
+061003,gm. Łęczna,łęczyński,lubelskie,17551,11884,11903,7926,3977
+061004,gm. Milejów,łęczyński,lubelskie,7081,4362,4359,3254,1105
+061005,gm. Puchaczów,łęczyński,lubelskie,4412,3045,3044,2314,730
+061006,gm. Spiczyn,łęczyński,lubelskie,4474,2785,2764,1896,868
+061101,m. Łuków,łukowski,lubelskie,22378,15681,15658,9848,5810
+061102,m. Stoczek Łukowski,łukowski,lubelskie,2020,1469,1475,977,498
+061103,gm. Adamów,łukowski,lubelskie,4379,2860,2859,2178,681
+061104,gm. Krzywda,łukowski,lubelskie,7981,5185,5193,4270,923
+061105,gm. Łuków,łukowski,lubelskie,13669,9521,9497,7767,1730
+061106,gm. Serokomla,łukowski,lubelskie,3161,2060,2055,1724,331
+061107,gm. Stanin,łukowski,lubelskie,7462,5159,5129,4319,810
+061108,gm. Stoczek Łukowski,łukowski,lubelskie,6294,4382,4379,3743,636
+061109,gm. Trzebieszów,łukowski,lubelskie,5784,4506,4451,3949,502
+061110,gm. Wojcieszków,łukowski,lubelskie,5336,3596,3607,3063,544
+061111,gm. Wola Mysłowska,łukowski,lubelskie,3911,2821,2815,2393,422
+061201,gm. Chodel,opolski,lubelskie,5284,3385,3375,2793,582
+061202,gm. Józefów nad Wisłą,opolski,lubelskie,5282,3276,3272,2506,766
+061203,gm. Karczmiska,opolski,lubelskie,4467,2690,2683,1968,715
+061204,gm. Łaziska,opolski,lubelskie,3942,2503,2498,1943,555
+061205,gm. Opole Lubelskie,opolski,lubelskie,14161,8922,8936,6140,2796
+061206,gm. Poniatowa,opolski,lubelskie,11176,7394,7392,5075,2317
+061207,gm. Wilków,opolski,lubelskie,3672,2435,2440,1989,451
+061301,gm. Dębowa Kłoda,parczewski,lubelskie,3350,2035,2018,1403,615
+061302,gm. Jabłoń,parczewski,lubelskie,3041,2083,2061,1588,473
+061303,gm. Milanów,parczewski,lubelskie,3012,1840,1837,1358,479
+061304,gm. Parczew,parczewski,lubelskie,11631,7424,7428,4515,2913
+061305,gm. Podedwórze,parczewski,lubelskie,1397,862,862,635,227
+061306,gm. Siemień,parczewski,lubelskie,3736,2311,2301,1778,523
+061307,gm. Sosnowica,parczewski,lubelskie,2191,1408,1401,951,450
+061401,m. Puławy,puławski,lubelskie,36756,25066,25087,13156,11931
+061402,gm. Baranów,puławski,lubelskie,3183,2096,2088,1581,507
+061403,gm. Janowiec,puławski,lubelskie,3120,2126,2120,1380,740
+061404,gm. Kazimierz Dolny,puławski,lubelskie,6315,4356,4348,2526,1822
+061405,gm. Końskowola,puławski,lubelskie,7117,4887,4865,3410,1455
+061406,gm. Kurów,puławski,lubelskie,6095,4034,4031,2958,1073
+061407,gm. Markuszów,puławski,lubelskie,2379,1672,1651,1237,414
+061408,gm. Nałęczów,puławski,lubelskie,7892,5593,5640,3601,2039
+061409,gm. Puławy,puławski,lubelskie,9686,6558,6577,4353,2224
+061410,gm. Wąwolnica,puławski,lubelskie,3821,2546,2536,1949,587
+061411,gm. Żyrzyn,puławski,lubelskie,5156,3513,3520,2693,827
+061501,m. Radzyń Podlaski,radzyński,lubelskie,12470,8071,8028,4989,3039
+061502,gm. Borki,radzyński,lubelskie,4824,2934,2945,2325,620
+061503,gm. Czemierniki,radzyński,lubelskie,3462,2430,2398,1806,592
+061504,gm. Kąkolewnica,radzyński,lubelskie,6425,4272,4283,3639,644
+061505,gm. Komarówka Podlaska,radzyński,lubelskie,3489,2178,2149,1620,529
+061506,gm. Radzyń Podlaski,radzyński,lubelskie,6389,4067,4050,3166,884
+061507,gm. Ulan-Majorat,radzyński,lubelskie,4656,3204,3178,2707,471
+061508,gm. Wohyń,radzyński,lubelskie,5478,3330,3304,2484,820
+061601,m. Dęblin,rycki,lubelskie,12332,8316,8354,4900,3454
+061602,gm. Kłoczew,rycki,lubelskie,5575,4084,4054,3511,543
+061603,gm. Nowodwór,rycki,lubelskie,3264,2274,2276,1910,366
+061604,gm. Ryki,rycki,lubelskie,16218,11259,11250,7621,3629
+061605,gm. Stężyca,rycki,lubelskie,4223,2862,2861,2112,749
+061606,gm. Ułęż,rycki,lubelskie,2689,1743,1728,1265,463
+061701,m. Świdnik,świdnicki,lubelskie,29861,20327,20492,11896,8596
+061702,gm. Mełgiew,świdnicki,lubelskie,7655,5305,5287,3569,1718
+061703,gm. Piaski,świdnicki,lubelskie,8496,5587,5563,3976,1587
+061704,gm. Rybczewice,świdnicki,lubelskie,2901,1764,1761,1458,303
+061705,gm. Trawniki,świdnicki,lubelskie,7116,4225,4203,3189,1014
+061801,m. Tomaszów Lubelski,tomaszowski,lubelskie,15431,9994,10048,5928,4120
+061802,gm. Bełżec,tomaszowski,lubelskie,2626,1578,1578,1133,445
+061803,gm. Jarczów,tomaszowski,lubelskie,2804,1653,1667,1397,270
+061804,gm. Krynice,tomaszowski,lubelskie,2697,1687,1688,1330,358
+061805,gm. Lubycza Królewska,tomaszowski,lubelskie,5034,2624,2622,1851,771
+061806,gm. Łaszczów,tomaszowski,lubelskie,4857,2964,2993,2304,689
+061807,gm. Rachanie,tomaszowski,lubelskie,4357,2520,2510,2091,419
+061808,gm. Susiec,tomaszowski,lubelskie,6303,3933,3930,2953,977
+061809,gm. Tarnawatka,tomaszowski,lubelskie,3132,1960,1962,1655,307
+061810,gm. Telatyn,tomaszowski,lubelskie,3226,1862,1841,1466,375
+061811,gm. Tomaszów Lubelski,tomaszowski,lubelskie,9047,5611,5624,4332,1292
+061812,gm. Tyszowce,tomaszowski,lubelskie,4616,2752,2795,2269,526
+061813,gm. Ulhówek,tomaszowski,lubelskie,3932,1973,1976,1640,336
+061901,m. Włodawa,włodawski,lubelskie,11041,6943,6913,3472,3441
+061902,gm. Hanna,włodawski,lubelskie,2458,1381,1391,975,416
+061903,gm. Hańsk,włodawski,lubelskie,2939,1708,1707,1148,559
+061904,gm. Stary Brus,włodawski,lubelskie,1755,1113,1110,854,256
+061905,gm. Urszulin,włodawski,lubelskie,3499,2518,2518,1784,734
+061906,gm. Włodawa,włodawski,lubelskie,5488,3783,3757,2070,1687
+061907,gm. Wola Uhruska,włodawski,lubelskie,3275,1875,1906,1264,642
+061908,gm. Wyryki,włodawski,lubelskie,2182,1467,1457,1045,412
+062001,gm. Adamów,zamojski,lubelskie,4021,2605,2584,2024,560
+062002,gm. Grabowiec,zamojski,lubelskie,3462,2039,2043,1671,372
+062003,gm. Komarów-Osada,zamojski,lubelskie,4057,2677,2676,2016,660
+062004,gm. Krasnobród,zamojski,lubelskie,6332,4458,4453,3465,988
+062005,gm. Łabunie,zamojski,lubelskie,5059,3264,3296,2680,616
+062006,gm. Miączyn,zamojski,lubelskie,4683,2763,2746,2158,588
+062007,gm. Nielisz,zamojski,lubelskie,4652,2759,2790,2179,611
+062008,gm. Radecznica,zamojski,lubelskie,4854,2922,2918,2443,475
+062009,gm. Sitno,zamojski,lubelskie,5257,3360,3380,2776,604
+062010,gm. Skierbieszów,zamojski,lubelskie,4210,2693,2692,2201,491
+062011,gm. Stary Zamość,zamojski,lubelskie,4223,2822,2833,2203,630
+062012,gm. Sułów,zamojski,lubelskie,3734,2398,2378,1916,462
+062013,gm. Szczebrzeszyn,zamojski,lubelskie,9183,5443,5510,4148,1362
+062014,gm. Zamość,zamojski,lubelskie,18374,12039,12045,8042,4003
+062015,gm. Zwierzyniec,zamojski,lubelskie,5891,3756,3777,2217,1560
+066101,m. Biała Podlaska,Biała Podlaska,lubelskie,43771,28751,28740,16160,12580
+066201,m. Chełm,Chełm,lubelskie,48686,30411,30395,16196,14199
+066301,m. Lublin,Lublin,lubelskie,259924,178061,178589,87087,91502
+066401,m. Zamość,Zamość,lubelskie,49350,31700,31696,17922,13774
+080101,m. Kostrzyn nad Odrą,gorzowski,lubuskie,13110,8875,8852,2923,5929
+080102,gm. Bogdaniec,gorzowski,lubuskie,5403,3504,3519,1573,1946
+080103,gm. Deszczno,gorzowski,lubuskie,7513,4990,4953,2165,2788
+080104,gm. Kłodawa,gorzowski,lubuskie,6587,4791,4760,1586,3174
+080105,gm. Lubiszyn,gorzowski,lubuskie,5297,3195,3187,1412,1775
+080106,gm. Santok,gorzowski,lubuskie,6630,4295,4276,1757,2519
+080107,gm. Witnica,gorzowski,lubuskie,9647,5857,5844,2676,3168
+080201,m. Gubin,krośnieński,lubuskie,12556,7811,7818,2350,5468
+080202,gm. Bobrowice,krośnieński,lubuskie,2553,1560,1565,722,843
+080203,gm. Bytnica,krośnieński,lubuskie,1940,1163,1176,573,603
+080204,gm. Dąbie,krośnieński,lubuskie,3857,2307,2316,1106,1210
+080205,gm. Gubin,krośnieński,lubuskie,5648,3373,3349,1510,1839
+080206,gm. Krosno Odrzańskie,krośnieński,lubuskie,13563,8564,8619,3373,5246
+080207,gm. Maszewo,krośnieński,lubuskie,2219,1317,1307,705,602
+080301,gm. Bledzew,międzyrzecki,lubuskie,3476,2155,2141,1018,1123
+080302,gm. Międzyrzecz,międzyrzecki,lubuskie,19835,12790,12883,4879,8004
+080303,gm. Przytoczna,międzyrzecki,lubuskie,4465,2700,2734,1160,1574
+080304,gm. Pszczew,międzyrzecki,lubuskie,3909,2586,2572,1151,1421
+080305,gm. Skwierzyna,międzyrzecki,lubuskie,9552,6042,6062,2454,3608
+080306,gm. Trzciel,międzyrzecki,lubuskie,5173,3191,3203,1417,1786
+080401,m. Nowa Sól,nowosolski,lubuskie,28720,19053,19046,7702,11344
+080402,gm. Bytom Odrzański,nowosolski,lubuskie,4126,2446,2448,1092,1356
+080403,gm. Kolsko,nowosolski,lubuskie,2824,1716,1713,870,843
+080404,gm. Kożuchów,nowosolski,lubuskie,12025,7365,7357,3364,3993
+080405,gm. Nowa Sól,nowosolski,lubuskie,5449,3473,3464,1640,1824
+080406,gm. Nowe Miasteczko,nowosolski,lubuskie,4107,2520,2509,1330,1179
+080407,gm. Otyń,nowosolski,lubuskie,5365,3513,3521,1566,1955
+080408,gm. Siedlisko,nowosolski,lubuskie,2758,1583,1601,942,659
+080501,gm. Cybinka,słubicki,lubuskie,5032,2901,2902,1396,1506
+080502,gm. Górzyca,słubicki,lubuskie,3244,1968,1957,977,980
+080503,gm. Ośno Lubuskie,słubicki,lubuskie,4887,3029,3022,1251,1771
+080504,gm. Rzepin,słubicki,lubuskie,7381,4647,4624,1976,2648
+080505,gm. Słubice,słubicki,lubuskie,15254,10172,10180,3156,7024
+080601,gm. Dobiegniew,strzelecko-drezdenecki,lubuskie,5454,3324,3312,1613,1699
+080602,gm. Drezdenko,strzelecko-drezdenecki,lubuskie,13712,8457,8445,3937,4508
+080603,gm. Stare Kurowo,strzelecko-drezdenecki,lubuskie,3162,1800,1802,863,939
+080604,gm. Strzelce Krajeńskie,strzelecko-drezdenecki,lubuskie,12953,7953,7941,3199,4742
+080605,gm. Zwierzyn,strzelecko-drezdenecki,lubuskie,3452,1953,1946,973,973
+080701,gm. Krzeszyce,sulęciński,lubuskie,3668,2394,2405,1156,1249
+080702,gm. Lubniewice,sulęciński,lubuskie,2699,1732,1723,708,1015
+080703,gm. Słońsk,sulęciński,lubuskie,3944,2465,2452,1225,1227
+080704,gm. Sulęcin,sulęciński,lubuskie,11887,7498,7472,3617,3855
+080705,gm. Torzym,sulęciński,lubuskie,5235,2992,2980,1262,1718
+080801,gm. Lubrza,świebodziński,lubuskie,3019,1991,1973,846,1127
+080802,gm. Łagów,świebodziński,lubuskie,4309,2665,2653,1122,1531
+080803,gm. Skąpe,świebodziński,lubuskie,4364,2761,2755,1113,1642
+080804,gm. Szczaniec,świebodziński,lubuskie,3088,1866,1850,964,886
+080805,gm. Świebodzin,świebodziński,lubuskie,22436,14428,14435,5819,8616
+080806,gm. Zbąszynek,świebodziński,lubuskie,6332,4260,4242,1586,2656
+080901,gm. Babimost,zielonogórski,lubuskie,4911,3216,3211,1333,1878
+080902,gm. Bojadła,zielonogórski,lubuskie,2601,1512,1499,723,776
+080903,gm. Czerwieńsk,zielonogórski,lubuskie,7544,4801,4780,1931,2849
+080904,gm. Kargowa,zielonogórski,lubuskie,4586,2943,2933,1221,1712
+080905,gm. Nowogród Bobrzański,zielonogórski,lubuskie,7964,4952,4940,2071,2869
+080906,gm. Sulechów,zielonogórski,lubuskie,19521,12807,12812,5009,7803
+080907,gm. Świdnica,zielonogórski,lubuskie,5110,3657,3667,1221,2446
+080908,gm. Trzebiechów,zielonogórski,lubuskie,2535,1454,1439,688,751
+080909,gm. Zabór,zielonogórski,lubuskie,3298,2320,2326,727,1599
+081001,m. Gozdnica,żagański,lubuskie,2352,1296,1287,586,701
+081002,m. Żagań,żagański,lubuskie,18711,12155,12146,4727,7419
+081003,gm. Brzeźnica,żagański,lubuskie,2892,1823,1811,1053,758
+081004,gm. Iłowa,żagański,lubuskie,5321,3082,3097,1549,1548
+081005,gm. Małomice,żagański,lubuskie,4076,2369,2380,1182,1198
+081006,gm. Niegosławice,żagański,lubuskie,3436,2047,2038,1093,945
+081007,gm. Szprotawa,żagański,lubuskie,15864,9191,9221,4484,4737
+081008,gm. Wymiarki,żagański,lubuskie,1786,1176,1159,631,528
+081009,gm. Żagań,żagański,lubuskie,5593,3241,3234,1538,1696
+081101,m. Łęknica,żarski,lubuskie,1913,1139,1128,366,762
+081102,m. Żary,żarski,lubuskie,28036,17808,17837,6887,10950
+081103,gm. Brody,żarski,lubuskie,2577,1438,1427,618,809
+081104,gm. Jasień,żarski,lubuskie,5354,3098,3081,1314,1767
+081105,gm. Lipinki Łużyckie,żarski,lubuskie,2547,1420,1430,672,758
+081106,gm. Lubsko,żarski,lubuskie,14121,8185,8186,3202,4984
+081107,gm. Przewóz,żarski,lubuskie,2468,1511,1505,829,676
+081108,gm. Trzebiel,żarski,lubuskie,4532,2671,2660,1245,1415
+081109,gm. Tuplice,żarski,lubuskie,2370,1380,1369,551,818
+081110,gm. Żary,żarski,lubuskie,9368,5799,5800,2731,3069
+081201,gm. Sława,wschowski,lubuskie,10501,6751,6729,3189,3540
+081202,gm. Szlichtyngowa,wschowski,lubuskie,3880,2459,2444,1612,832
+081203,gm. Wschowa,wschowski,lubuskie,16193,9963,9973,5367,4606
+086101,m. Gorzów Wielkopolski,Gorzów Wielkopolski,lubuskie,90649,60685,60567,22330,38237
+086201,m. Zielona Góra,Zielona Góra,lubuskie,103880,74491,74456,23134,51322
+100101,m. Bełchatów,bełchatowski,łódzkie,43362,30045,29888,18620,11268
+100102,gm. Bełchatów,bełchatowski,łódzkie,9145,6711,6691,4850,1841
+100103,gm. Drużbice,bełchatowski,łódzkie,4315,2957,2930,2210,720
+100104,gm. Kleszczów,bełchatowski,łódzkie,4526,3231,3208,2235,973
+100105,gm. Kluki,bełchatowski,łódzkie,3559,2465,2472,1887,585
+100106,gm. Rusiec,bełchatowski,łódzkie,4166,3040,3046,2260,786
+100107,gm. Szczerców,bełchatowski,łódzkie,6582,4736,4699,3407,1292
+100108,gm. Zelów,bełchatowski,łódzkie,11756,7945,7944,5659,2285
+100201,m. Kutno,kutnowski,łódzkie,34651,23206,23216,12133,11083
+100202,gm. Bedlno,kutnowski,łódzkie,4453,2865,2857,2148,709
+100203,gm. Dąbrowice,kutnowski,łódzkie,1570,1037,1037,794,243
+100204,gm. Krośniewice,kutnowski,łódzkie,6571,4155,4177,2945,1232
+100205,gm. Krzyżanów,kutnowski,łódzkie,3375,2204,2198,1599,599
+100206,gm. Kutno,kutnowski,łódzkie,6757,4544,4540,3020,1520
+100207,gm. Łanięta,kutnowski,łódzkie,1915,1226,1214,930,284
+100208,gm. Nowe Ostrowy,kutnowski,łódzkie,2828,1791,1797,1264,533
+100209,gm. Oporów,kutnowski,łódzkie,2012,1413,1400,1098,302
+100210,gm. Strzelce,kutnowski,łódzkie,3155,2074,2072,1551,521
+100211,gm. Żychlin,kutnowski,łódzkie,9376,5609,5623,3406,2217
+100301,gm. Buczek,łaski,łódzkie,4039,2897,2876,1893,983
+100302,gm. Łask,łaski,łódzkie,21907,14829,14830,7802,7028
+100303,gm. Sędziejowice,łaski,łódzkie,5168,3605,3589,2465,1124
+100304,gm. Widawa,łaski,łódzkie,6161,4111,4123,2960,1163
+100305,gm. Wodzierady,łaski,łódzkie,2890,2218,2223,1301,922
+100401,m. Łęczyca,łęczycki,łódzkie,10976,7171,7198,3329,3869
+100402,gm. Daszyna,łęczycki,łódzkie,3155,1925,1922,1436,486
+100403,gm. Góra Świętej Małgorzaty,łęczycki,łódzkie,3538,2306,2302,1865,437
+100404,gm. Grabów,łęczycki,łódzkie,4859,3062,3060,2467,593
+100405,gm. Łęczyca,łęczycki,łódzkie,7617,4932,4921,3493,1428
+100406,gm. Piątek,łęczycki,łódzkie,4822,3305,3299,2501,798
+100407,gm. Świnice Warckie,łęczycki,łódzkie,3240,2121,2101,1545,556
+100408,gm. Witonia,łęczycki,łódzkie,2662,1758,1761,1332,429
+100501,m. Łowicz,łowicki,łódzkie,22533,15682,15649,8328,7321
+100502,gm. Bielawy,łowicki,łódzkie,4471,2961,2936,2193,743
+100503,gm. Chąśno,łowicki,łódzkie,2395,1571,1566,1226,340
+100504,gm. Domaniewice,łowicki,łódzkie,3623,2478,2464,1862,602
+100505,gm. Kiernozia,łowicki,łódzkie,2735,1799,1810,1382,428
+100506,gm. Kocierzew Południowy,łowicki,łódzkie,3460,2346,2344,1940,404
+100507,gm. Łowicz,łowicki,łódzkie,6246,4262,4243,3048,1195
+100508,gm. Łyszkowice,łowicki,łódzkie,5250,3549,3557,2728,829
+100509,gm. Nieborów,łowicki,łódzkie,7471,5335,5326,3772,1554
+100510,gm. Zduny,łowicki,łódzkie,4588,3129,3136,2171,965
+100602,gm. Andrespol,łódzki wschodni,łódzkie,11101,8080,8074,3834,4240
+100603,gm. Brójce,łódzki wschodni,łódzkie,5345,3960,3964,2363,1601
+100607,gm. Koluszki,łódzki wschodni,łódzkie,18461,13129,13144,7287,5857
+100608,gm. Nowosolna,łódzki wschodni,łódzkie,4079,3205,3222,1288,1934
+100610,gm. Rzgów,łódzki wschodni,łódzkie,7956,6087,6105,3271,2834
+100611,gm. Tuszyn,łódzki wschodni,łódzkie,10000,7030,6992,3887,3105
+100701,gm. Białaczów,opoczyński,łódzkie,4712,3219,3226,2548,678
+100702,gm. Drzewica,opoczyński,łódzkie,8385,6003,6088,4784,1304
+100703,gm. Mniszków,opoczyński,łódzkie,3854,2571,2615,2109,506
+100704,gm. Opoczno,opoczyński,łódzkie,26240,18970,18983,12998,5985
+100705,gm. Paradyż,opoczyński,łódzkie,3485,2603,2628,2235,393
+100706,gm. Poświętne,opoczyński,łódzkie,2732,2010,2009,1581,428
+100707,gm. Sławno,opoczyński,łódzkie,5936,4198,4213,3445,768
+100708,gm. Żarnów,opoczyński,łódzkie,4920,3471,3464,2672,792
+100801,m. Konstantynów Łódzki,pabianicki,łódzkie,14204,10005,10009,4384,5625
+100802,m. Pabianice,pabianicki,łódzkie,49632,33856,33867,15208,18659
+100803,gm. Dłutów,pabianicki,łódzkie,3721,2682,2677,1667,1010
+100804,gm. Dobroń,pabianicki,łódzkie,6080,4354,4354,2285,2069
+100805,gm. Ksawerów,pabianicki,łódzkie,6017,4351,4369,1963,2406
+100806,gm. Lutomiersk,pabianicki,łódzkie,6914,4901,4903,2497,2406
+100807,gm. Pabianice,pabianicki,łódzkie,5717,4398,4361,2285,2076
+100901,gm. Działoszyn,pajęczański,łódzkie,9744,6479,6565,4196,2369
+100902,gm. Kiełczygłów,pajęczański,łódzkie,3320,2352,2354,1850,504
+100903,gm. Nowa Brzeźnica,pajęczański,łódzkie,3790,2563,2559,1758,801
+100904,gm. Pajęczno,pajęczański,łódzkie,9258,6100,6158,3898,2260
+100905,gm. Rząśnia,pajęczański,łódzkie,3943,2778,2799,2195,604
+100906,gm. Siemkowice,pajęczański,łódzkie,3903,2576,2549,1946,603
+100907,gm. Strzelce Wielkie,pajęczański,łódzkie,3677,2426,2427,1938,489
+100908,gm. Sulmierzyce,pajęczański,łódzkie,3581,2554,2557,1934,623
+101001,gm. Aleksandrów,piotrkowski,łódzkie,3800,2767,2761,2104,657
+101002,gm. Czarnocin,piotrkowski,łódzkie,3263,2380,2366,1752,614
+101003,gm. Gorzkowice,piotrkowski,łódzkie,6798,4642,4654,3527,1127
+101004,gm. Grabica,piotrkowski,łódzkie,4780,3420,3416,2691,725
+101005,gm. Łęki Szlacheckie,piotrkowski,łódzkie,2931,1883,1881,1463,418
+101006,gm. Moszczenica,piotrkowski,łódzkie,10091,6954,6977,5047,1930
+101007,gm. Ręczno,piotrkowski,łódzkie,3031,2101,2087,1527,560
+101008,gm. Rozprza,piotrkowski,łódzkie,9536,6542,6528,4964,1564
+101009,gm. Sulejów,piotrkowski,łódzkie,13182,9064,9044,5891,3153
+101010,gm. Wola Krzysztoporska,piotrkowski,łódzkie,9257,6621,6588,5131,1457
+101011,gm. Wolbórz,piotrkowski,łódzkie,6380,4631,4657,3131,1526
+101101,gm. Dalików,poddębicki,łódzkie,3195,2180,2182,1465,717
+101102,gm. Pęczniew,poddębicki,łódzkie,3066,2110,2115,1398,717
+101103,gm. Poddębice,poddębicki,łódzkie,12581,8322,8304,4693,3611
+101104,gm. Uniejów,poddębicki,łódzkie,5948,4073,4077,2729,1348
+101105,gm. Wartkowice,poddębicki,łódzkie,5060,3164,3166,2291,875
+101106,gm. Zadzim,poddębicki,łódzkie,4173,2753,2755,1922,833
+101201,m. Radomsko,radomszczański,łódzkie,35762,23992,24049,12532,11517
+101202,gm. Dobryszyce,radomszczański,łódzkie,3425,2306,2301,1543,758
+101203,gm. Gidle,radomszczański,łódzkie,4984,3133,3147,2082,1065
+101204,gm. Gomunice,radomszczański,łódzkie,4668,3243,3248,2191,1057
+101205,gm. Kamieńsk,radomszczański,łódzkie,4650,3253,3274,2514,760
+101206,gm. Kobiele Wielkie,radomszczański,łódzkie,3508,2337,2324,1569,755
+101207,gm. Kodrąb,radomszczański,łódzkie,3795,2482,2492,1785,707
+101208,gm. Lgota Wielka,radomszczański,łódzkie,3376,2296,2284,1680,604
+101209,gm. Ładzice,radomszczański,łódzkie,3764,2423,2410,1673,737
+101210,gm. Masłowice,radomszczański,łódzkie,3412,2314,2322,1788,534
+101211,gm. Przedbórz,radomszczański,łódzkie,5818,3901,3880,2764,1116
+101212,gm. Radomsko,radomszczański,łódzkie,4343,2928,2904,1848,1056
+101213,gm. Wielgomłyny,radomszczański,łódzkie,3776,2441,2440,1927,513
+101214,gm. Żytno,radomszczański,łódzkie,4403,2873,2866,2167,699
+101301,m. Rawa Mazowiecka,rawski,łódzkie,13353,9444,9417,5324,4093
+101302,gm. Biała Rawska,rawski,łódzkie,9080,5957,5932,4302,1630
+101303,gm. Cielądz,rawski,łódzkie,3184,2173,2171,1814,357
+101304,gm. Rawa Mazowiecka,rawski,łódzkie,6922,4728,4705,3486,1219
+101305,gm. Regnów,rawski,łódzkie,1513,1175,1168,941,227
+101306,gm. Sadkowice,rawski,łódzkie,4439,2859,2845,2295,550
+101401,m. Sieradz,sieradzki,łódzkie,32817,22641,22703,11561,11142
+101402,gm. Błaszki,sieradzki,łódzkie,11517,7620,7636,5768,1868
+101403,gm. Brąszewice,sieradzki,łódzkie,3484,2353,2351,1951,400
+101404,gm. Brzeźnio,sieradzki,łódzkie,5025,3293,3290,2228,1062
+101405,gm. Burzenin,sieradzki,łódzkie,4496,2902,2892,2004,888
+101406,gm. Goszczanów,sieradzki,łódzkie,4330,2818,2847,2219,628
+101407,gm. Klonowa,sieradzki,łódzkie,2315,1587,1602,1235,367
+101408,gm. Sieradz,sieradzki,łódzkie,8244,5719,5719,3931,1788
+101409,gm. Warta,sieradzki,łódzkie,10212,6717,6732,4821,1911
+101410,gm. Wróblew,sieradzki,łódzkie,4863,3221,3247,2455,792
+101411,gm. Złoczew,sieradzki,łódzkie,5731,3711,3717,2709,1008
+101501,gm. Bolimów,skierniewicki,łódzkie,3207,2217,2208,1486,722
+101502,gm. Głuchów,skierniewicki,łódzkie,4541,3582,3575,3042,533
+101503,gm. Godzianów,skierniewicki,łódzkie,2071,1510,1511,1200,311
+101504,gm. Kowiesy,skierniewicki,łódzkie,2397,1629,1613,1127,486
+101505,gm. Lipce Reymontowskie,skierniewicki,łódzkie,2598,2051,2032,1560,472
+101506,gm. Maków,skierniewicki,łódzkie,4824,3400,3380,2548,832
+101507,gm. Nowy Kawęczyn,skierniewicki,łódzkie,2795,1932,1922,1365,557
+101508,gm. Skierniewice,skierniewicki,łódzkie,5834,4067,4055,2775,1280
+101509,gm. Słupia,skierniewicki,łódzkie,2013,1714,1698,1352,346
+101601,m. Tomaszów Mazowiecki,tomaszowski,łódzkie,47116,31919,31938,16741,15197
+101602,gm. Będków,tomaszowski,łódzkie,2706,1954,1965,1471,494
+101603,gm. Budziszewice,tomaszowski,łódzkie,1703,1268,1248,915,333
+101604,gm. Czerniewice,tomaszowski,łódzkie,4040,2943,2935,2281,654
+101605,gm. Inowłódz,tomaszowski,łódzkie,3214,2503,2510,1486,1024
+101606,gm. Lubochnia,tomaszowski,łódzkie,5516,4026,4051,3084,967
+101607,gm. Rokiciny,tomaszowski,łódzkie,4911,3437,3472,2274,1198
+101608,gm. Rzeczyca,tomaszowski,łódzkie,3918,2765,2779,2225,554
+101609,gm. Tomaszów Mazowiecki,tomaszowski,łódzkie,8692,6366,6355,4054,2301
+101610,gm. Ujazd,tomaszowski,łódzkie,6009,4175,4193,2752,1441
+101611,gm. Żelechlinek,tomaszowski,łódzkie,2683,1846,1852,1517,335
+101701,gm. Biała,wieluński,łódzkie,4346,2799,2811,2022,789
+101702,gm. Czarnożyły,wieluński,łódzkie,3593,2426,2432,1687,745
+101703,gm. Konopnica,wieluński,łódzkie,3168,2186,2210,1502,708
+101704,gm. Mokrsko,wieluński,łódzkie,4290,2823,2818,1950,868
+101705,gm. Osjaków,wieluński,łódzkie,3772,2811,2776,2008,768
+101706,gm. Ostrówek,wieluński,łódzkie,3604,2339,2344,1682,662
+101707,gm. Pątnów,wieluński,łódzkie,5305,3696,3691,2755,936
+101708,gm. Skomlin,wieluński,łódzkie,2554,1670,1674,1113,561
+101709,gm. Wieluń,wieluński,łódzkie,24681,16663,16656,8634,8022
+101710,gm. Wierzchlas,wieluński,łódzkie,5434,3620,3631,2406,1225
+101801,gm. Bolesławiec,wieruszowski,łódzkie,3273,2040,2041,1288,753
+101802,gm. Czastary,wieruszowski,łódzkie,3157,1946,1947,1349,598
+101803,gm. Galewice,wieruszowski,łódzkie,4900,3082,3117,2084,1033
+101804,gm. Lututów,wieruszowski,łódzkie,3629,2411,2413,1725,688
+101805,gm. Łubnice,wieruszowski,łódzkie,3299,2063,2067,1378,689
+101806,gm. Sokolniki,wieruszowski,łódzkie,3948,2565,2583,1697,886
+101807,gm. Wieruszów,wieruszowski,łódzkie,11143,7374,7411,4018,3393
+101901,m. Zduńska Wola,zduńskowolski,łódzkie,31526,21334,21327,11345,9982
+101902,gm. Szadek,zduńskowolski,łódzkie,5897,3985,3989,2701,1288
+101903,gm. Zapolice,zduńskowolski,łódzkie,4132,2766,2758,1799,959
+101904,gm. Zduńska Wola,zduńskowolski,łódzkie,9304,6344,6347,4099,2248
+102001,m. Głowno,zgierski,łódzkie,11195,7532,7510,3484,4026
+102002,m. Ozorków,zgierski,łódzkie,14844,9932,9896,5269,4627
+102003,m. Zgierz,zgierski,łódzkie,42646,29728,29778,13393,16385
+102004,gm. Aleksandrów Łódzki,zgierski,łódzkie,24603,17819,17887,7393,10494
+102005,gm. Głowno,zgierski,łódzkie,3899,2620,2608,1929,679
+102006,gm. Ozorków,zgierski,łódzkie,5875,4211,4232,2694,1538
+102007,gm. Parzęczew,zgierski,łódzkie,4218,2984,2976,1730,1246
+102008,gm. Stryków,zgierski,łódzkie,10109,7348,7375,3835,3540
+102009,gm. Zgierz,zgierski,łódzkie,11903,8686,8684,4294,4390
+102101,m. Brzeziny,brzeziński,łódzkie,9570,6565,6528,3661,2867
+102102,gm. Brzeziny,brzeziński,łódzkie,4515,3254,3234,2031,1203
+102103,gm. Dmosin,brzeziński,łódzkie,3664,2522,2510,1643,867
+102104,gm. Jeżów,brzeziński,łódzkie,2715,1984,1981,1456,525
+102105,gm. Rogów,brzeziński,łódzkie,3796,2651,2655,1769,886
+106101,m. Łódź,Łódź,łódzkie,511975,356452,356862,129082,227780
+106201,m. Piotrków Trybunalski,Piotrków Trybunalski,łódzkie,55563,38207,38211,19494,18717
+106301,m. Skierniewice,Skierniewice,łódzkie,36279,25864,25862,12556,13306
+120101,m. Bochnia,bocheński,małopolskie,22632,15935,16022,8900,7122
+120102,gm. Bochnia,bocheński,małopolskie,15506,10926,10907,7890,3017
+120103,gm. Drwinia,bocheński,małopolskie,5224,3661,3711,3009,702
+120104,gm. Lipnica Murowana,bocheński,małopolskie,4335,3140,3154,2589,565
+120105,gm. Łapanów,bocheński,małopolskie,6421,4531,4512,3481,1031
+120106,gm. Nowy Wiśnicz,bocheński,małopolskie,11076,8200,8237,6295,1942
+120107,gm. Rzezawa,bocheński,małopolskie,8759,5916,5953,4578,1375
+120108,gm. Trzciana,bocheński,małopolskie,4355,3373,3372,2728,644
+120109,gm. Żegocina,bocheński,małopolskie,4212,3239,3268,2802,466
+120201,gm. Borzęcin,brzeski,małopolskie,6684,4039,4052,3147,905
+120202,gm. Brzesko,brzeski,małopolskie,28184,18410,18453,12038,6415
+120203,gm. Czchów,brzeski,małopolskie,7700,5277,5248,3965,1283
+120204,gm. Dębno,brzeski,małopolskie,11184,7670,7629,5530,2099
+120205,gm. Gnojnik,brzeski,małopolskie,6154,4179,4188,3460,728
+120206,gm. Iwkowa,brzeski,małopolskie,4976,3723,3745,3181,564
+120207,gm. Szczurowa,brzeski,małopolskie,7475,4693,4663,3696,967
+120301,gm. Alwernia,chrzanowski,małopolskie,9926,6950,6984,4179,2805
+120302,gm. Babice,chrzanowski,małopolskie,7260,5013,5016,2988,2028
+120303,gm. Chrzanów,chrzanowski,małopolskie,35908,24120,24213,10875,13338
+120304,gm. Libiąż,chrzanowski,małopolskie,17145,11846,11901,6733,5168
+120305,gm. Trzebinia,chrzanowski,małopolskie,26398,17733,17813,8672,9141
+120401,gm. Bolesław,dąbrowski,małopolskie,2200,1094,1081,844,237
+120402,gm. Dąbrowa Tarnowska,dąbrowski,małopolskie,16512,10290,10360,7844,2516
+120403,gm. Gręboszów,dąbrowski,małopolskie,2697,1472,1469,1156,313
+120404,gm. Mędrzechów,dąbrowski,małopolskie,2786,1624,1594,1261,333
+120405,gm. Olesno,dąbrowski,małopolskie,6068,3737,3745,3081,664
+120406,gm. Radgoszcz,dąbrowski,małopolskie,5843,3808,3781,3379,402
+120407,gm. Szczucin,dąbrowski,małopolskie,10379,6184,6223,4799,1424
+120501,m. Gorlice,gorlicki,małopolskie,21728,13877,13951,7844,6107
+120502,gm. Biecz,gorlicki,małopolskie,13483,8610,8636,6610,2026
+120503,gm. Bobowa,gorlicki,małopolskie,7375,4995,5006,4159,847
+120504,gm. Gorlice,gorlicki,małopolskie,13868,8953,8999,6502,2497
+120505,gm. Lipinki,gorlicki,małopolskie,5427,3539,3552,2834,718
+120506,gm. Łużna,gorlicki,małopolskie,6564,4323,4314,3347,967
+120507,gm. Moszczenica,gorlicki,małopolskie,3861,2528,2530,2094,436
+120508,gm. Ropa,gorlicki,małopolskie,4233,2939,2939,2327,612
+120509,gm. Sękowa,gorlicki,małopolskie,4090,2629,2629,1665,964
+120510,gm. Uście Gorlickie,gorlicki,małopolskie,6034,4020,4009,2350,1659
+120601,gm. Czernichów,krakowski,małopolskie,11497,8038,8020,5116,2904
+120602,gm. Igołomia-Wawrzeńczyce,krakowski,małopolskie,6167,3960,3951,2914,1037
+120603,gm. Iwanowice,krakowski,małopolskie,7250,5167,5162,3613,1549
+120604,gm. Jerzmanowice-Przeginia,krakowski,małopolskie,8768,6441,6451,4525,1926
+120605,gm. Kocmyrzów-Luborzyca,krakowski,małopolskie,12224,8558,8606,5244,3362
+120606,gm. Krzeszowice,krakowski,małopolskie,25354,17655,17676,9766,7910
+120607,gm. Liszki,krakowski,małopolskie,13346,9782,9807,6451,3356
+120608,gm. Michałowice,krakowski,małopolskie,8259,6122,6171,3221,2950
+120609,gm. Mogilany,krakowski,małopolskie,10924,8173,8208,4370,3838
+120610,gm. Skała,krakowski,małopolskie,8442,6095,6082,3906,2176
+120611,gm. Skawina,krakowski,małopolskie,33232,23114,23234,13159,10075
+120612,gm. Słomniki,krakowski,małopolskie,10748,7268,7275,5191,2084
+120613,gm. Sułoszowa,krakowski,małopolskie,4644,3585,3584,2850,734
+120614,gm. Świątniki Górne,krakowski,małopolskie,7949,5661,5686,3427,2259
+120615,gm. Wielka Wieś,krakowski,małopolskie,10061,7721,7782,3932,3850
+120616,gm. Zabierzów,krakowski,małopolskie,21014,15877,16012,7744,8268
+120617,gm. Zielonki,krakowski,małopolskie,16745,12753,12811,5581,7230
+120701,m. Limanowa,limanowski,małopolskie,11568,8087,8158,5548,2610
+120702,m. Mszana Dolna,limanowski,małopolskie,6160,4193,4250,2861,1389
+120703,gm. Dobra,limanowski,małopolskie,7778,5119,5165,3934,1231
+120704,gm. Jodłownik,limanowski,małopolskie,6665,4600,4607,3830,777
+120705,gm. Kamienica,limanowski,małopolskie,6030,4218,4248,3520,728
+120706,gm. Laskowa,limanowski,małopolskie,6195,4865,4836,4245,591
+120707,gm. Limanowa,limanowski,małopolskie,19221,13936,14037,11656,2381
+120708,gm. Łukowica,limanowski,małopolskie,7480,5375,5407,4608,799
+120709,gm. Mszana Dolna,limanowski,małopolskie,13314,9411,9467,7887,1580
+120710,gm. Niedźwiedź,limanowski,małopolskie,5616,3417,3500,2878,622
+120711,gm. Słopnice,limanowski,małopolskie,4961,3567,3568,3108,460
+120712,gm. Tymbark,limanowski,małopolskie,4938,3574,3599,2928,671
+120801,gm. Charsznica,miechowski,małopolskie,6109,3902,3966,2853,1113
+120802,gm. Gołcza,miechowski,małopolskie,4781,3356,3357,2482,875
+120803,gm. Kozłów,miechowski,małopolskie,3875,2505,2541,2034,507
+120804,gm. Książ Wielki,miechowski,małopolskie,4261,2837,2836,2156,680
+120805,gm. Miechów,miechowski,małopolskie,15655,10201,10190,6485,3705
+120806,gm. Racławice,miechowski,małopolskie,2064,1309,1307,1040,267
+120807,gm. Słaboszów,miechowski,małopolskie,2952,1818,1821,1393,428
+120901,gm. Dobczyce,myślenicki,małopolskie,11665,8285,8331,5581,2750
+120902,gm. Lubień,myślenicki,małopolskie,7612,5422,5447,4345,1102
+120903,gm. Myślenice,myślenicki,małopolskie,34047,24836,24838,15816,9022
+120904,gm. Pcim,myślenicki,małopolskie,8570,6317,6328,4880,1448
+120905,gm. Raciechowice,myślenicki,małopolskie,5132,3500,3510,2633,877
+120906,gm. Siepraw,myślenicki,małopolskie,6891,4975,5006,3433,1573
+120907,gm. Sułkowice,myślenicki,małopolskie,11452,7866,7909,5538,2371
+120908,gm. Tokarnia,myślenicki,małopolskie,6754,4996,5007,4144,863
+120909,gm. Wiśniowa,myślenicki,małopolskie,5711,4328,4337,3609,728
+121001,m. Grybów,nowosądecki,małopolskie,4738,3374,3446,2631,815
+121002,gm. Chełmiec,nowosądecki,małopolskie,21294,15331,15375,12151,3224
+121003,gm. Gródek nad Dunajcem,nowosądecki,małopolskie,7667,5377,5369,4263,1106
+121004,gm. Grybów,nowosądecki,małopolskie,18755,14149,14151,12259,1892
+121005,gm. Kamionka Wielka,nowosądecki,małopolskie,7760,5694,5723,4752,971
+121006,gm. Korzenna,nowosądecki,małopolskie,11013,7980,8054,7030,1024
+121007,gm. Krynica-Zdrój,nowosądecki,małopolskie,15473,10790,10871,6387,4484
+121008,gm. Łabowa,nowosądecki,małopolskie,4441,3075,3074,2583,491
+121009,gm. Łącko,nowosądecki,małopolskie,12328,8656,8694,7247,1447
+121010,gm. Łososina Dolna,nowosądecki,małopolskie,8386,6170,6344,5466,878
+121011,gm. Muszyna,nowosądecki,małopolskie,9672,6490,6478,4293,2185
+121012,gm. Nawojowa,nowosądecki,małopolskie,6383,4557,4615,3803,812
+121013,gm. Piwniczna-Zdrój,nowosądecki,małopolskie,8730,5941,5977,4427,1550
+121014,gm. Podegrodzie,nowosądecki,małopolskie,9722,7049,7091,6035,1056
+121015,gm. Rytro,nowosądecki,małopolskie,2989,2128,2133,1659,474
+121016,gm. Stary Sącz,nowosądecki,małopolskie,18165,12687,12854,9955,2899
+121101,m. Nowy Targ,nowotarski,małopolskie,25770,16428,16453,9310,7143
+121102,gm. Szczawnica,nowotarski,małopolskie,7653,5358,5387,2836,2551
+121103,gm. Czarny Dunajec,nowotarski,małopolskie,17232,9521,9516,7847,1669
+121104,gm. Czorsztyn,nowotarski,małopolskie,6659,4604,4581,2858,1723
+121105,gm. Jabłonka,nowotarski,małopolskie,14351,9593,9607,8399,1208
+121106,gm. Krościenko nad Dunajcem,nowotarski,małopolskie,5996,4150,4131,2734,1397
+121107,gm. Lipnica Wielka,nowotarski,małopolskie,4560,3029,3052,2641,411
+121108,gm. Łapsze Niżne,nowotarski,małopolskie,7819,4830,4819,3590,1229
+121109,gm. Nowy Targ,nowotarski,małopolskie,18491,11429,11374,8716,2658
+121110,gm. Ochotnica Dolna,nowotarski,małopolskie,6687,4884,4875,4008,867
+121111,gm. Raba Wyżna,nowotarski,małopolskie,11182,7026,7069,5540,1529
+121112,gm. Rabka-Zdrój,nowotarski,małopolskie,13951,9413,9472,6327,3145
+121113,gm. Spytkowice,nowotarski,małopolskie,3312,2490,2452,1978,474
+121114,gm. Szaflary,nowotarski,małopolskie,8493,4903,4885,4064,821
+121201,m. Bukowno,olkuski,małopolskie,7920,5231,5244,2614,2630
+121203,gm. Bolesław,olkuski,małopolskie,6313,4019,4007,2059,1948
+121204,gm. Klucze,olkuski,małopolskie,12117,8445,8433,4447,3986
+121205,gm. Olkusz,olkuski,małopolskie,37255,26608,26690,15038,11652
+121206,gm. Trzyciąż,olkuski,małopolskie,5703,4084,4105,3211,894
+121207,gm. Wolbrom,olkuski,małopolskie,18119,12585,12586,8445,4141
+121301,m. Oświęcim,oświęcimski,małopolskie,29187,19987,20027,9189,10838
+121302,gm. Brzeszcze,oświęcimski,małopolskie,16442,11529,11620,6534,5086
+121303,gm. Chełmek,oświęcimski,małopolskie,9890,6734,6763,3728,3035
+121304,gm. Kęty,oświęcimski,małopolskie,25928,18049,18179,10372,7807
+121305,gm. Osiek,oświęcimski,małopolskie,6428,4400,4442,2989,1453
+121306,gm. Oświęcim,oświęcimski,małopolskie,14691,10614,10623,5773,4850
+121307,gm. Polanka Wielka,oświęcimski,małopolskie,3350,2556,2544,1592,952
+121308,gm. Przeciszów,oświęcimski,małopolskie,5310,3680,3705,2212,1493
+121309,gm. Zator,oświęcimski,małopolskie,7529,5157,5150,3138,2012
+121401,gm. Koniusza,proszowicki,małopolskie,6968,4665,4645,3533,1112
+121402,gm. Koszyce,proszowicki,małopolskie,4514,2609,2600,1982,618
+121403,gm. Nowe Brzesko,proszowicki,małopolskie,4542,3022,3006,2263,743
+121404,gm. Pałecznica,proszowicki,małopolskie,2885,1919,1937,1583,354
+121405,gm. Proszowice,proszowicki,małopolskie,13035,8403,8451,5803,2648
+121406,gm. Radziemice,proszowicki,małopolskie,2694,1755,1758,1438,320
+121501,m. Jordanów,suski,małopolskie,4106,2742,2776,1725,1051
+121502,m. Sucha Beskidzka,suski,małopolskie,7406,4951,4977,2565,2412
+121503,gm. Budzów,suski,małopolskie,6772,4512,4514,3405,1109
+121504,gm. Bystra-Sidzina,suski,małopolskie,5394,3363,3386,2606,780
+121505,gm. Jordanów,suski,małopolskie,8574,5668,5684,4599,1085
+121506,gm. Maków Podhalański,suski,małopolskie,12609,8386,8520,5796,2724
+121507,gm. Stryszawa,suski,małopolskie,9749,6652,6866,4805,2061
+121508,gm. Zawoja,suski,małopolskie,7921,5146,5220,3446,1774
+121509,gm. Zembrzyce,suski,małopolskie,4493,3138,3160,2108,1052
+121601,gm. Ciężkowice,tarnowski,małopolskie,8860,5610,5644,4251,1393
+121602,gm. Gromnik,tarnowski,małopolskie,6850,4398,4425,3849,576
+121603,gm. Lisia Góra,tarnowski,małopolskie,11657,7860,7918,6048,1870
+121604,gm. Pleśna,tarnowski,małopolskie,9419,6246,6272,4749,1523
+121605,gm. Radłów,tarnowski,małopolskie,7676,4719,4722,3564,1158
+121606,gm. Ryglice,tarnowski,małopolskie,9320,5901,5930,4715,1215
+121607,gm. Rzepiennik Strzyżewski,tarnowski,małopolskie,5353,3766,3777,3215,562
+121608,gm. Skrzyszów,tarnowski,małopolskie,11025,7355,7386,5519,1867
+121609,gm. Tarnów,tarnowski,małopolskie,19992,13746,13780,9164,4616
+121610,gm. Tuchów,tarnowski,małopolskie,13735,8825,9078,7015,2063
+121611,gm. Wierzchosławice,tarnowski,małopolskie,8388,5615,5660,3933,1727
+121612,gm. Wietrzychowice,tarnowski,małopolskie,3185,1766,1767,1336,431
+121613,gm. Wojnicz,tarnowski,małopolskie,10478,6948,6961,5147,1814
+121614,gm. Zakliczyn,tarnowski,małopolskie,9817,6573,6594,5107,1487
+121615,gm. Żabno,tarnowski,małopolskie,14953,9177,9203,6764,2439
+121616,gm. Szerzyny,tarnowski,małopolskie,6228,4145,4139,3508,631
+121701,m. Zakopane,tatrzański,małopolskie,28624,20928,21058,10684,10374
+121702,gm. Biały Dunajec,tatrzański,małopolskie,5875,3792,3789,2982,807
+121703,gm. Bukowina Tatrzańska,tatrzański,małopolskie,11806,8012,8042,5810,2232
+121704,gm. Kościelisko,tatrzański,małopolskie,8178,5522,5570,3439,2131
+121705,gm. Poronin,tatrzański,małopolskie,10447,7273,7254,5016,2238
+121801,gm. Andrychów,wadowicki,małopolskie,33447,23226,23299,14034,9265
+121802,gm. Brzeźnica,wadowicki,małopolskie,8257,5676,5686,3608,2078
+121803,gm. Kalwaria Zebrzydowska,wadowicki,małopolskie,15769,10750,10776,6646,4130
+121804,gm. Lanckorona,wadowicki,małopolskie,4861,3320,3310,2203,1107
+121805,gm. Mucharz,wadowicki,małopolskie,3271,2352,2341,1497,844
+121806,gm. Spytkowice,wadowicki,małopolskie,8069,5458,5485,3870,1615
+121807,gm. Stryszów,wadowicki,małopolskie,5468,3767,3771,2496,1275
+121808,gm. Tomice,wadowicki,małopolskie,6119,4181,4189,2655,1534
+121809,gm. Wadowice,wadowicki,małopolskie,29818,20349,20419,11648,8771
+121810,gm. Wieprz,wadowicki,małopolskie,9419,6660,6703,4684,2019
+121901,gm. Biskupice,wielicki,małopolskie,8012,5890,5873,3922,1951
+121902,gm. Gdów,wielicki,małopolskie,14071,10002,9992,6890,3102
+121903,gm. Kłaj,wielicki,małopolskie,8410,5957,5991,3472,2519
+121904,gm. Niepołomice,wielicki,małopolskie,21988,16006,16059,8733,7326
+121905,gm. Wieliczka,wielicki,małopolskie,46255,32810,32867,16960,15907
+126101,m. Kraków,Kraków,małopolskie,602006,437803,439746,169441,270305
+126201,m. Nowy Sącz,Nowy Sącz,małopolskie,63371,43496,43567,26101,17466
+126301,m. Tarnów,Tarnów,małopolskie,85706,55971,56222,28861,27361
+140101,gm. Białobrzegi,białobrzeski,mazowieckie,8082,6040,6036,3831,2205
+140102,gm. Promna,białobrzeski,mazowieckie,4551,3212,3189,2371,818
+140103,gm. Radzanów,białobrzeski,mazowieckie,2996,2174,2158,1790,368
+140104,gm. Stara Błotnica,białobrzeski,mazowieckie,4169,3112,3090,2648,442
+140105,gm. Stromiec,białobrzeski,mazowieckie,4493,3051,3053,2458,595
+140106,gm. Wyśmierzyce,białobrzeski,mazowieckie,2393,1783,1793,1446,347
+140201,m. Ciechanów,ciechanowski,mazowieckie,34035,23265,23259,12628,10631
+140202,gm. Ciechanów,ciechanowski,mazowieckie,5712,3664,3678,2335,1343
+140203,gm. Glinojeck,ciechanowski,mazowieckie,6093,3886,3864,2709,1155
+140204,gm. Gołymin-Ośrodek,ciechanowski,mazowieckie,3022,1970,1970,1591,379
+140205,gm. Grudusk,ciechanowski,mazowieckie,2878,1929,1933,1531,402
+140206,gm. Ojrzeń,ciechanowski,mazowieckie,3452,2305,2308,1796,512
+140207,gm. Opinogóra Górna,ciechanowski,mazowieckie,4709,3031,3021,2247,774
+140208,gm. Regimin,ciechanowski,mazowieckie,3959,2613,2627,1901,726
+140209,gm. Sońsk,ciechanowski,mazowieckie,6169,4068,4062,3028,1034
+140301,m. Garwolin,garwoliński,mazowieckie,12991,9672,9664,5863,3801
+140302,m. Łaskarzew,garwoliński,mazowieckie,3781,2783,2781,1966,815
+140303,gm. Borowie,garwoliński,mazowieckie,4195,2951,2957,2408,549
+140304,gm. Garwolin,garwoliński,mazowieckie,9966,7445,7446,5343,2103
+140305,gm. Górzno,garwoliński,mazowieckie,5079,3993,3947,3283,664
+140306,gm. Łaskarzew,garwoliński,mazowieckie,4187,3109,3101,2465,636
+140307,gm. Maciejowice,garwoliński,mazowieckie,5650,4197,4166,3388,778
+140308,gm. Miastków Kościelny,garwoliński,mazowieckie,3816,2969,2950,2376,574
+140309,gm. Parysów,garwoliński,mazowieckie,3182,2306,2286,1958,328
+140310,gm. Pilawa,garwoliński,mazowieckie,8365,5996,5953,4435,1518
+140311,gm. Sobolew,garwoliński,mazowieckie,6282,4582,4561,3717,844
+140312,gm. Trojanów,garwoliński,mazowieckie,5865,4321,4306,3590,716
+140313,gm. Wilga,garwoliński,mazowieckie,4653,3357,3346,2110,1236
+140314,gm. Żelechów,garwoliński,mazowieckie,6483,4706,4702,3778,924
+140401,m. Gostynin,gostyniński,mazowieckie,14567,9634,9676,5038,4638
+140402,gm. Gostynin,gostyniński,mazowieckie,10395,6660,6670,4437,2233
+140403,gm. Pacyna,gostyniński,mazowieckie,2876,1906,1897,1509,388
+140404,gm. Sanniki,gostyniński,mazowieckie,4904,3273,3266,2534,732
+140405,gm. Szczawin Kośc.,gostyniński,mazowieckie,4018,2613,2591,1955,636
+140501,m. Milanówek,grodziski,mazowieckie,12460,9579,9622,3882,5740
+140502,m. Podkowa Leśna,grodziski,mazowieckie,3034,2468,2477,792,1685
+140503,gm. Baranów,grodziski,mazowieckie,4181,2952,2932,1908,1024
+140504,gm. Grodzisk Mazowiecki,grodziski,mazowieckie,35444,26419,26481,11490,14991
+140505,gm. Jaktorów,grodziski,mazowieckie,9534,7145,7105,3688,3417
+140506,gm. Żabia Wola,grodziski,mazowieckie,7219,5386,5374,2622,2752
+140601,gm. Belsk Duży,grójecki,mazowieckie,5179,3623,3613,2441,1172
+140602,gm. Błędów,grójecki,mazowieckie,6003,4112,4092,3046,1046
+140603,gm. Chynów,grójecki,mazowieckie,7828,5462,5434,3527,1907
+140604,gm. Goszczyn,grójecki,mazowieckie,2352,1759,1754,1410,344
+140605,gm. Grójec,grójecki,mazowieckie,19548,13853,13849,6916,6933
+140606,gm. Jasieniec,grójecki,mazowieckie,4264,2813,2803,1941,862
+140607,gm. Mogielnica,grójecki,mazowieckie,7252,4955,4981,3728,1253
+140608,gm. Nowe Miasto nad Pilicą,grójecki,mazowieckie,6464,4568,4642,3437,1205
+140609,gm. Pniewy,grójecki,mazowieckie,3931,2714,2701,1712,989
+140611,gm. Warka,grójecki,mazowieckie,14905,10620,10600,6510,4090
+140701,gm. Garbatka-Letnisko,kozienicki,mazowieckie,4606,3237,3255,2160,1095
+140702,gm. Głowaczów,kozienicki,mazowieckie,5858,4273,4270,3389,881
+140703,gm. Gniewoszów,kozienicki,mazowieckie,3154,2100,2115,1643,472
+140704,gm. Grabów nad Pilicą,kozienicki,mazowieckie,3292,2472,2471,1926,545
+140705,gm. Kozienice,kozienicki,mazowieckie,23229,16238,16203,10128,6075
+140706,gm. Magnuszew,kozienicki,mazowieckie,5774,4186,4168,3113,1055
+140707,gm. Sieciechów,kozienicki,mazowieckie,3223,2122,2107,1535,572
+140801,m. Legionowo,legionowski,mazowieckie,39217,29354,29368,12475,16893
+140802,gm. Jabłonna,legionowski,mazowieckie,13884,10646,10683,4089,6594
+140803,gm. Nieporęt,legionowski,mazowieckie,11507,9146,9179,4063,5116
+140804,gm. Serock,legionowski,mazowieckie,12711,9236,9276,4356,4920
+140805,gm. Wieliszew,legionowski,mazowieckie,12103,9267,9255,4182,5073
+140901,gm. Chotcza,lipski,mazowieckie,2005,1250,1238,966,272
+140902,gm. Ciepielów,lipski,mazowieckie,4622,2879,2887,2262,625
+140903,gm. Lipsko,lipski,mazowieckie,9011,5741,5734,3841,1893
+140904,gm. Rzeczniów,lipski,mazowieckie,3586,2334,2312,1850,462
+140905,gm. Sienno,lipski,mazowieckie,4761,2996,2995,2280,715
+140906,gm. Solec nad Wisłą,lipski,mazowieckie,4153,2552,2537,1789,748
+141001,gm. Huszlew,łosicki,mazowieckie,2237,1505,1501,1287,214
+141002,gm. Łosice,łosicki,mazowieckie,8717,5760,5764,4074,1690
+141003,gm. Olszanka,łosicki,mazowieckie,2373,1681,1665,1411,254
+141004,gm. Platerów,łosicki,mazowieckie,3935,2517,2507,1929,578
+141005,gm. Sarnaki,łosicki,mazowieckie,4255,2905,2897,1989,908
+141006,gm. Stara Kornica,łosicki,mazowieckie,3808,2400,2386,2011,375
+141101,m. Maków Mazowiecki,makowski,mazowieckie,7582,4963,4980,2960,2020
+141102,gm. Czerwonka,makowski,mazowieckie,2084,1439,1453,1194,259
+141103,gm. Karniewo,makowski,mazowieckie,4085,2760,2743,2143,600
+141104,gm. Krasnosielc,makowski,mazowieckie,4975,3121,3096,2322,774
+141105,gm. Młynarze,makowski,mazowieckie,1361,1028,1033,837,196
+141106,gm. Płoniawy-Bramura,makowski,mazowieckie,4471,2862,2855,2205,650
+141107,gm. Różan,makowski,mazowieckie,3756,2644,2645,1692,953
+141108,gm. Rzewnie,makowski,mazowieckie,2370,1800,1797,1271,526
+141109,gm. Sypniewo,makowski,mazowieckie,2588,1810,1801,1422,379
+141110,gm. Szelków,makowski,mazowieckie,3020,2147,2147,1582,565
+141201,m. Mińsk Mazowiecki,miński,mazowieckie,30003,22183,22148,10820,11328
+141204,gm. Cegłów,miński,mazowieckie,4853,3491,3453,2103,1350
+141205,gm. Dębe Wielkie,miński,mazowieckie,7996,5776,5745,3619,2126
+141206,gm. Dobre,miński,mazowieckie,4956,3443,3468,2452,1016
+141207,gm. Halinów,miński,mazowieckie,12070,8948,8982,4845,4137
+141208,gm. Jakubów,miński,mazowieckie,4008,2860,2854,2136,718
+141209,gm. Kałuszyn,miński,mazowieckie,4607,3212,3232,2299,933
+141210,gm. Latowicz,miński,mazowieckie,4220,2843,2830,2236,594
+141211,gm. Mińsk Mazowiecki,miński,mazowieckie,11747,8482,8456,5238,3218
+141212,gm. Mrozy,miński,mazowieckie,7054,4948,4955,3251,1704
+141213,gm. Siennica,miński,mazowieckie,5889,4058,4040,2792,1248
+141214,gm. Stanisławów,miński,mazowieckie,5456,3886,3899,2959,940
+141215,m. Sulejówek,miński,mazowieckie,15291,11465,11554,5666,5888
+141301,m. Mława,mławski,mazowieckie,23371,15654,15642,8478,7164
+141302,gm. Dzierzgowo,mławski,mazowieckie,2440,1537,1538,1223,315
+141303,gm. Lipowiec Kościelny,mławski,mazowieckie,3819,2455,2455,1801,654
+141304,gm. Radzanów,mławski,mazowieckie,2676,1783,1785,1357,428
+141305,gm. Strzegowo,mławski,mazowieckie,6091,3865,3852,2868,984
+141306,gm. Stupsk,mławski,mazowieckie,3827,2427,2413,1805,608
+141307,gm. Szreńsk,mławski,mazowieckie,3344,2166,2158,1709,449
+141308,gm. Szydłowo,mławski,mazowieckie,3598,2417,2399,1750,649
+141309,gm. Wieczfnia Kościelna,mławski,mazowieckie,3125,2051,2043,1571,472
+141310,gm. Wiśniewo,mławski,mazowieckie,4101,2636,2615,1913,702
+141401,m. Nowy Dwór Mazowiecki,nowodworski,mazowieckie,21177,14760,14762,6576,8186
+141402,gm. Czosnów,nowodworski,mazowieckie,8049,5868,5866,2906,2960
+141403,gm. Leoncin,nowodworski,mazowieckie,4536,3284,3275,2157,1118
+141404,gm. Nasielsk,nowodworski,mazowieckie,15594,10536,10472,6874,3598
+141405,gm. Pomiechówek,nowodworski,mazowieckie,7578,5557,5536,2951,2585
+141406,gm. Zakroczym,nowodworski,mazowieckie,4972,3200,3194,1958,1236
+141501,gm. Baranowo,ostrołęcki,mazowieckie,5190,3194,3213,2410,803
+141502,gm. Czarnia,ostrołęcki,mazowieckie,1946,1146,1153,979,174
+141503,gm. Czerwin,ostrołęcki,mazowieckie,4086,2800,2786,2252,534
+141504,gm. Goworowo,ostrołęcki,mazowieckie,6794,4365,4370,3460,910
+141505,gm. Kadzidło,ostrołęcki,mazowieckie,8777,5381,5363,4112,1251
+141506,gm. Lelis,ostrołęcki,mazowieckie,7402,5001,4977,3862,1115
+141507,gm. Łyse,ostrołęcki,mazowieckie,6459,3843,3820,2991,829
+141508,gm. Myszyniec,ostrołęcki,mazowieckie,8179,5184,5134,4127,1007
+141509,gm. Olszewo-Borki,ostrołęcki,mazowieckie,8209,5492,5475,3915,1560
+141510,gm. Rzekuń,ostrołęcki,mazowieckie,8754,6172,6162,4110,2052
+141511,gm. Troszyn,ostrołęcki,mazowieckie,3751,2569,2563,2089,474
+141601,m. Ostrów Mazowiecka,ostrowski,mazowieckie,17424,11248,11285,6498,4787
+141602,gm. Andrzejewo,ostrowski,mazowieckie,3318,2477,2457,2123,334
+141603,gm. Boguty-Pianki,ostrowski,mazowieckie,2084,1612,1598,1398,200
+141604,gm. Brok,ostrowski,mazowieckie,2554,1817,1819,1125,694
+141605,gm. Małkinia Górna,ostrowski,mazowieckie,9182,6354,6363,4884,1479
+141606,gm. Nur,ostrowski,mazowieckie,2362,1832,1825,1473,352
+141607,gm. Ostrów Mazowiecka,ostrowski,mazowieckie,10115,6684,6645,5004,1641
+141608,gm. Stary Lubotyń,ostrowski,mazowieckie,2896,1960,1958,1689,269
+141609,gm. Szulborze Wielkie,ostrowski,mazowieckie,1371,1235,1217,987,230
+141610,gm. Wąsewo,ostrowski,mazowieckie,3424,2336,2335,1837,498
+141611,gm. Zaręby Kościelne,ostrowski,mazowieckie,2927,1987,1970,1647,323
+141701,m. Józefów,otwocki,mazowieckie,14815,11503,11569,4912,6657
+141702,m. Otwock,otwocki,mazowieckie,33773,24638,24690,11903,12787
+141703,gm. Celestynów,otwocki,mazowieckie,9127,6940,6909,4379,2530
+141704,gm. Karczew,otwocki,mazowieckie,12139,8848,8925,5293,3632
+141705,gm. Kołbiel,otwocki,mazowieckie,6551,4824,4810,3469,1341
+141706,gm. Osieck,otwocki,mazowieckie,2955,2231,2214,1725,489
+141707,gm. Sobienie-Jeziory,otwocki,mazowieckie,5044,3681,3669,2474,1195
+141708,gm. Wiązowna,otwocki,mazowieckie,10097,7923,7886,4175,3711
+141801,gm. Góra Kalwaria,piaseczyński,mazowieckie,20062,14647,14600,7679,6921
+141802,gm. Konstancin-Jeziorna,piaseczyński,mazowieckie,19680,14698,14783,6427,8356
+141803,gm. Lesznowola,piaseczyński,mazowieckie,19541,15904,15913,5645,10268
+141804,gm. Piaseczno,piaseczyński,mazowieckie,60167,46646,46915,16716,30199
+141805,gm. Prażmów,piaseczyński,mazowieckie,8713,6440,6432,3165,3267
+141806,gm. Tarczyn,piaseczyński,mazowieckie,8962,6475,6502,3877,2625
+141901,gm. Bielsk,płocki,mazowieckie,7031,4535,4535,3302,1233
+141902,gm. Bodzanów,płocki,mazowieckie,6534,4162,4147,2898,1249
+141903,gm. Brudzeń Duży,płocki,mazowieckie,6492,4139,4120,3066,1054
+141904,gm. Bulkowo,płocki,mazowieckie,4450,2980,2972,2368,604
+141905,gm. Drobin,płocki,mazowieckie,6100,3523,3534,2661,873
+141906,gm. Gąbin,płocki,mazowieckie,8791,5848,5826,3987,1839
+141907,gm. Łąck,płocki,mazowieckie,4463,3126,3122,1892,1230
+141908,gm. Mała Wieś,płocki,mazowieckie,4781,3022,3015,2265,750
+141909,gm. Nowy Duninów,płocki,mazowieckie,3260,2170,2170,1472,698
+141910,gm. Radzanowo,płocki,mazowieckie,6535,4388,4375,2758,1617
+141911,gm. Słubice,płocki,mazowieckie,3535,2380,2376,1869,507
+141912,gm. Słupno,płocki,mazowieckie,6370,4715,4698,2135,2563
+141913,gm. Stara Biała,płocki,mazowieckie,9052,6267,6226,3808,2418
+141914,gm. Staroźreby,płocki,mazowieckie,5745,3516,3523,2668,855
+141915,gm. Wyszogród,płocki,mazowieckie,4482,2808,2822,1937,885
+142001,m. Płońsk,płoński,mazowieckie,16896,11620,11603,5956,5647
+142002,m. Raciąż,płoński,mazowieckie,3414,2254,2254,1426,828
+142003,gm. Baboszewo,płoński,mazowieckie,6301,3993,4004,2967,1037
+142004,gm. Czerwińsk nad Wisłą,płoński,mazowieckie,6139,3586,3584,2737,847
+142005,gm. Dzierzążnia,płoński,mazowieckie,2944,1934,1933,1497,436
+142006,gm. Joniec,płoński,mazowieckie,2753,2131,2118,1216,902
+142007,gm. Naruszewo,płoński,mazowieckie,5045,3069,3061,2330,731
+142008,gm. Nowe Miasto,płoński,mazowieckie,3926,2701,2725,1800,925
+142009,gm. Płońsk,płoński,mazowieckie,6241,4068,4057,2682,1375
+142010,gm. Raciąż,płoński,mazowieckie,6804,4216,4186,3414,772
+142011,gm. Sochocin,płoński,mazowieckie,4831,3214,3215,2163,1052
+142012,gm. Załuski,płoński,mazowieckie,4573,2875,2864,2034,830
+142101,m. Piastów,pruszkowski,mazowieckie,17083,12992,13014,5886,7128
+142102,m. Pruszków,pruszkowski,mazowieckie,47142,33409,33609,13684,19925
+142103,gm. Brwinów,pruszkowski,mazowieckie,19761,15400,15476,6287,9189
+142104,gm. Michałowice,pruszkowski,mazowieckie,13494,11091,11181,3957,7224
+142105,gm. Nadarzyn,pruszkowski,mazowieckie,11069,8633,8685,3451,5234
+142106,gm. Raszyn,pruszkowski,mazowieckie,16794,12571,12641,6204,6437
+142201,m. Przasnysz,przasnyski,mazowieckie,13013,8763,8756,5062,3694
+142202,gm. Chorzele,przasnyski,mazowieckie,7868,4736,4740,3575,1165
+142203,gm. Czernice Borowe,przasnyski,mazowieckie,3058,2047,2050,1625,425
+142204,gm. Jednorożec,przasnyski,mazowieckie,5574,3320,3298,2491,807
+142205,gm. Krasne,przasnyski,mazowieckie,2893,1777,1774,1417,357
+142206,gm. Krzynowłoga Mała,przasnyski,mazowieckie,2799,1934,1919,1647,272
+142207,gm. Przasnysz,przasnyski,mazowieckie,5569,3658,3633,2890,743
+142301,gm. Borkowice,przysuski,mazowieckie,3577,2424,2405,1780,625
+142302,gm. Gielniów,przysuski,mazowieckie,3798,2639,2653,2214,439
+142303,gm. Klwów,przysuski,mazowieckie,2786,2583,2604,2161,443
+142304,gm. Odrzywół,przysuski,mazowieckie,3171,2406,2396,2068,328
+142305,gm. Potworów,przysuski,mazowieckie,3295,2275,2261,1923,338
+142306,gm. Przysucha,przysuski,mazowieckie,9830,6657,6706,4766,1940
+142307,gm. Rusinów,przysuski,mazowieckie,3484,2635,2644,2326,318
+142308,gm. Wieniawa,przysuski,mazowieckie,4416,3006,3028,2503,525
+142401,gm. Gzy,pułtuski,mazowieckie,3054,1999,1990,1535,455
+142402,gm. Obryte,pułtuski,mazowieckie,4019,2964,2957,2246,711
+142403,gm. Pokrzywnica,pułtuski,mazowieckie,4124,2823,2827,2041,786
+142404,gm. Pułtusk,pułtuski,mazowieckie,18780,12567,12604,7226,5378
+142405,gm. Świercze,pułtuski,mazowieckie,3855,2483,2479,1722,757
+142406,gm. Winnica,pułtuski,mazowieckie,3241,2331,2314,1698,616
+142407,gm. Zatory,pułtuski,mazowieckie,4090,2936,2930,2183,747
+142501,m. Pionki,radomski,mazowieckie,14139,9131,9124,5280,3844
+142502,gm. Gózd,radomski,mazowieckie,6864,4999,4994,4117,877
+142503,gm. Iłża,radomski,mazowieckie,11883,7341,7345,5228,2117
+142504,gm. Jastrzębia,radomski,mazowieckie,5527,3993,3981,3104,877
+142505,gm. Jedlińsk,radomski,mazowieckie,10941,7655,7608,5883,1725
+142506,gm. Jedlnia-Letnisko,radomski,mazowieckie,10141,7289,7318,5040,2278
+142507,gm. Kowala,radomski,mazowieckie,9177,6362,6379,4707,1672
+142508,gm. Pionki,radomski,mazowieckie,8081,5366,5356,3957,1399
+142509,gm. Przytyk,radomski,mazowieckie,5699,4172,4168,3564,604
+142510,gm. Skaryszew,radomski,mazowieckie,11237,8096,8113,6520,1593
+142511,gm. Wierzbica,radomski,mazowieckie,7468,4838,4807,3718,1089
+142512,gm. Wolanów,radomski,mazowieckie,6952,4857,4897,3873,1024
+142513,gm. Zakrzew,radomski,mazowieckie,9955,7448,7418,5738,1680
+142601,gm. Domanice,siedlecki,mazowieckie,2062,1475,1472,1272,200
+142602,gm. Korczew,siedlecki,mazowieckie,2336,1524,1523,1109,414
+142603,gm. Kotuń,siedlecki,mazowieckie,6698,4557,4564,3411,1153
+142604,gm. Mokobody,siedlecki,mazowieckie,4018,2873,2871,2435,436
+142605,gm. Mordy,siedlecki,mazowieckie,4643,3180,3166,2463,703
+142606,gm. Paprotnia,siedlecki,mazowieckie,2060,1503,1504,1316,188
+142607,gm. Przesmyki,siedlecki,mazowieckie,2658,1783,1798,1524,274
+142608,gm. Siedlce,siedlecki,mazowieckie,13972,9963,9952,7025,2927
+142609,gm. Skórzec,siedlecki,mazowieckie,6076,4352,4337,3672,665
+142610,gm. Suchożebry,siedlecki,mazowieckie,3720,2593,2583,2097,486
+142611,gm. Wiśniew,siedlecki,mazowieckie,4560,3393,3413,2929,484
+142612,gm. Wodynie,siedlecki,mazowieckie,3565,2465,2470,2094,376
+142613,gm. Zbuczyn,siedlecki,mazowieckie,7776,5760,5726,4840,886
+142701,m. Sierpc,sierpecki,mazowieckie,13945,9164,9110,5045,4065
+142702,gm. Gozdowo,sierpecki,mazowieckie,4675,2864,2850,2086,764
+142703,gm. Mochowo,sierpecki,mazowieckie,4792,2865,2863,2203,660
+142704,gm. Rościszewo,sierpecki,mazowieckie,3292,2146,2180,1773,407
+142705,gm. Sierpc,sierpecki,mazowieckie,5342,3306,3311,2375,936
+142706,gm. Szczutowo,sierpecki,mazowieckie,3617,2289,2304,1640,664
+142707,gm. Zawidz,sierpecki,mazowieckie,5229,3444,3425,2609,816
+142801,m. Sochaczew,sochaczewski,mazowieckie,26869,18591,18612,9311,9301
+142802,gm. Brochów,sochaczewski,mazowieckie,3644,2467,2462,1719,743
+142803,gm. Iłów,sochaczewski,mazowieckie,4935,3394,3389,2526,863
+142804,gm. Młodzieszyn,sochaczewski,mazowieckie,4441,2955,2925,2183,742
+142805,gm. Nowa Sucha,sochaczewski,mazowieckie,5155,3558,3527,2403,1124
+142806,gm. Rybno,sochaczewski,mazowieckie,2711,1868,1857,1409,448
+142807,gm. Sochaczew,sochaczewski,mazowieckie,8334,5710,5689,3456,2233
+142808,gm. Teresin,sochaczewski,mazowieckie,8959,6242,6307,3794,2513
+142901,m. Sokołów Podlaski,sokołowski,mazowieckie,14824,10273,10259,6229,4030
+142902,gm. Bielany,sokołowski,mazowieckie,2891,2410,2389,2082,307
+142903,gm. Ceranów,sokołowski,mazowieckie,1873,1296,1292,1065,227
+142904,gm. Jabłonna Lacka,sokołowski,mazowieckie,3786,2680,2663,2130,533
+142905,gm. Kosów Lacki,sokołowski,mazowieckie,4970,3407,3418,2714,704
+142906,gm. Repki,sokołowski,mazowieckie,4272,3040,3041,2443,598
+142907,gm. Sabnie,sokołowski,mazowieckie,3004,2035,2036,1556,480
+142908,gm. Sokołów Podlaski,sokołowski,mazowieckie,4823,3322,3331,2585,746
+142909,gm. Sterdyń,sokołowski,mazowieckie,3321,2341,2359,1777,582
+143001,gm. Chlewiska,szydłowiecki,mazowieckie,5036,3109,3101,2429,672
+143002,gm. Jastrząb,szydłowiecki,mazowieckie,4092,2706,2714,2151,563
+143003,gm. Mirów,szydłowiecki,mazowieckie,3010,1956,1955,1712,243
+143004,gm. Orońsko,szydłowiecki,mazowieckie,4642,3260,3247,2571,676
+143005,gm. Szydłowiec,szydłowiecki,mazowieckie,14501,9452,9444,6627,2817
+143201,gm. Błonie,warszawski zachodni,mazowieckie,16154,11532,11614,5722,5892
+143202,gm. Izabelin,warszawski zachodni,mazowieckie,8386,6409,6465,2956,3509
+143203,gm. Kampinos,warszawski zachodni,mazowieckie,3605,2600,2637,1579,1058
+143204,gm. Leszno,warszawski zachodni,mazowieckie,8256,5705,5721,2803,2918
+143205,gm. Łomianki,warszawski zachodni,mazowieckie,20268,15884,15933,6083,9850
+143206,gm. Ożarów Mazowiecki,warszawski zachodni,mazowieckie,19020,14128,14169,6636,7533
+143207,gm. Stare Babice,warszawski zachodni,mazowieckie,14161,11073,11123,4699,6424
+143301,m. Węgrów,węgrowski,mazowieckie,10059,6867,6863,3746,3117
+143302,gm. Grębków,węgrowski,mazowieckie,3642,2442,2463,1918,545
+143303,gm. Korytnica,węgrowski,mazowieckie,4989,3435,3427,2794,633
+143304,gm. Liw,węgrowski,mazowieckie,6042,4174,4160,3049,1111
+143305,gm. Łochów,węgrowski,mazowieckie,14241,9986,9989,6966,3023
+143306,gm. Miedzna,węgrowski,mazowieckie,3216,2295,2286,1756,530
+143307,gm. Sadowne,węgrowski,mazowieckie,4882,3451,3446,2606,840
+143308,gm. Stoczek,węgrowski,mazowieckie,4170,2849,2855,2134,721
+143309,gm. Wierzbno,węgrowski,mazowieckie,2276,1653,1641,1311,330
+143401,m. Kobyłka,wołomiński,mazowieckie,17682,13356,13351,6911,6440
+143402,m. Marki,wołomiński,mazowieckie,25268,18336,18409,8729,9680
+143403,m. Ząbki,wołomiński,mazowieckie,25512,18912,18895,8611,10284
+143404,m. Zielonka,wołomiński,mazowieckie,13239,10061,10073,4898,5175
+143405,gm. Dąbrówka,wołomiński,mazowieckie,6438,4989,4972,3758,1214
+143406,gm. Jadów,wołomiński,mazowieckie,6500,4310,4303,2840,1463
+143407,gm. Klembów,wołomiński,mazowieckie,7747,5710,5695,3955,1740
+143408,gm. Poświętne,wołomiński,mazowieckie,4854,3467,3457,2790,667
+143409,gm. Radzymin,wołomiński,mazowieckie,20163,15042,15027,8977,6050
+143410,gm. Strachówka,wołomiński,mazowieckie,2307,1537,1529,1151,378
+143411,gm. Tłuszcz,wołomiński,mazowieckie,15402,10962,10930,7512,3418
+143412,gm. Wołomin,wołomiński,mazowieckie,38935,28478,28432,16007,12425
+143501,gm. Brańszczyk,wyszkowski,mazowieckie,6877,4719,4717,3478,1239
+143502,gm. Długosiodło,wyszkowski,mazowieckie,6234,4224,4211,3132,1079
+143503,gm. Rząśnik,wyszkowski,mazowieckie,5621,4103,4094,3241,853
+143504,gm. Somianka,wyszkowski,mazowieckie,4866,3565,3563,2521,1042
+143505,gm. Wyszków,wyszkowski,mazowieckie,30770,21356,21237,13088,8149
+143506,gm. Zabrodzie,wyszkowski,mazowieckie,4739,3401,3422,2508,914
+143601,gm. Kazanów,zwoleński,mazowieckie,3660,2545,2535,2027,508
+143602,gm. Policzna,zwoleński,mazowieckie,4638,2988,3010,2292,718
+143603,gm. Przyłęk,zwoleński,mazowieckie,4925,3196,3182,2585,597
+143604,gm. Tczów,zwoleński,mazowieckie,3793,2621,2631,2216,415
+143605,gm. Zwoleń,zwoleński,mazowieckie,11921,8050,8076,5625,2451
+143701,gm. Bieżuń,żuromiński,mazowieckie,3919,2562,2589,1889,700
+143702,gm. Kuczbork-Osada,żuromiński,mazowieckie,3723,2402,2388,1580,808
+143703,gm. Lubowidz,żuromiński,mazowieckie,5421,3518,3494,2419,1075
+143704,gm. Lutocin,żuromiński,mazowieckie,3479,2196,2192,1700,492
+143705,gm. Siemiątkowo,żuromiński,mazowieckie,2833,1831,1828,1497,331
+143706,gm. Żuromin,żuromiński,mazowieckie,11343,7493,7505,4295,3210
+143801,m. Żyrardów,żyrardowski,mazowieckie,29172,20731,20725,10021,10704
+143802,gm. Mszczonów,żyrardowski,mazowieckie,8959,6246,6213,3979,2234
+143803,gm. Puszcza Mariańska,żyrardowski,mazowieckie,6894,4698,4682,2901,1781
+143804,gm. Radziejowice,żyrardowski,mazowieckie,4669,3499,3496,1895,1601
+143805,gm. Wiskitki,żyrardowski,mazowieckie,7882,5265,5263,3573,1690
+146101,m. Ostrołęka,Ostrołęka,mazowieckie,39307,26003,25954,15149,10805
+146201,m. Płock,Płock,mazowieckie,90610,62363,62164,29928,32236
+146301,m. Radom,Radom,mazowieckie,155558,107087,107232,59413,47819
+146401,m. Siedlce,Siedlce,mazowieckie,58158,41003,40999,23778,17221
+146502,Bemowo,Warszawa,mazowieckie,91009,71015,71494,21283,50211
+146503,Białołęka,Warszawa,mazowieckie,90099,70860,71263,21861,49402
+146504,Bielany,Warszawa,mazowieckie,100237,76252,76688,27274,49414
+146505,Mokotów,Warszawa,mazowieckie,169764,128322,129087,37058,92029
+146506,Ochota,Warszawa,mazowieckie,62796,46386,46745,14427,32318
+146507,Praga-Południe,Warszawa,mazowieckie,139668,106234,106425,35330,71095
+146508,Praga-Północ,Warszawa,mazowieckie,47272,32952,32975,13361,19614
+146509,Rembertów,Warszawa,mazowieckie,17393,13375,13446,5123,8323
+146510,Śródmieście,Warszawa,mazowieckie,87212,62913,63505,20096,43409
+146511,Targówek,Warszawa,mazowieckie,92919,68563,68776,27542,41234
+146512,Ursus,Warszawa,mazowieckie,43181,33664,33746,12686,21060
+146513,Ursynów,Warszawa,mazowieckie,110032,89184,89766,23867,65899
+146514,Wawer,Warszawa,mazowieckie,57437,45179,45630,17370,28260
+146515,Wesoła,Warszawa,mazowieckie,18260,14718,14801,5310,9491
+146516,Wilanów,Warszawa,mazowieckie,28368,23692,23881,5264,18617
+146517,Włochy,Warszawa,mazowieckie,32855,25342,25481,8620,16861
+146518,Wola,Warszawa,mazowieckie,111192,81839,82247,26975,55272
+146519,Żoliborz,Warszawa,mazowieckie,40494,31807,32157,9107,23050
+149801,statki,statki,mazowieckie,384,383,360,110,250
+149901,zagranica,zagranica,mazowieckie,525355,35131,415951,107647,308304
+160101,m. Brzeg,brzeski,opolskie,26765,17007,17031,8144,8887
+160102,gm. Skarbimierz,brzeski,opolskie,6194,4259,4262,2412,1850
+160103,gm. Grodków,brzeski,opolskie,14830,8922,8942,4872,4070
+160104,gm. Lewin Brzeski,brzeski,opolskie,9933,5933,5948,3319,2629
+160105,gm. Lubsza,brzeski,opolskie,6973,4406,4368,2548,1820
+160106,gm. Olszanka,brzeski,opolskie,3859,2519,2513,1617,896
+160201,gm. Baborów,głubczycki,opolskie,4791,2696,2697,1663,1034
+160202,gm. Branice,głubczycki,opolskie,5504,3279,3262,2040,1222
+160203,gm. Głubczyce,głubczycki,opolskie,17306,10918,10937,6507,4430
+160204,gm. Kietrz,głubczycki,opolskie,8458,5092,5136,3047,2089
+160301,m. Kędzierzyn-Koźle,kędzierzyńsko-kozielski,opolskie,44517,27476,27480,10897,16583
+160302,gm. Bierawa,kędzierzyńsko-kozielski,opolskie,6035,3155,3166,1462,1704
+160303,gm. Cisek,kędzierzyńsko-kozielski,opolskie,4465,2195,2185,1099,1086
+160304,gm. Pawłowiczki,kędzierzyńsko-kozielski,opolskie,6064,2950,2930,1494,1436
+160305,gm. Polska Cerekiew,kędzierzyńsko-kozielski,opolskie,3333,1639,1641,764,877
+160306,gm. Reńska Wieś,kędzierzyńsko-kozielski,opolskie,6630,3343,3348,1467,1881
+160401,gm. Byczyna,kluczborski,opolskie,7207,4190,4177,2409,1768
+160402,gm. Kluczbork,kluczborski,opolskie,28084,16917,16945,7612,9333
+160403,gm. Lasowice Wielkie,kluczborski,opolskie,5500,2498,2482,1222,1260
+160404,gm. Wołczyn,kluczborski,opolskie,10151,6026,6066,3612,2454
+160501,gm. Gogolin,krapkowicki,opolskie,9779,4909,4937,2002,2935
+160502,gm. Krapkowice,krapkowicki,opolskie,17680,9765,9805,4024,5781
+160503,gm. Strzeleczki,krapkowicki,opolskie,5869,2934,2933,1413,1520
+160504,gm. Walce,krapkowicki,opolskie,4432,2158,2169,940,1229
+160505,gm. Zdzieszowice,krapkowicki,opolskie,11574,6236,6254,2598,3656
+160601,gm. Domaszowice,namysłowski,opolskie,2873,1933,1929,1142,787
+160602,gm. Namysłów,namysłowski,opolskie,20235,13295,13270,7059,6211
+160603,gm. Pokój,namysłowski,opolskie,4187,2357,2377,1065,1312
+160604,gm. Świerczów,namysłowski,opolskie,2762,1769,1763,1006,757
+160605,gm. Wilków,namysłowski,opolskie,3516,2126,2115,1212,903
+160701,gm. Głuchołazy,nyski,opolskie,19286,11339,11380,6015,5365
+160702,gm. Kamiennik,nyski,opolskie,2732,1601,1605,1154,451
+160703,gm. Korfantów,nyski,opolskie,7303,3842,3860,2609,1251
+160704,gm. Łambinowice,nyski,opolskie,5841,3407,3420,2070,1350
+160705,gm. Nysa,nyski,opolskie,44921,27893,28143,13918,14225
+160706,gm. Otmuchów,nyski,opolskie,10769,6699,6673,4098,2575
+160707,gm. Paczków,nyski,opolskie,9656,5763,5788,3453,2335
+160708,gm. Pakosławice,nyski,opolskie,2868,1903,1898,1231,667
+160709,gm. Skoroszyce,nyski,opolskie,4873,2875,2888,1918,970
+160801,gm. Dobrodzień,oleski,opolskie,7854,3686,3711,1816,1895
+160802,gm. Gorzów Śląski,oleski,opolskie,5792,2954,2945,1735,1210
+160803,gm. Olesno,oleski,opolskie,14221,7592,7629,3400,4229
+160804,gm. Praszka,oleski,opolskie,10619,7257,7255,3946,3309
+160805,gm. Radłów,oleski,opolskie,3391,1615,1605,941,664
+160806,gm. Rudniki,oleski,opolskie,6548,4391,4365,2774,1591
+160807,gm. Zębowice,oleski,opolskie,2901,1339,1340,709,631
+160901,gm. Chrząstowice,opolski,opolskie,5601,3096,3123,1069,2054
+160902,gm. Dąbrowa,opolski,opolskie,6441,3956,3958,1757,2201
+160903,gm. Dobrzeń Wielki,opolski,opolskie,7471,4125,4118,1223,2895
+160904,gm. Komprachcice,opolski,opolskie,7240,3946,3934,1466,2468
+160905,gm. Łubniany,opolski,opolskie,7734,4274,4263,1551,2712
+160906,gm. Murów,opolski,opolskie,4352,2055,2049,873,1176
+160907,gm. Niemodlin,opolski,opolskie,10118,5970,5993,3280,2713
+160908,gm. Ozimek,opolski,opolskie,15419,8258,8227,3543,4684
+160909,gm. Popielów,opolski,opolskie,6372,3356,3355,1500,1855
+160910,gm. Prószków,opolski,opolskie,7135,3973,3960,1687,2273
+160911,gm. Tarnów Opolski,opolski,opolskie,7515,4168,4160,1717,2443
+160912,gm. Tułowice,opolski,opolskie,4010,2474,2517,1345,1172
+160913,gm. Turawa,opolski,opolskie,8190,4480,4480,1694,2786
+161001,gm. Biała,prudnicki,opolskie,8441,4114,4119,2148,1971
+161002,gm. Głogówek,prudnicki,opolskie,10335,5652,5669,3070,2599
+161003,gm. Lubrza,prudnicki,opolskie,3421,2137,2118,1221,897
+161004,gm. Prudnik,prudnicki,opolskie,20686,12679,12733,7312,5421
+161101,gm. Izbicko,strzelecki,opolskie,4269,2255,2249,955,1294
+161102,gm. Jemielnica,strzelecki,opolskie,5883,2772,2768,1559,1209
+161103,gm. Kolonowskie,strzelecki,opolskie,4769,2327,2329,1035,1294
+161104,gm. Leśnica,strzelecki,opolskie,6136,3400,3404,1750,1654
+161105,gm. Strzelce Opolskie,strzelecki,opolskie,24384,13938,13931,5905,8026
+161106,gm. Ujazd,strzelecki,opolskie,5000,2727,2730,1520,1210
+161107,gm. Zawadzkie,strzelecki,opolskie,9095,4481,4518,2554,1964
+166101,m. Opole,Opole,opolskie,97348,67001,67052,21459,45593
+180103,gm. Czarna,bieszczadzki,podkarpackie,2171,1380,1376,847,529
+180105,gm. Lutowiska,bieszczadzki,podkarpackie,2502,1938,1912,806,1106
+180108,gm. Ustrzyki Dolne,bieszczadzki,podkarpackie,14693,8649,8683,4942,3741
+180201,gm. Brzozów,brzozowski,podkarpackie,20914,13406,13478,10698,2780
+180202,gm. Domaradz,brzozowski,podkarpackie,4826,3279,3284,2878,406
+180203,gm. Dydnia,brzozowski,podkarpackie,6450,4046,4032,3382,650
+180204,gm. Haczów,brzozowski,podkarpackie,7269,4897,4928,3969,959
+180205,gm. Jasienica Rosielna,brzozowski,podkarpackie,6049,4629,4597,4017,580
+180206,gm. Nozdrzec,brzozowski,podkarpackie,6524,4095,4101,3364,737
+180301,m. Dębica,dębicki,podkarpackie,35194,24084,24161,15007,9154
+180302,gm. Brzostek,dębicki,podkarpackie,10269,6769,6792,5949,843
+180303,gm. Czarna,dębicki,podkarpackie,10324,6874,6944,5528,1416
+180304,gm. Dębica,dębicki,podkarpackie,19879,13331,13326,10204,3122
+180305,gm. Jodłowa,dębicki,podkarpackie,4280,2708,2719,2371,348
+180306,gm. Pilzno,dębicki,podkarpackie,14219,9913,9910,8313,1597
+180307,gm. Żyraków,dębicki,podkarpackie,11153,7786,7796,6304,1492
+180401,m. Jarosław,jarosławski,podkarpackie,29407,18256,18533,11394,7139
+180402,m. Radymno,jarosławski,podkarpackie,4456,2679,2679,1876,803
+180403,gm. Chłopice,jarosławski,podkarpackie,4468,2845,2858,2464,394
+180404,gm. Jarosław,jarosławski,podkarpackie,10232,6558,6603,5182,1421
+180405,gm. Laszki,jarosławski,podkarpackie,5411,3302,3332,2830,502
+180406,gm. Pawłosiów,jarosławski,podkarpackie,6663,4352,4420,3344,1076
+180407,gm. Pruchnik,jarosławski,podkarpackie,7797,5192,5218,4578,640
+180408,gm. Radymno,jarosławski,podkarpackie,8897,5594,5628,4748,880
+180409,gm. Rokietnica,jarosławski,podkarpackie,3539,2080,2114,1833,281
+180410,gm. Roźwienica,jarosławski,podkarpackie,4947,3126,3218,2710,508
+180411,gm. Wiązownica,jarosławski,podkarpackie,9282,6072,6161,5064,1097
+180501,m. Jasło,jasielski,podkarpackie,27745,17998,18062,11229,6833
+180502,gm. Brzyska,jasielski,podkarpackie,5217,3546,3600,3168,432
+180503,gm. Dębowiec,jasielski,podkarpackie,6939,4728,4728,4009,719
+180504,gm. Jasło,jasielski,podkarpackie,13238,9020,9025,7118,1907
+180505,gm. Kołaczyce,jasielski,podkarpackie,7127,4778,4799,4048,751
+180506,gm. Krempna,jasielski,podkarpackie,1639,953,950,673,277
+180507,gm. Nowy Żmigród,jasielski,podkarpackie,7340,4871,4878,4057,821
+180508,gm. Osiek Jasielski,jasielski,podkarpackie,4215,2747,2759,2398,361
+180509,gm. Skołyszyn,jasielski,podkarpackie,9958,6627,6630,5255,1375
+180511,gm. Tarnowiec,jasielski,podkarpackie,7394,4923,4922,3951,971
+180601,gm. Cmolas,kolbuszowski,podkarpackie,6367,4140,4113,3491,622
+180602,gm. Kolbuszowa,kolbuszowski,podkarpackie,19417,12256,12272,9028,3244
+180603,gm. Majdan Królewski,kolbuszowski,podkarpackie,7732,4792,4817,4144,673
+180604,gm. Niwiska,kolbuszowski,podkarpackie,4769,3053,3077,2568,509
+180605,gm. Raniżów,kolbuszowski,podkarpackie,5549,3655,3663,3102,561
+180606,gm. Dzikowiec,kolbuszowski,podkarpackie,5111,2929,2947,2502,445
+180701,gm. Chorkówka,krośnieński,podkarpackie,10641,7035,6998,5398,1600
+180702,gm. Dukla,krośnieński,podkarpackie,11665,7498,7526,5650,1876
+180703,gm. Iwonicz-Zdrój,krośnieński,podkarpackie,8985,6177,6242,4707,1535
+180704,gm. Jedlicze,krośnieński,podkarpackie,12095,7719,7760,5553,2207
+180705,gm. Korczyna,krośnieński,podkarpackie,9089,6088,6116,4586,1530
+180706,gm. Krościenko Wyżne,krośnieński,podkarpackie,4347,2922,2972,2175,797
+180707,gm. Miejsce Piastowe,krośnieński,podkarpackie,10867,7321,7355,5229,2126
+180708,gm. Rymanów,krośnieński,podkarpackie,13074,8848,8821,6561,2260
+180709,gm. Wojaszówka,krośnieński,podkarpackie,7436,4735,4741,3487,1254
+180710,gm. Jaśliska,krośnieński,podkarpackie,1924,1345,1347,1030,317
+180801,m. Leżajsk,leżajski,podkarpackie,10988,7059,7083,4586,2497
+180802,gm. Grodzisko Dolne,leżajski,podkarpackie,6366,4228,4226,3596,630
+180803,gm. Kuryłówka,leżajski,podkarpackie,4531,2821,2845,2399,446
+180804,gm. Leżajsk,leżajski,podkarpackie,15791,10187,10189,8680,1509
+180805,gm. Nowa Sarzyna,leżajski,podkarpackie,16621,10931,10952,9317,1635
+180901,m. Lubaczów,lubaczowski,podkarpackie,9613,5975,6006,3530,2476
+180902,gm. Cieszanów,lubaczowski,podkarpackie,5825,3375,3380,2518,862
+180903,gm. Horyniec-Zdrój,lubaczowski,podkarpackie,3890,2402,2392,1707,685
+180904,gm. Lubaczów,lubaczowski,podkarpackie,7356,4551,4560,3797,763
+180905,gm. Narol,lubaczowski,podkarpackie,6481,3884,3868,2994,874
+180906,gm. Oleszyce,lubaczowski,podkarpackie,5024,3167,3176,2456,720
+180907,gm. Stary Dzików,lubaczowski,podkarpackie,3457,2162,2147,1755,392
+180908,gm. Wielkie Oczy,lubaczowski,podkarpackie,2972,1923,1931,1571,360
+181001,m. Łańcut,łańcucki,podkarpackie,13876,9535,9630,5973,3657
+181002,gm. Białobrzegi,łańcucki,podkarpackie,6742,4520,4515,3659,856
+181003,gm. Czarna,łańcucki,podkarpackie,9146,6500,6521,5268,1253
+181004,gm. Łańcut,łańcucki,podkarpackie,16901,11933,11976,9430,2546
+181005,gm. Markowa,łańcucki,podkarpackie,5193,3667,3676,3057,619
+181006,gm. Rakszawa,łańcucki,podkarpackie,5794,4176,4168,3497,671
+181007,gm. Żołynia,łańcucki,podkarpackie,5532,3890,3881,3061,820
+181101,m. Mielec,mielecki,podkarpackie,46129,30574,30676,18444,12232
+181102,gm. Borowa,mielecki,podkarpackie,4407,2868,2871,2164,707
+181103,gm. Czermin,mielecki,podkarpackie,5605,3658,3659,2984,675
+181104,gm. Gawłuszowice,mielecki,podkarpackie,2183,1448,1455,1221,234
+181105,gm. Mielec,mielecki,podkarpackie,10477,6995,7020,5101,1919
+181106,gm. Padew Narodowa,mielecki,podkarpackie,4192,2742,2779,2310,469
+181107,gm. Przecław,mielecki,podkarpackie,9174,6161,6164,5070,1094
+181108,gm. Radomyśl Wielki,mielecki,podkarpackie,10922,7151,7142,5812,1330
+181109,gm. Tuszów Narodowy,mielecki,podkarpackie,6388,4463,4528,3636,892
+181110,gm. Wadowice Górne,mielecki,podkarpackie,5880,3832,3835,3272,563
+181201,gm. Harasiuki,niżański,podkarpackie,4961,2989,2985,2495,490
+181202,gm. Jarocin,niżański,podkarpackie,4298,2493,2494,1978,516
+181203,gm. Jeżowe,niżański,podkarpackie,7805,5263,5269,4817,452
+181204,gm. Krzeszów,niżański,podkarpackie,3445,2014,2026,1681,345
+181205,gm. Nisko,niżański,podkarpackie,17424,10666,10671,7393,3278
+181206,gm. Rudnik nad Sanem,niżański,podkarpackie,8009,4718,4717,3285,1432
+181207,gm. Ulanów,niżański,podkarpackie,6826,3986,4023,3229,794
+181301,gm. Bircza,przemyski,podkarpackie,5237,3075,3130,2577,553
+181302,gm. Dubiecko,przemyski,podkarpackie,7450,4583,4602,3665,937
+181303,gm. Fredropol,przemyski,podkarpackie,4411,2666,2666,2008,658
+181304,gm. Krasiczyn,przemyski,podkarpackie,4155,2603,2666,1775,891
+181305,gm. Krzywcza,przemyski,podkarpackie,3868,2433,2454,2128,326
+181306,gm. Medyka,przemyski,podkarpackie,5154,3238,3230,2461,769
+181307,gm. Orły,przemyski,podkarpackie,6870,4493,4500,3510,990
+181308,gm. Przemyśl,przemyski,podkarpackie,8198,5236,5241,3592,1649
+181309,gm. Stubno,przemyski,podkarpackie,3104,1740,1732,1342,390
+181310,gm. Żurawica,przemyski,podkarpackie,10385,6670,6670,4990,1680
+181401,m. Przeworsk,przeworski,podkarpackie,12114,7992,8064,5379,2685
+181402,gm. Adamówka,przeworski,podkarpackie,3337,1992,2028,1631,397
+181403,gm. Gać,przeworski,podkarpackie,3672,2358,2386,1960,426
+181404,gm. Jawornik Polski,przeworski,podkarpackie,3767,2458,2496,1896,600
+181405,gm. Kańczuga,przeworski,podkarpackie,9904,6047,6082,4461,1621
+181406,gm. Przeworsk,przeworski,podkarpackie,11789,7965,7980,6679,1301
+181407,gm. Sieniawa,przeworski,podkarpackie,5637,3562,3545,2647,898
+181408,gm. Tryńcza,przeworski,podkarpackie,6630,4478,4465,3879,586
+181409,gm. Zarzecze,przeworski,podkarpackie,5708,3849,3894,3214,680
+181501,gm. Iwierzyce,ropczycko-sędziszowski,podkarpackie,6039,4231,4251,3529,722
+181502,gm. Ostrów,ropczycko-sędziszowski,podkarpackie,5785,3920,3904,3275,629
+181503,gm. Ropczyce,ropczycko-sędziszowski,podkarpackie,21068,14439,14407,11240,3167
+181504,gm. Sędziszów Małopolski,ropczycko-sędziszowski,podkarpackie,18704,13120,13134,10620,2514
+181505,gm. Wielopole Skrzyńskie,ropczycko-sędziszowski,podkarpackie,6385,4427,4423,3851,572
+181601,m. Dynów,rzeszowski,podkarpackie,4926,3292,3300,2454,846
+181602,gm. Błażowa,rzeszowski,podkarpackie,8662,5866,5865,4675,1190
+181603,gm. Boguchwała,rzeszowski,podkarpackie,15856,11355,11371,8059,3312
+181604,gm. Chmielnik,rzeszowski,podkarpackie,5401,3834,3832,2942,890
+181605,gm. Dynów,rzeszowski,podkarpackie,5563,3479,3496,2890,606
+181606,gm. Głogów Małopolski,rzeszowski,podkarpackie,15266,10833,10847,7905,2942
+181607,gm. Hyżne,rzeszowski,podkarpackie,5500,4040,4035,3467,568
+181608,gm. Kamień,rzeszowski,podkarpackie,5462,3711,3698,3273,425
+181609,gm. Krasne,rzeszowski,podkarpackie,8978,6483,6525,4371,2154
+181610,gm. Lubenia,rzeszowski,podkarpackie,5217,3738,3737,2970,767
+181611,gm. Sokołów Małopolski,rzeszowski,podkarpackie,13672,9209,9198,7930,1268
+181612,gm. Świlcza,rzeszowski,podkarpackie,12399,8575,8579,6205,2374
+181613,gm. Trzebownisko,rzeszowski,podkarpackie,16892,12038,12061,8636,3425
+181614,gm. Tyczyn,rzeszowski,podkarpackie,8118,5769,5743,4219,1524
+181701,m. Sanok,sanocki,podkarpackie,29084,18192,18198,10190,8008
+181702,gm. Besko,sanocki,podkarpackie,3428,2151,2157,1685,472
+181703,gm. Bukowsko,sanocki,podkarpackie,4195,2725,2699,2076,623
+181704,gm. Komańcza,sanocki,podkarpackie,4224,2265,2266,1220,1046
+181705,gm. Sanok,sanocki,podkarpackie,14099,9055,8999,6927,2072
+181706,gm. Tyrawa Wołoska,sanocki,podkarpackie,1633,964,967,722,245
+181707,gm. Zagórz,sanocki,podkarpackie,10421,6498,6519,4726,1793
+181708,gm. Zarszyn,sanocki,podkarpackie,7373,4548,4556,3213,1343
+181801,m. Stalowa Wola,stalowowolski,podkarpackie,45901,28685,28726,17580,11146
+181802,gm. Bojanów,stalowowolski,podkarpackie,5948,3704,3690,3124,566
+181803,gm. Pysznica,stalowowolski,podkarpackie,8694,5289,5313,3841,1472
+181804,gm. Radomyśl nad Sanem,stalowowolski,podkarpackie,5794,3552,3551,2732,819
+181805,gm. Zaklików,stalowowolski,podkarpackie,6832,4214,4224,3105,1119
+181806,gm. Zaleszany,stalowowolski,podkarpackie,8649,5527,5548,4194,1354
+181901,gm. Czudec,strzyżowski,podkarpackie,9277,6364,6407,5093,1314
+181902,gm. Frysztak,strzyżowski,podkarpackie,8359,5214,5229,4155,1074
+181903,gm. Niebylec,strzyżowski,podkarpackie,8509,5976,5974,5081,893
+181904,gm. Strzyżów,strzyżowski,podkarpackie,16346,10200,10244,7415,2829
+181905,gm. Wiśniowa,strzyżowski,podkarpackie,6453,4230,4233,3438,795
+182001,gm. Baranów Sandomierski,tarnobrzeski,podkarpackie,9560,6097,6109,4752,1357
+182002,gm. Gorzyce,tarnobrzeski,podkarpackie,10271,6460,6456,4470,1986
+182003,gm. Grębów,tarnobrzeski,podkarpackie,7989,5232,5223,4082,1141
+182004,gm. Nowa Dęba,tarnobrzeski,podkarpackie,14643,9053,9059,6398,2661
+182101,gm. Baligród,leski,podkarpackie,3009,1972,1971,1318,653
+182102,gm. Cisna,leski,podkarpackie,3610,2995,2982,872,2110
+182103,gm. Lesko,leski,podkarpackie,9439,5948,5964,3780,2184
+182104,gm. Olszanica,leski,podkarpackie,4417,2751,2779,1854,925
+182105,gm. Solina,leski,podkarpackie,8836,7008,6975,3792,3183
+186101,m. Krosno,Krosno,podkarpackie,36331,24217,24284,13354,10930
+186201,m. Przemyśl,Przemyśl,podkarpackie,47264,28941,29098,16051,13047
+186301,m. Rzeszów,Rzeszów,podkarpackie,150771,104178,104399,52529,51870
+186401,m. Tarnobrzeg,Tarnobrzeg,podkarpackie,36284,23354,23383,12109,11274
+200101,m. Augustów,augustowski,podlaskie,24493,15912,15915,8552,7363
+200102,gm. Augustów,augustowski,podlaskie,5280,3021,2991,2242,749
+200103,gm. Bargłów Kościelny,augustowski,podlaskie,4356,2325,2312,1773,539
+200104,gm. Lipsk,augustowski,podlaskie,4236,2504,2500,1865,635
+200105,gm. Nowinka,augustowski,podlaskie,3092,2349,2337,1273,1064
+200106,gm. Płaska,augustowski,podlaskie,2988,2091,2094,919,1175
+200107,gm. Sztabin,augustowski,podlaskie,4217,2582,2547,1759,788
+200201,gm. Choroszcz,białostocki,podlaskie,12706,8382,8353,5058,3295
+200202,gm. Czarna Białostocka,białostocki,podlaskie,8585,5266,5256,3242,2014
+200203,gm. Dobrzyniewo Duże,białostocki,podlaskie,7281,4872,4839,3112,1727
+200204,gm. Gródek,białostocki,podlaskie,4456,2525,2562,876,1686
+200205,gm. Juchnowiec Kościelny,białostocki,podlaskie,12571,8702,8662,5176,3486
+200206,gm. Łapy,białostocki,podlaskie,16967,11182,11248,8324,2924
+200207,gm. Michałowo,białostocki,podlaskie,5465,3097,3102,1510,1592
+200208,gm. Poświętne,białostocki,podlaskie,2715,1841,1853,1610,243
+200209,gm. Supraśl,białostocki,podlaskie,12470,8953,8957,3887,5070
+200210,gm. Suraż,białostocki,podlaskie,1615,1227,1221,921,300
+200211,gm. Turośń Kościelna,białostocki,podlaskie,5035,3597,3614,2285,1329
+200212,gm. Tykocin,białostocki,podlaskie,5131,3384,3392,2725,667
+200213,gm. Wasilków,białostocki,podlaskie,12782,8576,8616,4495,4121
+200214,gm. Zabłudów,białostocki,podlaskie,7306,4514,4518,2764,1754
+200215,gm. Zawady,białostocki,podlaskie,2360,1337,1335,1136,199
+200301,m. Bielsk Podlaski,bielski,podlaskie,19829,12160,12186,5285,6901
+200302,m. Brańsk,bielski,podlaskie,2943,1956,1971,1640,331
+200303,gm. Bielsk Podlaski,bielski,podlaskie,5702,3050,3057,1562,1495
+200304,gm. Boćki,bielski,podlaskie,3560,2193,2186,1625,561
+200305,gm. Brańsk,bielski,podlaskie,4670,3304,3283,2957,326
+200306,gm. Orla,bielski,podlaskie,2432,1332,1324,525,799
+200307,gm. Rudka,bielski,podlaskie,1479,1209,1200,971,229
+200308,gm. Wyszki,bielski,podlaskie,3545,2379,2381,2039,342
+200401,m. Grajewo,grajewski,podlaskie,16634,9848,9863,6114,3749
+200402,gm. Grajewo,grajewski,podlaskie,4537,2602,2584,1961,623
+200403,gm. Radziłów,grajewski,podlaskie,3767,2161,2150,1870,280
+200404,gm. Rajgród,grajewski,podlaskie,4676,2735,2734,1610,1124
+200405,gm. Szczuczyn,grajewski,podlaskie,4816,3107,3102,2287,815
+200406,gm. Wąsosz,grajewski,podlaskie,2860,1671,1674,1402,272
+200501,m. Hajnówka,hajnowski,podlaskie,16870,10022,10005,3668,6337
+200502,gm. Białowieża,hajnowski,podlaskie,2436,1656,1646,516,1130
+200503,gm. Czeremcha,hajnowski,podlaskie,2668,1436,1431,703,728
+200504,gm. Czyże,hajnowski,podlaskie,1695,854,848,305,543
+200505,gm. Dubicze Cerkiewne,hajnowski,podlaskie,1488,850,845,372,473
+200506,gm. Hajnówka,hajnowski,podlaskie,3339,1846,1830,738,1092
+200507,gm. Kleszczele,hajnowski,podlaskie,2154,1179,1174,560,614
+200508,gm. Narew,hajnowski,podlaskie,3098,1596,1599,701,898
+200509,gm. Narewka,hajnowski,podlaskie,3360,1921,1925,721,1204
+200601,m. Kolno,kolneński,podlaskie,8102,4616,4610,3058,1552
+200602,gm. Grabowo,kolneński,podlaskie,2748,1629,1670,1354,316
+200603,gm. Kolno,kolneński,podlaskie,6834,4197,4164,3463,701
+200604,gm. Mały Płock,kolneński,podlaskie,3865,2310,2312,1907,405
+200605,gm. Stawiski,kolneński,podlaskie,4882,2819,2815,2351,464
+200606,gm. Turośl,kolneński,podlaskie,3995,2473,2458,1941,517
+200701,gm. Jedwabne,łomżyński,podlaskie,4250,2803,2812,2423,389
+200702,gm. Łomża,łomżyński,podlaskie,8879,5901,5880,4210,1670
+200703,gm. Miastkowo,łomżyński,podlaskie,3328,2046,2030,1723,307
+200704,gm. Nowogród,łomżyński,podlaskie,3269,2089,2086,1519,567
+200705,gm. Piątnica,łomżyński,podlaskie,8251,4890,4877,3759,1118
+200706,gm. Przytuły,łomżyński,podlaskie,1665,1052,1054,961,93
+200707,gm. Śniadowo,łomżyński,podlaskie,4243,2804,2792,2349,443
+200708,gm. Wizna,łomżyński,podlaskie,3301,2074,2080,1733,347
+200709,gm. Zbójna,łomżyński,podlaskie,3477,2052,2034,1572,462
+200801,gm. Goniądz,moniecki,podlaskie,4095,2496,2482,1683,799
+200802,gm. Jasionówka,moniecki,podlaskie,2122,1199,1229,926,303
+200803,gm. Jaświły,moniecki,podlaskie,4055,2267,2264,1831,433
+200804,gm. Knyszyn,moniecki,podlaskie,3818,2161,2185,1584,601
+200805,gm. Krypno,moniecki,podlaskie,3175,1815,1816,1357,459
+200806,gm. Mońki,moniecki,podlaskie,11663,6447,6448,4226,2222
+200807,gm. Trzcianne,moniecki,podlaskie,3518,2035,2027,1721,306
+200901,m. Sejny,sejneński,podlaskie,4444,2765,2771,1334,1437
+200902,gm. Giby,sejneński,podlaskie,2799,1876,1898,999,899
+200903,gm. Krasnopol,sejneński,podlaskie,3403,2020,2026,1163,863
+200904,gm. Puńsk,sejneński,podlaskie,3484,1878,1862,815,1047
+200905,gm. Sejny,sejneński,podlaskie,3552,2067,2088,1150,938
+201001,m. Siemiatycze,siemiatycki,podlaskie,11279,6970,6962,3688,3274
+201002,gm. Drohiczyn,siemiatycki,podlaskie,5196,3180,3168,2322,846
+201003,gm. Dziadkowice,siemiatycki,podlaskie,2274,1383,1379,1106,273
+201004,gm. Grodzisk,siemiatycki,podlaskie,3349,2059,2051,1546,505
+201005,gm. Mielnik,siemiatycki,podlaskie,2208,1395,1380,690,690
+201006,gm. Milejczyce,siemiatycki,podlaskie,1607,911,901,460,441
+201007,gm. Nurzec-Stacja,siemiatycki,podlaskie,3246,1602,1594,893,701
+201008,gm. Perlejewo,siemiatycki,podlaskie,2448,1424,1430,1169,261
+201009,gm. Siemiatycze,siemiatycki,podlaskie,4920,2745,2734,1637,1097
+201101,gm. Dąbrowa Białostocka,sokólski,podlaskie,9320,5363,5359,3823,1536
+201102,gm. Janów,sokólski,podlaskie,3316,1951,1934,1359,575
+201103,gm. Korycin,sokólski,podlaskie,2622,1464,1459,1061,398
+201104,gm. Krynki,sokólski,podlaskie,2580,1509,1503,843,660
+201105,gm. Kuźnica,sokólski,podlaskie,3238,1995,2009,1513,496
+201106,gm. Nowy Dwór,sokólski,podlaskie,2161,1299,1297,1014,283
+201107,gm. Sidra,sokólski,podlaskie,2786,1562,1571,1182,389
+201108,gm. Sokółka,sokólski,podlaskie,19760,11738,11773,7213,4560
+201109,gm. Suchowola,sokólski,podlaskie,5554,3233,3243,2455,788
+201110,gm. Szudziałowo,sokólski,podlaskie,2397,1294,1283,839,444
+201201,gm. Bakałarzewo,suwalski,podlaskie,2577,1573,1579,1025,554
+201202,gm. Filipów,suwalski,podlaskie,3612,2120,2126,1517,609
+201203,gm. Jeleniewo,suwalski,podlaskie,2783,1887,1871,1199,672
+201204,gm. Przerośl,suwalski,podlaskie,2468,1428,1413,1059,354
+201205,gm. Raczki,suwalski,podlaskie,4620,2932,2909,2062,847
+201206,gm. Rutka-Tartak,suwalski,podlaskie,2106,1349,1330,877,453
+201207,gm. Suwałki,suwalski,podlaskie,6515,4423,4426,2472,1954
+201208,gm. Szypliszki,suwalski,podlaskie,3279,1938,1920,1191,729
+201209,gm. Wiżajny,suwalski,podlaskie,2023,1364,1353,899,454
+201301,m. Wysokie Mazowieckie,wysokomazowiecki,podlaskie,7150,4872,4845,3182,1663
+201302,gm. Ciechanowiec,wysokomazowiecki,podlaskie,7098,4433,4437,3339,1098
+201303,gm. Czyżew,wysokomazowiecki,podlaskie,5154,3594,3570,2934,636
+201304,gm. Klukowo,wysokomazowiecki,podlaskie,3503,2737,2705,2409,296
+201305,gm. Kobylin-Borzymy,wysokomazowiecki,podlaskie,2646,1959,1936,1755,181
+201306,gm. Kulesze Kościelne,wysokomazowiecki,podlaskie,2411,1790,1782,1653,129
+201307,gm. Nowe Piekuty,wysokomazowiecki,podlaskie,3097,2288,2269,1973,296
+201308,gm. Sokoły,wysokomazowiecki,podlaskie,4568,3100,3121,2695,426
+201309,gm. Szepietowo,wysokomazowiecki,podlaskie,5478,3630,3668,2884,784
+201310,gm. Wysokie Mazowieckie,wysokomazowiecki,podlaskie,4227,2867,2864,2426,438
+201401,m. Zambrów,zambrowski,podlaskie,16794,10114,10089,6472,3617
+201402,gm. Kołaki Kościelne,zambrowski,podlaskie,1862,1458,1449,1284,165
+201403,gm. Rutki,zambrowski,podlaskie,4497,2915,2902,2363,539
+201404,gm. Szumowo,zambrowski,podlaskie,3811,2531,2521,2057,464
+201405,gm. Zambrów,zambrowski,podlaskie,7483,5011,4991,3752,1239
+206101,m. Białystok,Białystok,podlaskie,215787,146909,146938,70236,76702
+206201,m. Łomża,Łomża,podlaskie,45757,28893,28988,17598,11390
+206301,m. Suwałki,Suwałki,podlaskie,52316,33137,33086,17615,15471
+220101,gm. Borzytuchom,bytowski,pomorskie,2463,1537,1518,791,727
+220102,gm. Bytów,bytowski,pomorskie,18799,12396,12355,5685,6670
+220103,gm. Czarna Dąbrówka,bytowski,pomorskie,4724,3090,3075,1818,1257
+220104,gm. Kołczygłowy,bytowski,pomorskie,3407,1920,1916,1024,892
+220105,gm. Lipnica,bytowski,pomorskie,4514,3210,3198,2036,1162
+220106,gm. Miastko,bytowski,pomorskie,14819,8365,8344,3678,4666
+220107,gm. Parchowo,bytowski,pomorskie,2992,2254,2245,1401,844
+220108,gm. Studzienice,bytowski,pomorskie,3224,2262,2259,1109,1150
+220109,gm. Trzebielino,bytowski,pomorskie,2823,1540,1525,740,785
+220110,gm. Tuchomie,bytowski,pomorskie,3315,1962,1966,1093,873
+220201,m. Chojnice,chojnicki,pomorskie,29713,19699,19703,8672,11031
+220202,gm. Brusy,chojnicki,pomorskie,11149,7911,7927,5246,2681
+220203,gm. Chojnice,chojnicki,pomorskie,15532,10450,10411,5138,5273
+220204,gm. Czersk,chojnicki,pomorskie,16451,10541,10572,6703,3869
+220205,gm. Konarzyny,chojnicki,pomorskie,1787,1169,1160,655,505
+220301,m. Człuchów,człuchowski,pomorskie,10671,6899,6879,2518,4361
+220302,gm. Czarne,człuchowski,pomorskie,7607,4441,4449,1935,2514
+220303,gm. Człuchów,człuchowski,pomorskie,8246,4753,4717,2489,2228
+220304,gm. Debrzno,człuchowski,pomorskie,6923,3768,3749,1808,1941
+220305,gm. Koczała,człuchowski,pomorskie,2697,1581,1566,646,920
+220306,gm. Przechlewo,człuchowski,pomorskie,5138,3200,3193,1515,1678
+220307,gm. Rzeczenica,człuchowski,pomorskie,2939,1772,1769,945,824
+220401,m. Pruszcz Gdański,gdański,pomorskie,22156,16028,15986,5066,10920
+220402,gm. Cedry Wielkie,gdański,pomorskie,5161,3195,3177,1422,1755
+220403,gm. Kolbudy,gdański,pomorskie,13293,9714,9727,3079,6648
+220404,gm. Pruszcz Gdański,gdański,pomorskie,22327,16110,16070,5206,10864
+220405,gm. Przywidz,gdański,pomorskie,4614,3035,3024,1442,1582
+220406,gm. Pszczółki,gdański,pomorskie,7375,4825,4781,1981,2800
+220407,gm. Suchy Dąb,gdański,pomorskie,3216,1914,1902,883,1019
+220408,gm. Trąbki Wielkie,gdański,pomorskie,8449,4892,4872,2327,2545
+220501,gm. Chmielno,kartuski,pomorskie,6222,4426,4382,2506,1876
+220502,gm. Kartuzy,kartuski,pomorskie,24764,17592,17563,9028,8535
+220503,gm. Przodkowo,kartuski,pomorskie,7073,5082,5047,2938,2109
+220504,gm. Sierakowice,kartuski,pomorskie,14184,10684,10638,7616,3022
+220505,gm. Somonino,kartuski,pomorskie,8061,5288,5294,3178,2116
+220506,gm. Stężyca,kartuski,pomorskie,8641,6461,6422,3754,2668
+220507,gm. Sulęczyno,kartuski,pomorskie,4837,3703,3707,2156,1551
+220508,gm. Żukowo,kartuski,pomorskie,29604,22037,21927,8737,13190
+220601,m. Kościerzyna,kościerski,pomorskie,17877,12125,12136,5383,6753
+220602,gm. Dziemiany,kościerski,pomorskie,3711,2691,2693,1564,1129
+220603,gm. Karsin,kościerski,pomorskie,5744,4191,4185,2195,1990
+220604,gm. Kościerzyna,kościerski,pomorskie,12602,9249,9269,5056,4213
+220605,gm. Liniewo,kościerski,pomorskie,3650,2404,2397,1472,925
+220606,gm. Lipusz,kościerski,pomorskie,2995,2244,2220,1340,880
+220607,gm. Nowa Karczma,kościerski,pomorskie,5284,3509,3521,2103,1418
+220608,gm. Stara Kiszewa,kościerski,pomorskie,5504,3755,3763,2176,1587
+220701,m. Kwidzyn,kwidzyński,pomorskie,27710,17894,17864,7276,10588
+220702,gm. Gardeja,kwidzyński,pomorskie,6314,3426,3402,2174,1228
+220703,gm. Kwidzyn,kwidzyński,pomorskie,8413,4958,4939,2602,2337
+220704,gm. Prabuty,kwidzyński,pomorskie,10104,5742,5679,3072,2607
+220705,gm. Ryjewo,kwidzyński,pomorskie,4272,2337,2334,1143,1191
+220706,gm. Sadlinki,kwidzyński,pomorskie,4434,2590,2572,1576,996
+220801,m. Lębork,lęborski,pomorskie,25580,17104,17084,6761,10323
+220802,m. Łeba,lęborski,pomorskie,8102,6943,6911,2469,4442
+220803,gm. Cewice,lęborski,pomorskie,5235,3387,3379,1864,1515
+220804,gm. Nowa Wieś Lęborska,lęborski,pomorskie,10166,6406,6367,3019,3348
+220805,gm. Wicko,lęborski,pomorskie,5079,3082,3061,1256,1805
+220901,m. Malbork,malborski,pomorskie,28650,18715,18735,7056,11679
+220903,gm. Lichnowy,malborski,pomorskie,3470,1873,1865,938,927
+220904,gm. Malbork,malborski,pomorskie,3677,2190,2187,871,1316
+220906,gm. Miłoradz,malborski,pomorskie,2643,1576,1576,846,730
+220907,gm. Nowy Staw,malborski,pomorskie,5622,3088,3091,1439,1652
+220908,gm. Stare Pole,malborski,pomorskie,3590,2019,2022,870,1152
+221001,m. Krynica Morska,nowodworski,pomorskie,4692,4138,4128,1450,2678
+221002,gm. Nowy Dwór Gdański,nowodworski,pomorskie,13415,8094,8074,3368,4706
+221003,gm. Ostaszewo,nowodworski,pomorskie,2440,1435,1443,707,736
+221004,gm. Stegna,nowodworski,pomorskie,11555,8396,8358,3267,5091
+221005,gm. Sztutowo,nowodworski,pomorskie,4812,3612,3601,1242,2359
+221101,m. Hel,pucki,pomorskie,4596,3530,3543,1094,2449
+221102,gm. Jastarnia,pucki,pomorskie,10770,9402,9370,2728,6642
+221103,m. Puck,pucki,pomorskie,9007,6227,6221,2298,3923
+221104,gm. Władysławowo,pucki,pomorskie,28032,23384,23290,7855,15435
+221105,gm. Kosakowo,pucki,pomorskie,12621,9977,9939,3052,6887
+221106,gm. Krokowa,pucki,pomorskie,14916,11597,11549,4726,6823
+221107,gm. Puck,pucki,pomorskie,20693,14494,14385,7650,6735
+221201,m. Ustka,słupski,pomorskie,14972,10748,10710,4139,6571
+221202,gm. Damnica,słupski,pomorskie,4543,2573,2573,1373,1200
+221203,gm. Dębnica Kaszubska,słupski,pomorskie,7243,4062,4051,2026,2025
+221204,gm. Główczyce,słupski,pomorskie,6774,3484,3475,1792,1683
+221205,gm. Kępice,słupski,pomorskie,6782,3677,3663,1559,2104
+221206,gm. Kobylnica,słupski,pomorskie,9237,5926,5917,2302,3615
+221207,gm. Potęgowo,słupski,pomorskie,5136,2777,2771,1393,1378
+221208,gm. Słupsk,słupski,pomorskie,12937,8285,8281,3214,5067
+221209,gm. Smołdzino,słupski,pomorskie,3245,2291,2265,994,1271
+221210,gm. Ustka,słupski,pomorskie,10856,8807,8774,3424,5350
+221301,gm. Czarna Woda,starogardzki,pomorskie,2563,1717,1703,982,721
+221302,m. Skórcz,starogardzki,pomorskie,2633,1723,1747,1024,723
+221303,m. Starogard Gdański,starogardzki,pomorskie,35338,22598,22621,11389,11232
+221304,gm. Bobowo,starogardzki,pomorskie,2326,1442,1442,1003,439
+221305,gm. Kaliska,starogardzki,pomorskie,4305,2632,2635,1500,1135
+221306,gm. Lubichowo,starogardzki,pomorskie,5534,3621,3615,1986,1629
+221307,gm. Osieczna,starogardzki,pomorskie,2322,1559,1552,1056,496
+221308,gm. Osiek,starogardzki,pomorskie,2301,1581,1586,803,783
+221309,gm. Skarszewy,starogardzki,pomorskie,10772,6642,6602,3813,2789
+221310,gm. Skórcz,starogardzki,pomorskie,3496,2161,2157,1554,603
+221311,gm. Smętowo Graniczne,starogardzki,pomorskie,3973,2382,2376,1515,861
+221312,gm. Starogard Gdański,starogardzki,pomorskie,12067,8219,8202,4419,3783
+221313,gm. Zblewo,starogardzki,pomorskie,8986,5776,5761,3482,2279
+221401,m. Tczew,tczewski,pomorskie,43118,28588,28537,12654,15883
+221402,gm. Gniew,tczewski,pomorskie,11709,6787,6764,3803,2961
+221403,gm. Morzeszczyn,tczewski,pomorskie,2757,1495,1497,940,557
+221404,gm. Pelplin,tczewski,pomorskie,12083,7276,7271,4116,3155
+221405,gm. Subkowy,tczewski,pomorskie,4147,2554,2542,1353,1189
+221406,gm. Tczew,tczewski,pomorskie,10899,7128,7120,3337,3783
+221501,m. Reda,wejherowski,pomorskie,19039,13566,13531,4720,8811
+221502,m. Rumia,wejherowski,pomorskie,36425,26680,26634,9472,17162
+221503,m. Wejherowo,wejherowski,pomorskie,35225,24021,24008,9981,14027
+221504,gm. Choczewo,wejherowski,pomorskie,7525,5652,5611,1897,3714
+221505,gm. Gniewino,wejherowski,pomorskie,5798,3496,3479,1743,1736
+221506,gm. Linia,wejherowski,pomorskie,4788,3333,3317,2317,1000
+221507,gm. Luzino,wejherowski,pomorskie,11705,8084,8036,4926,3110
+221508,gm. Łęczyce,wejherowski,pomorskie,8778,5656,5622,3248,2374
+221509,gm. Szemud,wejherowski,pomorskie,13348,9545,9530,4735,4795
+221510,gm. Wejherowo,wejherowski,pomorskie,18904,13192,13144,6277,6867
+221601,gm. Dzierzgoń,sztumski,pomorskie,7146,3997,4001,2016,1985
+221602,gm. Mikołajki Pomorskie,sztumski,pomorskie,2712,1503,1499,934,565
+221603,gm. Stary Dzierzgoń,sztumski,pomorskie,3119,1633,1634,941,693
+221604,gm. Stary Targ,sztumski,pomorskie,4767,2362,2352,1302,1050
+221605,gm. Sztum,sztumski,pomorskie,14668,8809,8774,3628,5146
+226101,m. Gdańsk,Gdańsk,pomorskie,368850,273809,274086,81737,192349
+226201,m. Gdynia,Gdynia,pomorskie,186515,138513,138733,41539,97194
+226301,m. Słupsk,Słupsk,pomorskie,67154,44529,44550,16855,27695
+226401,m. Sopot,Sopot,pomorskie,31657,24181,24360,6781,17579
+240101,m. Będzin,będziński,śląskie,41975,27654,27758,11008,16750
+240102,m. Czeladź,będziński,śląskie,24126,16126,16125,6213,9912
+240103,m. Wojkowice,będziński,śląskie,7949,5357,5368,1994,3374
+240104,gm. Bobrowniki,będziński,śląskie,9749,6659,6643,2867,3776
+240105,gm. Mierzęcice,będziński,śląskie,6094,4136,4136,2006,2130
+240106,gm. Psary,będziński,śląskie,9744,6803,6819,2636,4183
+240107,gm. Siewierz,będziński,śląskie,9977,6882,6905,3685,3220
+240108,m. Sławków,będziński,śląskie,5433,3747,3764,1885,1879
+240201,m. Szczyrk,bielski,śląskie,5435,3959,3997,2193,1804
+240202,gm. Bestwina,bielski,śląskie,9104,6477,6516,3312,3204
+240203,gm. Buczkowice,bielski,śląskie,8689,6123,6175,3534,2641
+240204,gm. Czechowice-Dziedzice,bielski,śląskie,33847,23836,23853,11476,12377
+240205,gm. Jasienica,bielski,śląskie,18260,13164,13202,6790,6412
+240206,gm. Jaworze,bielski,śląskie,5756,4304,4338,1502,2836
+240207,gm. Kozy,bielski,śląskie,9907,7258,7326,3683,3643
+240208,gm. Porąbka,bielski,śląskie,12240,8594,8601,5083,3518
+240209,gm. Wilamowice,bielski,śląskie,13395,9641,9722,5854,3868
+240210,gm. Wilkowice,bielski,śląskie,10771,7626,7659,3470,4189
+240301,m. Cieszyn,cieszyński,śląskie,26505,17678,17850,6932,10918
+240302,m. Ustroń,cieszyński,śląskie,15137,10376,10522,3986,6536
+240303,m. Wisła,cieszyński,śląskie,9805,6330,6394,1691,4703
+240304,gm. Brenna,cieszyński,śląskie,9684,6720,6781,3648,3133
+240305,gm. Chybie,cieszyński,śląskie,7408,5019,5091,3151,1940
+240306,gm. Dębowiec,cieszyński,śląskie,4461,3017,3030,1423,1607
+240307,gm. Goleszów,cieszyński,śląskie,10470,7005,7014,2344,4670
+240308,gm. Hażlach,cieszyński,śląskie,8059,5453,5512,2851,2661
+240309,gm. Istebna,cieszyński,śląskie,9577,6566,6836,5084,1752
+240310,gm. Skoczów,cieszyński,śląskie,20092,13319,13414,6750,6664
+240311,gm. Strumień,cieszyński,śląskie,10072,6976,7038,4166,2872
+240312,gm. Zebrzydowice,cieszyński,śląskie,10016,6608,6823,3861,2962
+240401,gm. Blachownia,częstochowski,śląskie,10391,6629,6623,3068,3555
+240402,gm. Dąbrowa Zielona,częstochowski,śląskie,3314,2127,2129,1437,692
+240403,gm. Janów,częstochowski,śląskie,5070,3470,3467,2286,1181
+240404,gm. Kamienica Polska,częstochowski,śląskie,4462,3057,3064,1473,1591
+240405,gm. Kłomnice,częstochowski,śląskie,10924,7265,7258,4502,2756
+240406,gm. Koniecpol,częstochowski,śląskie,7852,5000,4976,3406,1570
+240407,gm. Konopiska,częstochowski,śląskie,8618,5662,5651,2874,2777
+240408,gm. Kruszyna,częstochowski,śląskie,3907,2618,2606,1712,894
+240409,gm. Lelów,częstochowski,śląskie,4112,2840,2838,2076,762
+240410,gm. Mstów,częstochowski,śląskie,8634,5996,5987,3751,2236
+240411,gm. Mykanów,częstochowski,śląskie,11751,8474,8420,5256,3164
+240412,gm. Olsztyn,częstochowski,śląskie,6529,4561,4537,2466,2071
+240413,gm. Poczesna,częstochowski,śląskie,10071,6957,6972,3476,3496
+240414,gm. Przyrów,częstochowski,śląskie,3079,1993,1981,1360,621
+240415,gm. Rędziny,częstochowski,śląskie,7794,5191,5182,2949,2233
+240416,gm. Starcza,częstochowski,śląskie,2285,1649,1645,929,716
+240501,m. Knurów,gliwicki,śląskie,27560,18119,18138,9449,8689
+240502,m. Pyskowice,gliwicki,śląskie,13257,7865,7865,3521,4344
+240503,gm. Gierałtowice,gliwicki,śląskie,9307,6444,6529,3485,3044
+240504,gm. Pilchowice,gliwicki,śląskie,9224,6018,6070,2985,3085
+240505,gm. Rudziniec,gliwicki,śląskie,8528,4978,4999,2580,2419
+240506,gm. Sośnicowice,gliwicki,śląskie,6772,4101,4066,1813,2253
+240507,gm. Toszek,gliwicki,śląskie,7656,4307,4278,2434,1844
+240508,gm. Wielowieś,gliwicki,śląskie,4727,2520,2507,1531,976
+240601,gm. Kłobuck,kłobucki,śląskie,16371,11054,11080,5474,5606
+240602,gm. Krzepice,kłobucki,śląskie,7215,4944,4966,2992,1974
+240603,gm. Lipie,kłobucki,śląskie,5144,3388,3367,2256,1111
+240604,gm. Miedźno,kłobucki,śląskie,6060,4205,4181,2961,1220
+240605,gm. Opatów,kłobucki,śląskie,5429,3569,3558,2127,1431
+240606,gm. Panki,kłobucki,śląskie,4043,2746,2742,1569,1173
+240607,gm. Popów,kłobucki,śląskie,4932,3197,3200,1972,1228
+240608,gm. Przystajń,kłobucki,śląskie,4828,3082,3073,1812,1261
+240609,gm. Wręczyca Wielka,kłobucki,śląskie,14208,9171,9168,5027,4141
+240701,m. Lubliniec,lubliniecki,śląskie,18140,11777,11817,5613,6204
+240702,gm. Boronów,lubliniecki,śląskie,2747,1696,1722,1035,687
+240703,gm. Ciasna,lubliniecki,śląskie,6622,3313,3315,1865,1450
+240704,gm. Herby,lubliniecki,śląskie,5598,3648,3641,1873,1768
+240705,gm. Kochanowice,lubliniecki,śląskie,5536,3102,3161,1988,1173
+240706,gm. Koszęcin,lubliniecki,śląskie,9367,6008,6054,3710,2344
+240707,gm. Pawonków,lubliniecki,śląskie,5242,2843,2849,1775,1074
+240708,gm. Woźniki,lubliniecki,śląskie,7639,4876,4895,3101,1794
+240801,m. Łaziska Górne,mikołowski,śląskie,16238,10847,10890,5379,5511
+240802,m. Mikołów,mikołowski,śląskie,30604,21410,21623,9226,12397
+240803,m. Orzesze,mikołowski,śląskie,15958,10853,11001,6183,4818
+240804,gm. Ornontowice,mikołowski,śląskie,4560,3013,3162,1962,1200
+240805,gm. Wyry,mikołowski,śląskie,6241,4607,4607,2274,2333
+240901,m. Myszków,myszkowski,śląskie,24529,16020,16027,8464,7563
+240902,gm. Koziegłowy,myszkowski,śląskie,11741,7628,7660,4793,2867
+240903,gm. Niegowa,myszkowski,śląskie,4574,3332,3333,2626,707
+240904,gm. Poraj,myszkowski,śląskie,9083,6098,6127,2863,3264
+240905,gm. Żarki,myszkowski,śląskie,6893,4563,4572,2818,1754
+241001,gm. Goczałkowice-Zdrój,pszczyński,śląskie,5412,3776,3833,1977,1856
+241002,gm. Kobiór,pszczyński,śląskie,3834,2739,2780,1633,1147
+241003,gm. Miedźna,pszczyński,śląskie,11824,8318,8339,5794,2545
+241004,gm. Pawłowice,pszczyński,śląskie,13239,9162,9319,6287,3032
+241005,gm. Pszczyna,pszczyński,śląskie,39497,28187,28418,15581,12837
+241006,gm. Suszec,pszczyński,śląskie,9106,6337,6442,4217,2225
+241101,m. Racibórz,raciborski,śląskie,40617,24481,24709,11570,13139
+241102,gm. Kornowac,raciborski,śląskie,3999,2585,2598,1713,885
+241103,gm. Krzanowice,raciborski,śląskie,4550,2201,2193,1142,1051
+241104,gm. Krzyżanowice,raciborski,śląskie,8897,4681,4707,2368,2339
+241105,gm. Kuźnia Raciborska,raciborski,śląskie,8977,4626,4606,2208,2398
+241106,gm. Nędza,raciborski,śląskie,5650,3077,3089,1674,1415
+241107,gm. Pietrowice Wielkie,raciborski,śląskie,5390,2887,2885,1591,1294
+241108,gm. Rudnik,raciborski,śląskie,4065,2060,2072,1270,802
+241201,gm. Czerwionka-Leszczyny,rybnicki,śląskie,31387,20177,20397,12349,8048
+241202,gm. Gaszowice,rybnicki,śląskie,7432,4857,4913,2832,2081
+241203,gm. Jejkowice,rybnicki,śląskie,3139,2194,2215,1399,816
+241204,gm. Lyski,rybnicki,śląskie,7683,5072,5108,2889,2219
+241205,gm. Świerklany,rybnicki,śląskie,9332,6460,6604,4468,2136
+241301,m. Kalety,tarnogórski,śląskie,6953,4138,4191,2285,1906
+241302,m. Miasteczko Śląskie,tarnogórski,śląskie,5530,3533,3563,2188,1375
+241303,m. Radzionków,tarnogórski,śląskie,12692,8558,8642,4645,3997
+241304,m. Tarnowskie Góry,tarnogórski,śląskie,47126,31572,31806,13849,17957
+241305,gm. Krupski Młyn,tarnogórski,śląskie,2580,1704,1696,861,835
+241306,gm. Ożarowice,tarnogórski,śląskie,4636,3328,3351,1766,1585
+241307,gm. Świerklaniec,tarnogórski,śląskie,9634,6537,6585,3144,3441
+241308,gm. Tworóg,tarnogórski,śląskie,6515,4034,4041,2231,1810
+241309,gm. Zbrosławice,tarnogórski,śląskie,12246,7268,7255,3369,3886
+241401,m. Bieruń,bieruńsko-lędziński,śląskie,14736,9873,9921,6034,3887
+241402,m. Imielin,bieruńsko-lędziński,śląskie,6964,4833,4898,2654,2244
+241403,m. Lędziny,bieruńsko-lędziński,śląskie,12554,8411,8377,5624,2753
+241404,gm. Bojszowy,bieruńsko-lędziński,śląskie,6219,4457,4515,3030,1485
+241405,gm. Chełm Śląski,bieruńsko-lędziński,śląskie,4957,3370,3410,2072,1338
+241501,m. Pszów,wodzisławski,śląskie,10565,6626,6707,4084,2623
+241502,m. Radlin,wodzisławski,śląskie,13261,8458,8556,4604,3952
+241503,m. Rydułtowy,wodzisławski,śląskie,16002,10071,10117,5675,4442
+241504,m. Wodzisław Śląski,wodzisławski,śląskie,35807,23364,23629,12928,10701
+241505,gm. Godów,wodzisławski,śląskie,10695,7145,7389,4718,2671
+241506,gm. Gorzyce,wodzisławski,śląskie,16234,10401,10568,6404,4164
+241507,gm. Lubomia,wodzisławski,śląskie,6117,3757,3785,2546,1239
+241508,gm. Marklowice,wodzisławski,śląskie,4203,0,2809,1844,965
+241509,gm. Mszana,wodzisławski,śląskie,5844,4125,4289,3197,1092
+241601,m. Poręba,zawierciański,śląskie,7126,4597,4618,2080,2538
+241602,m. Zawiercie,zawierciański,śląskie,38540,25475,25464,12363,13101
+241603,gm. Irządze,zawierciański,śląskie,2256,1732,1712,1295,417
+241604,gm. Kroczyce,zawierciański,śląskie,5427,3830,3836,2296,1540
+241605,gm. Łazy,zawierciański,śląskie,12536,8393,8415,4234,4181
+241606,gm. Ogrodzieniec,zawierciański,śląskie,7529,5136,5167,2783,2384
+241607,gm. Pilica,zawierciański,śląskie,7078,4957,4987,3610,1377
+241608,gm. Szczekociny,zawierciański,śląskie,6576,4459,4479,3113,1366
+241609,gm. Włodowice,zawierciański,śląskie,4448,2963,2964,1762,1202
+241610,gm. Żarnowiec,zawierciański,śląskie,3762,2622,2641,2078,563
+241701,m. Żywiec,żywiecki,śląskie,24162,16462,16563,8447,8116
+241702,gm. Czernichów,żywiecki,śląskie,5630,4071,4112,2501,1611
+241703,gm. Gilowice,żywiecki,śląskie,4928,3403,3442,2322,1120
+241704,gm. Jeleśnia,żywiecki,śląskie,10996,7694,7727,5424,2303
+241705,gm. Koszarawa,żywiecki,śląskie,2069,1503,1517,1146,371
+241706,gm. Lipowa,żywiecki,śląskie,8448,5780,5779,3358,2421
+241707,gm. Łękawica,żywiecki,śląskie,3603,2519,2538,1773,765
+241708,gm. Łodygowice,żywiecki,śląskie,11364,8342,8351,4935,3416
+241709,gm. Milówka,żywiecki,śląskie,8127,5541,5600,3939,1661
+241710,gm. Radziechowy-Wieprz,żywiecki,śląskie,10210,6907,6969,5138,1831
+241711,gm. Rajcza,żywiecki,śląskie,7374,4955,4948,3295,1653
+241712,gm. Ślemień,żywiecki,śląskie,2941,2485,2461,1800,661
+241713,gm. Świnna,żywiecki,śląskie,6444,4501,4514,2881,1633
+241714,gm. Ujsoły,żywiecki,śląskie,3856,2614,2642,1751,891
+241715,gm. Węgierska Górka,żywiecki,śląskie,11852,8031,8106,5539,2567
+246101,m. Bielsko-Biała,Bielsko-Biała,śląskie,128592,90169,90485,39670,50815
+246201,m. Bytom,Bytom,śląskie,114972,68781,68714,31525,37189
+246301,m. Chorzów,Chorzów,śląskie,77119,47944,48042,19103,28939
+246401,m. Częstochowa,Częstochowa,śląskie,168613,115746,115887,51415,64472
+246501,m. Dąbrowa Górnicza,Dąbrowa Górnicza,śląskie,90460,61102,61071,25251,35820
+246601,m. Gliwice,Gliwice,śląskie,131136,88718,88847,34512,54335
+246701,m. Jastrzębie-Zdrój,Jastrzębie-Zdrój,śląskie,66078,42195,42931,26031,16900
+246801,m. Jaworzno,Jaworzno,śląskie,69220,45292,45388,21273,24115
+246901,m. Katowice,Katowice,śląskie,219590,150282,150698,57971,92727
+247001,m. Mysłowice,Mysłowice,śląskie,54459,36304,36300,18013,18287
+247101,m. Piekary Śląskie,Piekary Śląskie,śląskie,41462,26916,26925,14163,12762
+247201,m. Ruda Śląska,Ruda Śląska,śląskie,101814,64348,64291,32879,31412
+247301,m. Rybnik,Rybnik,śląskie,102295,67286,67759,35092,32667
+247401,m. Siemianowice Śląskie,Siemianowice Śląskie,śląskie,48856,31886,31881,13192,18689
+247501,m. Sosnowiec,Sosnowiec,śląskie,152089,100540,100455,41023,59432
+247601,m. Świętochłowice,Świętochłowice,śląskie,36003,21321,21302,9969,11333
+247701,m. Tychy,Tychy,śląskie,93694,65060,65231,29777,35454
+247801,m. Zabrze,Zabrze,śląskie,123491,69999,69876,31315,38561
+247901,m. Żory,Żory,śląskie,45350,30161,30374,15847,14527
+260101,gm. Busko-Zdrój,buski,świętokrzyskie,27048,17827,17876,10712,7164
+260102,gm. Gnojno,buski,świętokrzyskie,3646,2424,2427,2017,410
+260103,gm. Nowy Korczyn,buski,świętokrzyskie,4976,3061,3060,2177,883
+260104,gm. Pacanów,buski,świętokrzyskie,6119,3780,3766,2877,889
+260105,gm. Solec-Zdrój,buski,świętokrzyskie,4216,2888,2900,2034,866
+260106,gm. Stopnica,buski,świętokrzyskie,6255,3983,3964,2973,991
+260107,gm. Tuczępy,buski,świętokrzyskie,3042,1927,1918,1495,423
+260108,gm. Wiślica,buski,świętokrzyskie,4572,2765,2779,2065,714
+260201,gm. Imielno,jędrzejowski,świętokrzyskie,3662,2458,2444,1901,543
+260202,gm. Jędrzejów,jędrzejowski,świętokrzyskie,22095,14658,14745,9439,5306
+260203,gm. Małogoszcz,jędrzejowski,świętokrzyskie,9176,6286,6273,4893,1380
+260204,gm. Nagłowice,jędrzejowski,świętokrzyskie,4030,2683,2669,2123,546
+260205,gm. Oksa,jędrzejowski,świętokrzyskie,3843,2620,2612,2063,549
+260206,gm. Sędziszów,jędrzejowski,świętokrzyskie,10310,6563,6570,4729,1841
+260207,gm. Słupia (Jędrzejowska),jędrzejowski,świętokrzyskie,3506,2224,2230,1782,448
+260208,gm. Sobków,jędrzejowski,świętokrzyskie,6920,4726,4714,3534,1180
+260209,gm. Wodzisław,jędrzejowski,świętokrzyskie,5875,3805,3827,2890,937
+260301,gm. Bejsce,kazimierski,świętokrzyskie,3304,1824,1831,1327,504
+260302,gm. Czarnocin,kazimierski,świętokrzyskie,3247,1902,1907,1482,425
+260303,gm. Kazimierza Wielka,kazimierski,świętokrzyskie,13026,7705,7738,5292,2446
+260304,gm. Opatowiec,kazimierski,świętokrzyskie,2982,1597,1608,1079,529
+260305,gm. Skalbmierz,kazimierski,świętokrzyskie,5289,3270,3286,2628,658
+260401,gm. Bieliny,kielecki,świętokrzyskie,7985,5487,5478,4475,1003
+260402,gm. Bodzentyn,kielecki,świętokrzyskie,9301,6109,6070,4404,1666
+260403,gm. Chęciny,kielecki,świętokrzyskie,12201,8169,8147,5651,2496
+260404,gm. Chmielnik,kielecki,świętokrzyskie,8982,5940,5898,4376,1522
+260405,gm. Daleszyce,kielecki,świętokrzyskie,12565,8761,8755,6152,2603
+260406,gm. Górno,kielecki,świętokrzyskie,11203,8137,8075,6079,1996
+260407,gm. Łagów,kielecki,świętokrzyskie,5518,3594,3601,2998,603
+260408,gm. Łopuszno,kielecki,świętokrzyskie,7230,5059,5023,3945,1078
+260409,gm. Masłów,kielecki,świętokrzyskie,8716,6256,6229,3819,2410
+260410,gm. Miedziana Góra,kielecki,świętokrzyskie,9059,6558,6544,4048,2496
+260411,gm. Mniów,kielecki,świętokrzyskie,7518,5169,5148,4171,977
+260412,gm. Morawica,kielecki,świętokrzyskie,13417,9095,9084,5667,3417
+260413,gm. Nowa Słupia,kielecki,świętokrzyskie,7818,4850,4893,3666,1227
+260414,gm. Piekoszów,kielecki,świętokrzyskie,13043,9029,9013,6590,2423
+260415,gm. Pierzchnica,kielecki,świętokrzyskie,3940,2598,2597,2020,577
+260416,gm. Raków,kielecki,świętokrzyskie,4956,3273,3265,2461,804
+260417,gm. Sitkówka-Nowiny,kielecki,świętokrzyskie,5906,4159,4161,2320,1841
+260418,gm. Strawczyn,kielecki,świętokrzyskie,8552,5941,5934,4596,1338
+260419,gm. Zagnańsk,kielecki,świętokrzyskie,10314,7299,7322,4605,2717
+260501,gm. Fałków,konecki,świętokrzyskie,3732,2513,2505,2008,497
+260502,gm. Gowarczów,konecki,świętokrzyskie,3811,2493,2508,1924,584
+260503,gm. Końskie,konecki,świętokrzyskie,28842,19674,19682,12073,7609
+260504,gm. Radoszyce,konecki,świętokrzyskie,7159,4657,4644,3784,860
+260505,gm. Ruda Maleniecka,konecki,świętokrzyskie,2701,1936,1936,1380,556
+260506,Słupia Konecka,konecki,świętokrzyskie,2720,1796,1794,1412,382
+260507,gm. Smyków,konecki,świętokrzyskie,3026,2270,2258,1772,486
+260508,gm. Stąporków,konecki,świętokrzyskie,13944,8610,8575,5550,3025
+260601,gm. Baćkowice,opatowski,świętokrzyskie,3974,2552,2525,2087,438
+260602,gm. Iwaniska,opatowski,świętokrzyskie,5534,3610,3600,2979,621
+260603,gm. Lipnik,opatowski,świętokrzyskie,4318,2593,2586,2017,569
+260604,gm. Opatów,opatowski,świętokrzyskie,9467,5927,5964,4008,1956
+260605,gm. Ożarów,opatowski,świętokrzyskie,8498,5201,5184,3506,1678
+260606,gm. Sadowie,opatowski,świętokrzyskie,3239,2101,2122,1610,512
+260607,gm. Tarłów,opatowski,świętokrzyskie,4346,2587,2580,2059,521
+260608,gm. Wojciechowice,opatowski,świętokrzyskie,3305,1980,1984,1410,574
+260701,m. Ostrowiec Świętokrzyski,ostrowiecki,świętokrzyskie,52700,32477,32573,17160,15413
+260702,gm. Bałtów,ostrowiecki,świętokrzyskie,2966,2008,1969,1393,576
+260703,gm. Bodzechów,ostrowiecki,świętokrzyskie,10664,6525,6523,4115,2408
+260704,gm. Ćmielów,ostrowiecki,świętokrzyskie,5848,3349,3351,2211,1140
+260705,gm. Kunów,ostrowiecki,świętokrzyskie,7848,4875,4865,3217,1648
+260706,gm. Waśniów,ostrowiecki,świętokrzyskie,5410,3240,3283,2711,572
+260801,gm. Działoszyce,pińczowski,świętokrzyskie,4240,2564,2585,1892,693
+260802,gm. Kije,pińczowski,świętokrzyskie,3768,2506,2495,1886,609
+260803,gm. Michałów,pińczowski,świętokrzyskie,3820,2416,2422,1751,671
+260804,gm. Pińczów,pińczowski,świętokrzyskie,17734,11016,11029,7112,3917
+260805,gm. Złota,pińczowski,świętokrzyskie,3811,2349,2339,1727,612
+260901,m. Sandomierz,sandomierski,świętokrzyskie,19151,12457,12417,6111,6306
+260902,gm. Dwikozy,sandomierski,świętokrzyskie,7132,4131,4118,2673,1445
+260903,gm. Klimontów,sandomierski,świętokrzyskie,6545,4066,4048,3008,1040
+260904,gm. Koprzywnica,sandomierski,świętokrzyskie,5468,3616,3612,2663,949
+260905,gm. Łoniów,sandomierski,świętokrzyskie,6039,3837,3837,2962,875
+260906,gm. Obrazów,sandomierski,świętokrzyskie,5270,3245,3245,2309,936
+260907,gm. Samborzec,sandomierski,świętokrzyskie,6907,4444,4446,3115,1331
+260908,gm. Wilczyce,sandomierski,świętokrzyskie,2964,1825,1834,1272,562
+260909,gm. Zawichost,sandomierski,świętokrzyskie,3598,2219,2212,1511,701
+261001,m. Skarżysko-Kamienna,skarżyski,świętokrzyskie,35341,23001,23005,11861,11144
+261002,gm. Bliżyn,skarżyski,świętokrzyskie,6669,4183,4227,2770,1457
+261003,gm. Łączna,skarżyski,świętokrzyskie,4110,2820,2801,2122,679
+261004,gm. Skarżysko Kościelne,skarżyski,świętokrzyskie,4830,3155,3165,2091,1074
+261005,gm. Suchedniów,skarżyski,świętokrzyskie,8144,5406,5387,2928,2459
+261101,m. Starachowice,starachowicki,świętokrzyskie,37790,24229,24392,12572,11820
+261102,gm. Brody,starachowicki,świętokrzyskie,8672,5574,5613,3913,1700
+261103,gm. Mirzec,starachowicki,świętokrzyskie,6631,4422,4471,3310,1161
+261104,gm. Pawłów,starachowicki,świętokrzyskie,11904,7665,7667,6220,1447
+261105,gm. Wąchock,starachowicki,świętokrzyskie,5513,3596,3635,2233,1402
+261201,gm. Bogoria,staszowski,świętokrzyskie,6299,4134,4129,3248,881
+261202,gm. Łubnice,staszowski,świętokrzyskie,3402,2252,2255,1868,387
+261203,gm. Oleśnica,staszowski,świętokrzyskie,3227,1919,1915,1456,459
+261204,gm. Osiek,staszowski,świętokrzyskie,6388,4239,4265,3724,541
+261205,gm. Połaniec,staszowski,świętokrzyskie,9200,6309,6300,4450,1850
+261206,gm. Rytwiany,staszowski,świętokrzyskie,5179,3284,3281,2454,827
+261207,gm. Staszów,staszowski,świętokrzyskie,20994,13252,13218,8699,4519
+261208,gm. Szydłów,staszowski,świętokrzyskie,3921,2544,2541,1923,618
+261301,gm. Kluczewsko,włoszczowski,świętokrzyskie,4320,3014,3010,2382,628
+261302,gm. Krasocin,włoszczowski,świętokrzyskie,8385,5766,5710,4401,1309
+261303,gm. Moskorzew,włoszczowski,świętokrzyskie,2331,1526,1526,1161,365
+261304,gm. Radków,włoszczowski,świętokrzyskie,2112,1357,1367,972,395
+261305,gm. Secemin,włoszczowski,świętokrzyskie,4014,2553,2542,1857,685
+261306,gm. Włoszczowa,włoszczowski,świętokrzyskie,15754,10599,10579,7214,3365
+266101,m. Kielce,Kielce,świętokrzyskie,148221,104078,104083,49605,54478
+280101,m. Bartoszyce,bartoszycki,warmińsko-mazurskie,17892,11168,11104,4982,6122
+280102,m. Górowo Iławeckie,bartoszycki,warmińsko-mazurskie,3130,1826,1817,811,1006
+280103,gm. Bartoszyce,bartoszycki,warmińsko-mazurskie,8365,4609,4594,2670,1924
+280104,gm. Bisztynek,bartoszycki,warmińsko-mazurskie,4942,2546,2548,1335,1213
+280105,gm. Górowo Iławeckie,bartoszycki,warmińsko-mazurskie,6496,3114,3089,1515,1574
+280106,gm. Sępopol,bartoszycki,warmińsko-mazurskie,4834,2521,2514,1502,1012
+280201,m. Braniewo,braniewski,warmińsko-mazurskie,13307,7904,7903,3301,4602
+280202,gm. Braniewo,braniewski,warmińsko-mazurskie,4761,2412,2404,1288,1116
+280203,gm. Frombork,braniewski,warmińsko-mazurskie,3049,1753,1754,729,1025
+280204,gm. Lelkowo,braniewski,warmińsko-mazurskie,2289,1129,1122,657,465
+280205,gm. Pieniężno,braniewski,warmińsko-mazurskie,5030,2759,2759,1652,1107
+280206,gm. Płoskinia,braniewski,warmińsko-mazurskie,2022,1018,1013,547,466
+280207,gm. Wilczęta,braniewski,warmińsko-mazurskie,2245,1213,1199,681,518
+280301,m. Działdowo,działdowski,warmińsko-mazurskie,16355,10529,10488,5140,5348
+280302,gm. Działdowo,działdowski,warmińsko-mazurskie,7284,4090,4067,2676,1391
+280303,gm. Iłowo-Osada,działdowski,warmińsko-mazurskie,5569,3368,3352,2114,1238
+280304,gm. Lidzbark,działdowski,warmińsko-mazurskie,11387,6798,6777,4114,2663
+280305,gm. Płośnica,działdowski,warmińsko-mazurskie,4449,2615,2599,1740,859
+280306,gm. Rybno,działdowski,warmińsko-mazurskie,6074,3747,3736,2467,1269
+280401,gm. Elbląg,elbląski,warmińsko-mazurskie,5771,3337,3335,1628,1707
+280402,gm. Godkowo,elbląski,warmińsko-mazurskie,2459,1287,1297,838,459
+280403,gm. Gronowo Elbląskie,elbląski,warmińsko-mazurskie,3816,2151,2135,1036,1099
+280404,gm. Markusy,elbląski,warmińsko-mazurskie,3090,1716,1715,1018,697
+280405,gm. Milejewo,elbląski,warmińsko-mazurskie,2634,1578,1565,819,746
+280406,gm. Młynary,elbląski,warmińsko-mazurskie,3502,2044,2043,1062,981
+280407,gm. Pasłęk,elbląski,warmińsko-mazurskie,14858,8588,8586,3946,4640
+280408,gm. Rychliki,elbląski,warmińsko-mazurskie,2954,1516,1511,839,672
+280409,gm. Tolkmicko,elbląski,warmińsko-mazurskie,5176,2968,2962,1444,1518
+280501,m. Ełk,ełcki,warmińsko-mazurskie,44664,25756,25719,12090,13629
+280502,gm. Ełk,ełcki,warmińsko-mazurskie,9208,5160,5116,2585,2531
+280503,gm. Kalinowo,ełcki,warmińsko-mazurskie,5380,2741,2732,1783,949
+280504,gm. Prostki,ełcki,warmińsko-mazurskie,5678,2831,2855,1860,995
+280505,gm. Stare Juchy,ełcki,warmińsko-mazurskie,3386,1929,1920,912,1008
+280601,m. Giżycko,giżycki,warmińsko-mazurskie,24375,16318,16278,5788,10490
+280604,gm. Giżycko,giżycki,warmińsko-mazurskie,8828,6112,6097,2216,3881
+280605,gm. Kruklanki,giżycki,warmińsko-mazurskie,2738,1990,1979,791,1188
+280606,gm. Miłki,giżycki,warmińsko-mazurskie,3957,2487,2484,1058,1426
+280608,gm. Ryn,giżycki,warmińsko-mazurskie,5996,3965,3956,1715,2241
+280610,gm. Wydminy,giżycki,warmińsko-mazurskie,5356,3164,3141,1596,1545
+280701,m. Iława,iławski,warmińsko-mazurskie,26706,17920,17926,7943,9983
+280702,m. Lubawa,iławski,warmińsko-mazurskie,7508,4962,4967,2699,2268
+280703,gm. Iława,iławski,warmińsko-mazurskie,10468,6497,6475,3397,3078
+280704,gm. Kisielice,iławski,warmińsko-mazurskie,4685,2622,2608,1730,878
+280705,gm. Lubawa,iławski,warmińsko-mazurskie,8171,5190,5180,3866,1314
+280706,gm. Susz,iławski,warmińsko-mazurskie,9395,5323,5316,3099,2217
+280707,gm. Zalewo,iławski,warmińsko-mazurskie,5816,2994,3006,1550,1456
+280801,m. Kętrzyn,kętrzyński,warmińsko-mazurskie,20972,12885,12884,5405,7479
+280802,gm. Barciany,kętrzyński,warmińsko-mazurskie,4727,2353,2337,1380,957
+280803,gm. Kętrzyn,kętrzyński,warmińsko-mazurskie,6301,3274,3267,1698,1569
+280804,gm. Korsze,kętrzyński,warmińsko-mazurskie,7697,3931,3963,2262,1701
+280805,gm. Reszel,kętrzyński,warmińsko-mazurskie,6149,3543,3550,1671,1879
+280806,gm. Srokowo,kętrzyński,warmińsko-mazurskie,3138,1768,1762,881,881
+280901,m. Lidzbark Warmiński,lidzbarski,warmińsko-mazurskie,11868,7517,7502,2920,4582
+280902,gm. Kiwity,lidzbarski,warmińsko-mazurskie,2678,1493,1490,860,630
+280903,gm. Lidzbark Warmiński,lidzbarski,warmińsko-mazurskie,5321,2798,2790,1436,1354
+280904,gm. Lubomino,lidzbarski,warmińsko-mazurskie,2786,1495,1490,871,619
+280905,gm. Orneta,lidzbarski,warmińsko-mazurskie,9415,5264,5257,2659,2598
+281001,m. Mrągowo,mrągowski,warmińsko-mazurskie,17473,11355,11315,4717,6598
+281002,gm. Mikołajki,mrągowski,warmińsko-mazurskie,9008,6280,6255,2284,3971
+281003,gm. Mrągowo,mrągowski,warmińsko-mazurskie,6744,4066,4059,1867,2192
+281004,gm. Piecki,mrągowski,warmińsko-mazurskie,7057,4366,4342,2175,2167
+281005,gm. Sorkwity,mrągowski,warmińsko-mazurskie,4232,2672,2655,1258,1397
+281101,gm. Janowiec Kościelny,nidzicki,warmińsko-mazurskie,2522,1605,1581,1156,425
+281102,gm. Janowo,nidzicki,warmińsko-mazurskie,2118,1233,1227,813,414
+281103,gm. Kozłowo,nidzicki,warmińsko-mazurskie,4574,2477,2462,1678,784
+281104,gm. Nidzica,nidzicki,warmińsko-mazurskie,16498,10138,10143,5300,4843
+281201,m. Nowe Miasto Lubawskie,nowomiejski,warmińsko-mazurskie,8211,5146,5136,2502,2634
+281202,gm. Biskupiec,nowomiejski,warmińsko-mazurskie,7431,4388,4375,2740,1635
+281203,gm. Grodziczno,nowomiejski,warmińsko-mazurskie,5006,3218,3213,2462,751
+281204,gm. Kurzętnik,nowomiejski,warmińsko-mazurskie,6889,4434,4407,3117,1290
+281205,gm. Nowe Miasto Lubawskie,nowomiejski,warmińsko-mazurskie,6276,3859,3836,2468,1368
+281303,gm. Kowale Oleckie,olecki,warmińsko-mazurskie,3861,1837,1821,1122,699
+281304,gm. Olecko,olecki,warmińsko-mazurskie,16548,9768,9758,5055,4703
+281305,gm. Świętajno,olecki,warmińsko-mazurskie,3278,1751,1746,935,811
+281306,gm. Wieliczki,olecki,warmińsko-mazurskie,2623,1424,1422,987,435
+281401,gm. Barczewo,olsztyński,warmińsko-mazurskie,14449,9106,9039,3703,5336
+281402,gm. Biskupiec,olsztyński,warmińsko-mazurskie,14910,8601,8596,3892,4704
+281403,gm. Dobre Miasto,olsztyński,warmińsko-mazurskie,12210,7163,7129,3482,3647
+281404,gm. Dywity,olsztyński,warmińsko-mazurskie,9674,6691,6657,2409,4248
+281405,gm. Gietrzwałd,olsztyński,warmińsko-mazurskie,5805,3828,3801,1444,2357
+281406,gm. Jeziorany,olsztyński,warmińsko-mazurskie,6033,3252,3246,1775,1471
+281407,gm. Jonkowo,olsztyński,warmińsko-mazurskie,5916,3749,3737,1313,2424
+281408,gm. Kolno,olsztyński,warmińsko-mazurskie,2561,1372,1358,781,577
+281409,gm. Olsztynek,olsztyński,warmińsko-mazurskie,11753,7301,7281,3265,4016
+281410,gm. Purda,olsztyński,warmińsko-mazurskie,7015,4567,4569,1826,2743
+281411,gm. Stawiguda,olsztyński,warmińsko-mazurskie,9158,6976,6947,1935,5012
+281412,gm. Świątki,olsztyński,warmińsko-mazurskie,3114,1685,1689,951,738
+281501,m. Ostróda,ostródzki,warmińsko-mazurskie,25260,16683,16635,6366,10269
+281502,gm. Dąbrówno,ostródzki,warmińsko-mazurskie,3525,1994,1989,1167,822
+281503,gm. Grunwald,ostródzki,warmińsko-mazurskie,4247,2469,2462,1395,1067
+281504,gm. Łukta,ostródzki,warmińsko-mazurskie,3899,2321,2306,938,1368
+281505,gm. Małdyty,ostródzki,warmińsko-mazurskie,4996,2607,2601,1319,1282
+281506,gm. Miłakowo,ostródzki,warmińsko-mazurskie,4396,2340,2326,1262,1064
+281507,gm. Miłomłyn,ostródzki,warmińsko-mazurskie,4324,2588,2594,1108,1486
+281508,gm. Morąg,ostródzki,warmińsko-mazurskie,19351,11726,11705,5347,6358
+281509,gm. Ostróda,ostródzki,warmińsko-mazurskie,12785,7760,7749,3710,4039
+281601,gm. Biała Piska,piski,warmińsko-mazurskie,8896,4635,4624,3161,1463
+281602,gm. Orzysz,piski,warmińsko-mazurskie,7769,4635,4620,2359,2261
+281603,gm. Pisz,piski,warmińsko-mazurskie,22547,13492,13424,7625,5799
+281604,gm. Ruciane-Nida,piski,warmińsko-mazurskie,9524,6755,6705,2716,3989
+281701,m. Szczytno,szczycieński,warmińsko-mazurskie,18501,12153,12127,5730,6397
+281702,gm. Dźwierzuty,szczycieński,warmińsko-mazurskie,5676,3207,3214,1747,1467
+281703,gm. Jedwabno,szczycieński,warmińsko-mazurskie,4192,2794,2776,1235,1541
+281704,gm. Pasym,szczycieński,warmińsko-mazurskie,5156,3400,3376,1579,1797
+281705,gm. Rozogi,szczycieński,warmińsko-mazurskie,4421,2427,2422,1796,626
+281706,gm. Szczytno,szczycieński,warmińsko-mazurskie,10478,6695,6660,3502,3158
+281707,gm. Świętajno,szczycieński,warmińsko-mazurskie,5721,3681,3676,1934,1742
+281708,gm. Wielbark,szczycieński,warmińsko-mazurskie,5078,2665,2665,1719,946
+281801,gm. Banie Mazurskie,gołdapski,warmińsko-mazurskie,3029,1615,1607,786,821
+281802,gm. Dubeninki,gołdapski,warmińsko-mazurskie,2365,1252,1264,767,497
+281803,gm. Gołdap,gołdapski,warmińsko-mazurskie,15507,8871,8880,3969,4911
+281901,gm. Budry,węgorzewski,warmińsko-mazurskie,2318,1210,1207,766,441
+281902,gm. Pozezdrze,węgorzewski,warmińsko-mazurskie,3011,1915,1896,881,1015
+281903,gm. Węgorzewo,węgorzewski,warmińsko-mazurskie,14399,9184,9140,3575,5565
+286101,m. Elbląg,Elbląg,warmińsko-mazurskie,87762,56545,56413,24050,32363
+286201,m. Olsztyn,Olsztyn,warmińsko-mazurskie,129254,90694,90559,32530,58029
+300101,m. Chodzież,chodzieski,wielkopolskie,14479,10084,10050,3311,6739
+300102,gm. Budzyń,chodzieski,wielkopolskie,6479,4111,4091,1810,2281
+300103,gm. Chodzież,chodzieski,wielkopolskie,4594,3072,3058,1219,1839
+300104,gm. Margonin,chodzieski,wielkopolskie,4879,3538,3515,1508,2007
+300105,gm. Szamocin,chodzieski,wielkopolskie,5806,3543,3535,1686,1849
+300201,m. Czarnków,czarnkowsko-trzcianecki,wielkopolskie,8223,5640,5641,2067,3574
+300202,gm. Czarnków,czarnkowsko-trzcianecki,wielkopolskie,8713,5533,5508,2728,2780
+300203,gm. Drawsko,czarnkowsko-trzcianecki,wielkopolskie,4727,3091,3086,1723,1363
+300204,gm. Krzyż Wielkopolski,czarnkowsko-trzcianecki,wielkopolskie,6782,4135,4131,1869,2262
+300205,gm. Lubasz,czarnkowsko-trzcianecki,wielkopolskie,5814,3862,3870,1792,2078
+300206,gm. Połajewo,czarnkowsko-trzcianecki,wielkopolskie,4748,3151,3126,1802,1324
+300207,gm. Trzcianka,czarnkowsko-trzcianecki,wielkopolskie,18065,11832,11860,4465,7395
+300208,gm. Wieleń,czarnkowsko-trzcianecki,wielkopolskie,9547,6060,6065,3090,2975
+300301,m. Gniezno,gnieźnieński,wielkopolskie,51533,35069,35164,14291,20873
+300302,gm. Czerniejewo,gnieźnieński,wielkopolskie,6143,4082,4070,2248,1822
+300303,gm. Gniezno,gnieźnieński,wielkopolskie,9202,6405,6385,2918,3467
+300304,gm. Kiszkowo,gnieźnieński,wielkopolskie,4246,2757,2753,1479,1274
+300305,gm. Kłecko,gnieźnieński,wielkopolskie,5741,3855,3846,2254,1592
+300306,gm. Łubowo,gnieźnieński,wielkopolskie,5064,3538,3536,1705,1831
+300307,gm. Mieleszyn,gnieźnieński,wielkopolskie,3050,1911,1903,1151,752
+300308,gm. Niechanowo,gnieźnieński,wielkopolskie,4546,3083,3064,1818,1246
+300309,gm. Trzemeszno,gnieźnieński,wielkopolskie,10840,6632,6599,3535,3064
+300310,gm. Witkowo,gnieźnieński,wielkopolskie,10739,7413,7391,3882,3509
+300401,gm. Borek Wielkopolski,gostyński,wielkopolskie,5805,3514,3562,2165,1397
+300402,gm. Gostyń,gostyński,wielkopolskie,21563,14150,14165,7226,6939
+300403,gm. Krobia,gostyński,wielkopolskie,9945,5909,5950,3847,2103
+300404,gm. Pępowo,gostyński,wielkopolskie,4668,3122,3109,2084,1025
+300405,gm. Piaski,gostyński,wielkopolskie,6784,4153,4216,2506,1710
+300406,gm. Pogorzela,gostyński,wielkopolskie,3851,2275,2272,1407,865
+300407,gm. Poniec,gostyński,wielkopolskie,6014,3555,3537,2212,1325
+300501,gm. Granowo,grodziski,wielkopolskie,3827,2595,2578,1533,1045
+300502,gm. Grodzisk Wielkopolski,grodziski,wielkopolskie,15035,9951,9947,4645,5302
+300503,gm. Kamieniec,grodziski,wielkopolskie,5012,3220,3210,1889,1321
+300504,gm. Rakoniewice,grodziski,wielkopolskie,9936,6335,6327,3303,3024
+300505,gm. Wielichowo,grodziski,wielkopolskie,5323,3524,3519,2077,1442
+300601,gm. Jaraczewo,jarociński,wielkopolskie,6240,4032,4037,2743,1294
+300602,gm. Jarocin,jarociński,wielkopolskie,34943,22987,23004,11671,11333
+300603,gm. Kotlin,jarociński,wielkopolskie,5493,3505,3492,2241,1251
+300604,gm. Żerków,jarociński,wielkopolskie,8060,5279,5279,3585,1694
+300701,gm. Blizanów,kaliski,wielkopolskie,7932,5155,5151,3168,1983
+300702,gm. Brzeziny,kaliski,wielkopolskie,4637,3059,3084,2184,900
+300703,gm. Ceków-Kolonia,kaliski,wielkopolskie,3771,2455,2441,1606,835
+300704,gm. Godziesze Wielkie,kaliski,wielkopolskie,7549,5045,5067,3329,1738
+300705,gm. Koźminek,kaliski,wielkopolskie,6024,3894,3897,2731,1166
+300706,gm. Lisków,kaliski,wielkopolskie,4136,2625,2635,1903,732
+300707,gm. Mycielin,kaliski,wielkopolskie,3881,2440,2421,1780,641
+300708,gm. Opatówek,kaliski,wielkopolskie,8415,5892,5928,3738,2190
+300709,gm. Stawiszyn,kaliski,wielkopolskie,5612,3749,3715,2373,1342
+300710,gm. Szczytniki,kaliski,wielkopolskie,6185,4286,4264,3333,931
+300711,gm. Żelazków,kaliski,wielkopolskie,7463,5202,5227,3344,1883
+300801,gm. Baranów,kępiński,wielkopolskie,5973,0,4004,2245,1759
+300802,gm. Bralin,kępiński,wielkopolskie,4627,3177,3191,1663,1528
+300803,gm. Kępno,kępiński,wielkopolskie,18922,12659,12735,6021,6714
+300804,gm. Łęka Opatowska,kępiński,wielkopolskie,4115,2701,2698,1623,1075
+300805,gm. Perzów,kępiński,wielkopolskie,2949,1844,1838,989,849
+300806,gm. Rychtal,kępiński,wielkopolskie,3035,1839,1854,1143,711
+300807,gm. Trzcinica,kępiński,wielkopolskie,3872,2459,2489,1538,951
+300901,m. Koło,kolski,wielkopolskie,16581,10820,10817,5687,5130
+300902,gm. Babiak,kolski,wielkopolskie,6299,4103,4106,3079,1027
+300903,gm. Chodów,kolski,wielkopolskie,2532,1579,1571,1195,376
+300904,gm. Dąbie,kolski,wielkopolskie,5028,3288,3311,2568,743
+300905,gm. Grzegorzew,kolski,wielkopolskie,4468,2898,2887,2189,698
+300906,gm. Kłodawa,kolski,wielkopolskie,10046,6336,6309,4277,2032
+300907,gm. Koło,kolski,wielkopolskie,6080,4122,4113,2732,1381
+300908,gm. Kościelec,kolski,wielkopolskie,5282,3605,3589,2580,1009
+300909,gm. Olszówka,kolski,wielkopolskie,3591,2258,2258,1817,441
+300910,gm. Osiek Mały,kolski,wielkopolskie,4772,3085,3091,2354,737
+300911,gm. Przedecz,kolski,wielkopolskie,3259,1995,1993,1443,550
+301001,gm. Golina,koniński,wielkopolskie,9466,6294,6280,3959,2321
+301002,gm. Grodziec,koniński,wielkopolskie,4039,2631,2624,1888,736
+301003,gm. Kazimierz Biskupi,koniński,wielkopolskie,8965,6002,6003,3679,2324
+301004,gm. Kleczew,koniński,wielkopolskie,8027,5339,5329,3727,1602
+301005,gm. Kramsk,koniński,wielkopolskie,8844,5962,5951,4132,1819
+301006,gm. Krzymów,koniński,wielkopolskie,6204,4254,4237,3071,1166
+301007,gm. Rychwał,koniński,wielkopolskie,6531,4313,4335,3241,1094
+301008,gm. Rzgów,koniński,wielkopolskie,5660,3815,3812,2526,1286
+301009,gm. Skulsk,koniński,wielkopolskie,5049,3126,3114,2238,876
+301010,gm. Sompolno,koniński,wielkopolskie,8369,5474,5464,4017,1447
+301011,gm. Stare Miasto,koniński,wielkopolskie,9300,6634,6621,3931,2690
+301012,gm. Ślesin,koniński,wielkopolskie,11786,7805,7807,4945,2862
+301013,gm. Wierzbinek,koniński,wielkopolskie,5605,3686,3651,3071,580
+301014,gm. Wilczyn,koniński,wielkopolskie,4994,3289,3282,2351,931
+301101,m. Kościan,kościański,wielkopolskie,18677,13150,13189,5076,8113
+301102,gm. Czempiń,kościański,wielkopolskie,8981,5738,5737,2736,3001
+301103,gm. Kościan,kościański,wielkopolskie,12445,8339,8288,4228,4060
+301104,gm. Krzywiń,kościański,wielkopolskie,7752,4960,4974,3241,1733
+301105,gm. Śmigiel,kościański,wielkopolskie,13429,8690,8678,4805,3873
+301201,m. Sulmierzyce,krotoszyński,wielkopolskie,2208,1429,1443,851,592
+301202,gm. Kobylin,krotoszyński,wielkopolskie,6207,3932,3931,2530,1401
+301203,gm. Koźmin Wielkopolski,krotoszyński,wielkopolskie,10303,6441,6450,3732,2718
+301204,gm. Krotoszyn,krotoszyński,wielkopolskie,30610,19982,20045,10494,9551
+301205,gm. Rozdrażew,krotoszyński,wielkopolskie,3956,2633,2616,1916,700
+301206,gm. Zduny,krotoszyński,wielkopolskie,5766,3542,3552,1978,1574
+301301,gm. Krzemieniewo,leszczyński,wielkopolskie,6456,4142,4130,2423,1707
+301302,gm. Lipno,leszczyński,wielkopolskie,6326,4323,4294,1783,2511
+301303,gm. Osieczna,leszczyński,wielkopolskie,7234,4717,4709,2409,2300
+301304,gm. Rydzyna,leszczyński,wielkopolskie,7341,5000,4994,2343,2651
+301305,gm. Święciechowa,leszczyński,wielkopolskie,6089,4026,4033,1782,2251
+301306,gm. Wijewo,leszczyński,wielkopolskie,3155,2131,2119,1054,1065
+301307,gm. Włoszakowice,leszczyński,wielkopolskie,7941,5440,5441,2531,2910
+301401,gm. Chrzypsko Wielkie,międzychodzki,wielkopolskie,2776,1700,1695,919,776
+301402,gm. Kwilcz,międzychodzki,wielkopolskie,4959,3133,3122,1448,1674
+301403,gm. Międzychód,międzychodzki,wielkopolskie,14360,9545,9531,3454,6077
+301404,gm. Sieraków,międzychodzki,wielkopolskie,6970,4437,4446,1899,2547
+301501,gm. Kuślin,nowotomyski,wielkopolskie,4200,2695,2688,1466,1222
+301502,gm. Lwówek,nowotomyski,wielkopolskie,6969,4262,4257,2166,2091
+301503,gm. Miedzichowo,nowotomyski,wielkopolskie,3002,2064,2044,1024,1020
+301504,gm. Nowy Tomyśl,nowotomyski,wielkopolskie,20302,14118,14101,5111,8990
+301505,gm. Opalenica,nowotomyski,wielkopolskie,12344,8540,8515,4023,4492
+301506,gm. Zbąszyń,nowotomyski,wielkopolskie,10570,7474,7426,2947,4479
+301601,gm. Oborniki,obornicki,wielkopolskie,25680,17536,17521,6921,10600
+301602,gm. Rogoźno,obornicki,wielkopolskie,13443,8845,8821,3833,4988
+301603,gm. Ryczywół,obornicki,wielkopolskie,5483,3471,3482,1789,1693
+301701,m. Ostrów Wielkopolski,ostrowski,wielkopolskie,55598,38069,38088,14924,23164
+301702,gm. Nowe Skalmierzyce,ostrowski,wielkopolskie,12048,7852,7835,4406,3429
+301703,gm. Odolanów,ostrowski,wielkopolskie,11447,7706,7669,5216,2453
+301704,gm. Ostrów Wielkopolski,ostrowski,wielkopolskie,14679,9789,9801,5818,3983
+301705,gm. Przygodzice,ostrowski,wielkopolskie,9458,6518,6518,3716,2802
+301706,gm. Raszków,ostrowski,wielkopolskie,9078,6095,6127,3883,2244
+301707,gm. Sieroszewice,ostrowski,wielkopolskie,7480,4876,4826,3326,1500
+301708,gm. Sośnie,ostrowski,wielkopolskie,5170,3257,3256,2166,1090
+301801,gm. Czajków,ostrzeszowski,wielkopolskie,2064,1535,1553,1039,514
+301802,gm. Doruchów,ostrzeszowski,wielkopolskie,4163,2650,2676,1750,926
+301803,gm. Grabów nad Prosną,ostrzeszowski,wielkopolskie,6128,3839,3908,2331,1577
+301804,gm. Kobyla Góra,ostrzeszowski,wielkopolskie,4888,3240,3239,1618,1621
+301805,gm. Kraszewice,ostrzeszowski,wielkopolskie,2770,1752,1774,1085,689
+301806,gm. Mikstat,ostrzeszowski,wielkopolskie,4822,3146,3179,2253,926
+301807,gm. Ostrzeszów,ostrzeszowski,wielkopolskie,18609,12151,12302,5713,6589
+301901,m. Piła,pilski,wielkopolskie,53758,37051,37064,13212,23852
+301902,gm. Białośliwie,pilski,wielkopolskie,3636,2357,2335,1278,1057
+301903,gm. Kaczory,pilski,wielkopolskie,5998,4062,4037,2022,2015
+301904,gm. Łobżenica,pilski,wielkopolskie,7343,4468,4470,3050,1420
+301905,gm. Miasteczko Krajeńskie,pilski,wielkopolskie,2543,1501,1493,707,786
+301906,gm. Szydłowo,pilski,wielkopolskie,6887,4559,4531,1867,2664
+301907,gm. Ujście,pilski,wielkopolskie,6165,3961,3931,1820,2111
+301908,gm. Wyrzysk,pilski,wielkopolskie,10682,6366,6360,3510,2850
+301909,gm. Wysoka,pilski,wielkopolskie,4994,2976,2962,1783,1179
+302001,gm. Chocz,pleszewski,wielkopolskie,3768,2341,2344,1533,811
+302002,gm. Czermin,pleszewski,wielkopolskie,3773,2580,2576,1789,787
+302003,gm. Dobrzyca,pleszewski,wielkopolskie,6248,4047,4057,2492,1565
+302004,gm. Gizałki,pleszewski,wielkopolskie,3572,2415,2408,1795,613
+302005,gm. Gołuchów,pleszewski,wielkopolskie,8466,5736,5743,3444,2299
+302006,gm. Pleszew,pleszewski,wielkopolskie,22895,15058,15108,7453,7655
+302101,m. Luboń,poznański,wielkopolskie,23365,17661,17703,5597,12106
+302102,m. Puszczykowo,poznański,wielkopolskie,7842,6012,6092,1896,4196
+302103,gm. Buk,poznański,wielkopolskie,9632,6911,6907,3075,3832
+302104,gm. Czerwonak,poznański,wielkopolskie,20737,15364,15489,5064,10425
+302105,gm. Dopiewo,poznański,wielkopolskie,20316,16244,16271,4490,11781
+302106,gm. Kleszczewo,poznański,wielkopolskie,6507,5176,5140,1788,3352
+302107,gm. Komorniki,poznański,wielkopolskie,21512,17031,17041,4312,12729
+302108,gm. Kostrzyn,poznański,wielkopolskie,14238,9632,9615,4262,5353
+302109,gm. Kórnik,poznański,wielkopolskie,21802,16613,16601,5350,11251
+302110,gm. Mosina,poznański,wielkopolskie,24862,18537,18519,6968,11551
+302111,gm. Murowana Goślina,poznański,wielkopolskie,12843,9286,9292,3179,6113
+302112,gm. Pobiedziska,poznański,wielkopolskie,15412,11178,11198,4202,6996
+302113,gm. Rokietnica,poznański,wielkopolskie,13770,10832,10830,2967,7863
+302114,gm. Stęszew,poznański,wielkopolskie,11740,8160,8141,3375,4766
+302115,gm. Suchy Las,poznański,wielkopolskie,13197,10722,10795,2648,8147
+302116,gm. Swarzędz,poznański,wielkopolskie,37720,28510,28523,9126,19397
+302117,gm. Tarnowo Podgórne,poznański,wielkopolskie,20875,16500,16530,4710,11820
+302201,gm. Bojanowo,rawicki,wielkopolskie,6738,3977,3937,1943,1994
+302202,gm. Jutrosin,rawicki,wielkopolskie,5423,3254,3293,2135,1158
+302203,gm. Miejska Górka,rawicki,wielkopolskie,7172,4350,4341,2668,1673
+302204,gm. Pakosław,rawicki,wielkopolskie,3665,2648,2618,1742,876
+302205,gm. Rawicz,rawicki,wielkopolskie,23567,15186,15205,6590,8615
+302301,m. Słupca,słupecki,wielkopolskie,10598,7178,7187,3392,3795
+302302,gm. Lądek,słupecki,wielkopolskie,4558,2865,2882,1893,989
+302303,gm. Orchowo,słupecki,wielkopolskie,3084,1897,1896,1162,734
+302304,gm. Ostrowite,słupecki,wielkopolskie,4273,2716,2729,1825,904
+302305,gm. Powidz,słupecki,wielkopolskie,2744,2195,2183,907,1276
+302306,gm. Słupca,słupecki,wielkopolskie,7569,4822,4801,3185,1616
+302307,gm. Strzałkowo,słupecki,wielkopolskie,7899,5194,5164,3059,2105
+302308,gm. Zagórów,słupecki,wielkopolskie,7036,4286,4261,2813,1448
+302401,m. Obrzycko,szamotulski,wielkopolskie,1826,1498,1451,644,807
+302402,gm. Duszniki,szamotulski,wielkopolskie,7089,4783,4753,2504,2249
+302403,gm. Kaźmierz,szamotulski,wielkopolskie,6546,4394,4402,1728,2674
+302404,gm. Obrzycko,szamotulski,wielkopolskie,3494,2148,2136,1017,1119
+302405,gm. Ostroróg,szamotulski,wielkopolskie,3812,2519,2527,1159,1368
+302406,gm. Pniewy,szamotulski,wielkopolskie,9665,6390,6417,2967,3450
+302407,gm. Szamotuły,szamotulski,wielkopolskie,22890,15929,15893,6108,9785
+302408,gm. Wronki,szamotulski,wielkopolskie,15752,10853,10827,3882,6945
+302501,gm. Dominowo,średzki,wielkopolskie,2379,1551,1533,928,605
+302502,gm. Krzykosy,średzki,wielkopolskie,5443,3541,3547,2112,1435
+302503,gm. Nowe Miasto nad Wartą,średzki,wielkopolskie,6918,4421,4411,2585,1826
+302504,gm. Środa Wielkopolska,średzki,wielkopolskie,24945,17074,16986,7725,9261
+302505,gm. Zaniemyśl,średzki,wielkopolskie,5383,3736,3748,1619,2129
+302601,gm. Brodnica,śremski,wielkopolskie,3849,2339,2314,1136,1178
+302602,gm. Dolsk,śremski,wielkopolskie,4591,2943,2918,1720,1198
+302603,gm. Książ Wielkopolski,śremski,wielkopolskie,6454,3903,3882,2321,1561
+302604,gm. Śrem,śremski,wielkopolskie,31887,21833,21791,9609,12182
+302701,m. Turek,turecki,wielkopolskie,21258,13984,14033,7301,6732
+302702,gm. Brudzew,turecki,wielkopolskie,4717,3208,3214,2474,740
+302703,gm. Dobra,turecki,wielkopolskie,4889,3166,3187,2344,843
+302704,gm. Kawęczyn,turecki,wielkopolskie,4151,2636,2659,2095,564
+302705,gm. Malanów,turecki,wielkopolskie,5155,3014,3018,2203,815
+302706,gm. Przykona,turecki,wielkopolskie,3654,2440,2427,1830,597
+302707,gm. Tuliszków,turecki,wielkopolskie,8177,5244,5247,3791,1456
+302708,gm. Turek,turecki,wielkopolskie,7513,5044,5023,3320,1703
+302709,gm. Władysławów,turecki,wielkopolskie,6259,4493,4475,3510,965
+302801,m. Wągrowiec,wągrowiecki,wielkopolskie,19469,13362,13362,5229,8133
+302802,gm. Damasławek,wągrowiecki,wielkopolskie,4087,2726,2712,1632,1080
+302803,gm. Gołańcz,wągrowiecki,wielkopolskie,6160,3719,3719,2128,1591
+302804,gm. Mieścisko,wągrowiecki,wielkopolskie,4621,2925,2925,1603,1322
+302805,gm. Skoki,wągrowiecki,wielkopolskie,7482,4897,4887,2097,2790
+302806,gm. Wapno,wągrowiecki,wielkopolskie,2307,1407,1387,742,645
+302807,gm. Wągrowiec,wągrowiecki,wielkopolskie,9187,5607,5585,2895,2690
+302901,gm. Przemęt,wolsztyński,wielkopolskie,11488,7811,7742,4456,3286
+302902,gm. Siedlec,wolsztyński,wielkopolskie,9600,6664,6579,3405,3174
+302903,gm. Wolsztyn,wolsztyński,wielkopolskie,23218,16448,16354,6814,9540
+303001,gm. Kołaczkowo,wrzesiński,wielkopolskie,4592,2933,2918,1952,966
+303002,gm. Miłosław,wrzesiński,wielkopolskie,7834,5245,5228,2979,2249
+303003,gm. Nekla,wrzesiński,wielkopolskie,5799,3959,3978,1864,2114
+303004,gm. Pyzdry,wrzesiński,wielkopolskie,5538,3441,3466,2272,1194
+303005,gm. Września,wrzesiński,wielkopolskie,35696,24808,24768,11522,13246
+303101,m. Złotów,złotowski,wielkopolskie,14163,9246,9239,3543,5696
+303102,gm. Jastrowie,złotowski,wielkopolskie,8827,4964,4963,2220,2743
+303103,gm. Krajenka,złotowski,wielkopolskie,5717,3618,3620,1719,1901
+303104,gm. Lipka,złotowski,wielkopolskie,4259,2331,2330,1217,1113
+303105,gm. Okonek,złotowski,wielkopolskie,6670,3693,3692,1873,1819
+303106,gm. Tarnówka,złotowski,wielkopolskie,2357,1562,1532,775,757
+303107,gm. Zakrzewo,złotowski,wielkopolskie,3917,2370,2372,1273,1099
+303108,gm. Złotów,złotowski,wielkopolskie,7285,4208,4192,2126,2066
+306101,m. Kalisz,Kalisz,wielkopolskie,74433,51533,51502,21119,30383
+306201,m. Konin,Konin,wielkopolskie,57280,39002,38986,18860,20126
+306301,m. Leszno,Leszno,wielkopolskie,46988,33072,33034,11226,21808
+306401,m. Poznań,Poznań,wielkopolskie,411294,306625,307556,86290,221266
+320101,m. Białogard,białogardzki,zachodniopomorskie,17746,11150,11166,4540,6626
+320102,gm. Białogard,białogardzki,zachodniopomorskie,5794,3083,3070,1629,1441
+320103,gm. Karlino,białogardzki,zachodniopomorskie,6737,3584,3600,1816,1784
+320104,gm. Tychowo,białogardzki,zachodniopomorskie,5556,3187,3177,1518,1659
+320201,gm. Bierzwnik,choszczeński,zachodniopomorskie,3835,2298,2287,1185,1102
+320202,gm. Choszczno,choszczeński,zachodniopomorskie,16286,10092,10091,4491,5600
+320203,gm. Drawno,choszczeński,zachodniopomorskie,4329,2436,2439,1157,1282
+320204,gm. Krzęcin,choszczeński,zachodniopomorskie,2838,1619,1614,856,758
+320205,gm. Pełczyce,choszczeński,zachodniopomorskie,6034,3277,3248,1819,1429
+320206,gm. Recz,choszczeński,zachodniopomorskie,4125,2250,2230,1239,991
+320301,gm. Czaplinek,drawski,zachodniopomorskie,9616,5811,5786,2468,3318
+320302,gm. Drawsko Pomorskie,drawski,zachodniopomorskie,13481,8048,8042,3315,4727
+320303,gm. Kalisz Pomorski,drawski,zachodniopomorskie,5529,3124,3119,1490,1629
+320305,gm. Wierzchowo,drawski,zachodniopomorskie,3810,2353,2333,1202,1131
+320306,gm. Złocieniec,drawski,zachodniopomorskie,12983,7959,7940,3699,4241
+320402,gm. Goleniów,goleniowski,zachodniopomorskie,28154,18608,18595,7513,11082
+320403,gm. Maszewo,goleniowski,zachodniopomorskie,6678,3858,3829,2062,1767
+320404,gm. Nowogard,goleniowski,zachodniopomorskie,19647,11898,11837,5184,6653
+320405,gm. Osina,goleniowski,zachodniopomorskie,2307,1355,1349,732,617
+320406,gm. Przybiernów,goleniowski,zachodniopomorskie,3893,2256,2258,1219,1039
+320407,gm. Stepnica,goleniowski,zachodniopomorskie,3830,2079,2067,891,1176
+320501,gm. Brojce,gryficki,zachodniopomorskie,2913,1596,1584,927,657
+320502,gm. Gryfice,gryficki,zachodniopomorskie,18241,11007,10999,4682,6317
+320503,gm. Karnice,gryficki,zachodniopomorskie,3904,2749,2776,1340,1436
+320504,gm. Płoty,gryficki,zachodniopomorskie,7038,3932,3923,2047,1876
+320507,gm. Rewal,gryficki,zachodniopomorskie,12238,10388,10367,3388,6979
+320508,gm. Trzebiatów,gryficki,zachodniopomorskie,15142,10344,10357,4331,6026
+320601,gm. Banie,gryfiński,zachodniopomorskie,4929,2692,2687,1606,1081
+320602,gm. Cedynia,gryfiński,zachodniopomorskie,3406,1907,1905,858,1047
+320603,gm. Chojna,gryfiński,zachodniopomorskie,10509,6378,6379,3117,3262
+320604,gm. Gryfino,gryfiński,zachodniopomorskie,23492,15895,15850,7285,8565
+320605,gm. Mieszkowice,gryfiński,zachodniopomorskie,5360,3275,3267,1540,1727
+320606,gm. Moryń,gryfiński,zachodniopomorskie,3392,2010,2001,977,1024
+320607,gm. Stare Czarnowo,gryfiński,zachodniopomorskie,3009,1933,1916,1078,838
+320608,gm. Trzcińsko-Zdrój,gryfiński,zachodniopomorskie,4395,2383,2393,1279,1114
+320609,gm. Widuchowa,gryfiński,zachodniopomorskie,4209,2387,2378,1306,1072
+320701,gm. Dziwnów,kamieński,zachodniopomorskie,9440,8081,8084,2667,5417
+320702,gm. Golczewo,kamieński,zachodniopomorskie,4613,2757,2743,1399,1344
+320703,gm. Kamień Pomorski,kamieński,zachodniopomorskie,11743,7618,7641,2940,4701
+320704,gm. Międzyzdroje,kamieński,zachodniopomorskie,8192,6113,6106,2222,3884
+320705,gm. Świerzno,kamieński,zachodniopomorskie,3818,2312,2306,996,1310
+320706,gm. Wolin,kamieński,zachodniopomorskie,10862,7073,7075,2923,4152
+320801,m. Kołobrzeg,kołobrzeski,zachodniopomorskie,42747,30981,30952,11407,19545
+320802,gm. Dygowo,kołobrzeski,zachodniopomorskie,4277,2663,2645,1322,1323
+320803,gm. Gościno,kołobrzeski,zachodniopomorskie,4043,2348,2334,1091,1243
+320804,gm. Kołobrzeg,kołobrzeski,zachodniopomorskie,12838,9830,9795,3634,6161
+320805,gm. Rymań,kołobrzeski,zachodniopomorskie,3107,1859,1848,942,906
+320806,gm. Siemyśl,kołobrzeski,zachodniopomorskie,2947,1794,1798,785,1013
+320807,gm. Ustronie Morskie,kołobrzeski,zachodniopomorskie,8504,6848,6835,2638,4197
+320901,gm. Będzino,koszaliński,zachodniopomorskie,8621,6025,5996,2487,3509
+320902,gm. Biesiekierz,koszaliński,zachodniopomorskie,5379,3638,3622,1300,2322
+320903,gm. Bobolice,koszaliński,zachodniopomorskie,7122,4101,4115,2195,1920
+320904,gm. Manowo,koszaliński,zachodniopomorskie,5158,3540,3528,1346,2182
+320905,gm. Mielno,koszaliński,zachodniopomorskie,13737,11500,11472,4127,7345
+320906,gm. Polanów,koszaliński,zachodniopomorskie,6769,3767,3757,1829,1928
+320907,gm. Sianów,koszaliński,zachodniopomorskie,11127,7041,7027,3003,4024
+320908,gm. Świeszyno,koszaliński,zachodniopomorskie,5849,3990,3951,1435,2516
+321001,gm. Barlinek,myśliborski,zachodniopomorskie,14564,9055,9081,4101,4980
+321002,gm. Boleszkowice,myśliborski,zachodniopomorskie,2286,1306,1297,533,764
+321003,gm. Dębno,myśliborski,zachodniopomorskie,15367,9422,9411,4009,5402
+321004,gm. Myślibórz,myśliborski,zachodniopomorskie,15334,9090,9069,4343,4726
+321005,gm. Nowogródek Pomorski,myśliborski,zachodniopomorskie,2614,1529,1523,764,759
+321101,gm. Dobra (Szczecińska),policki,zachodniopomorskie,17276,13190,13284,3328,9956
+321102,gm. Kołbaskowo,policki,zachodniopomorskie,9562,6748,6745,2097,4648
+321103,gm. Nowe Warpno,policki,zachodniopomorskie,1342,880,876,307,569
+321104,gm. Police,policki,zachodniopomorskie,29920,19848,19789,8462,11327
+321201,gm. Bielice,pyrzycki,zachodniopomorskie,2377,1429,1424,890,534
+321202,gm. Kozielice,pyrzycki,zachodniopomorskie,2031,1188,1181,807,374
+321203,gm. Lipiany,pyrzycki,zachodniopomorskie,4587,2590,2594,1425,1169
+321204,gm. Przelewice,pyrzycki,zachodniopomorskie,3943,2169,2167,1262,905
+321205,gm. Pyrzyce,pyrzycki,zachodniopomorskie,14759,9354,9350,5102,4248
+321206,gm. Warnice,pyrzycki,zachodniopomorskie,2675,1625,1622,1082,540
+321301,m. Darłowo,sławieński,zachodniopomorskie,13495,9587,9578,3595,5983
+321302,m. Sławno,sławieński,zachodniopomorskie,9401,5888,5883,2728,3155
+321303,gm. Darłowo,sławieński,zachodniopomorskie,11179,8603,8575,3388,5187
+321304,gm. Malechowo,sławieński,zachodniopomorskie,4943,2854,2852,1574,1278
+321305,gm. Postomino,sławieński,zachodniopomorskie,9232,6882,6873,3110,3763
+321306,gm. Sławno,sławieński,zachodniopomorskie,6636,3678,3656,2024,1632
+321401,m. Stargard,stargardzki,zachodniopomorskie,50399,34299,34324,13768,20556
+321402,gm. Chociwel,stargardzki,zachodniopomorskie,4562,2881,2883,1449,1434
+321403,gm. Dobrzany,stargardzki,zachodniopomorskie,3830,2100,2124,1241,883
+321404,gm. Dolice,stargardzki,zachodniopomorskie,5940,3210,3206,1768,1438
+321405,gm. Ińsko,stargardzki,zachodniopomorskie,2925,1719,1737,831,906
+321406,gm. Kobylanka,stargardzki,zachodniopomorskie,4523,3363,3359,1311,2048
+321408,gm. Marianowo,stargardzki,zachodniopomorskie,2388,1456,1447,903,544
+321409,gm. Stara Dąbrowa,stargardzki,zachodniopomorskie,2910,1724,1717,1046,671
+321410,gm. Stargard,stargardzki,zachodniopomorskie,10422,6562,6531,3181,3350
+321411,gm. Suchań,stargardzki,zachodniopomorskie,3286,1811,1834,1052,782
+321501,m. Szczecinek,szczecinecki,zachodniopomorskie,29562,19018,19037,8092,10945
+321502,gm. Barwice,szczecinecki,zachodniopomorskie,6549,3452,3467,2003,1464
+321503,gm. Biały Bór,szczecinecki,zachodniopomorskie,4187,2410,2420,1193,1227
+321504,gm. Borne Sulinowo,szczecinecki,zachodniopomorskie,8147,5053,5068,2241,2827
+321505,gm. Grzmiąca,szczecinecki,zachodniopomorskie,3731,1961,1955,1032,923
+321506,gm. Szczecinek,szczecinecki,zachodniopomorskie,7279,4037,4028,2264,1764
+321601,m. Świdwin,świdwiński,zachodniopomorskie,11401,7089,7086,2972,4114
+321602,gm. Brzeżno,świdwiński,zachodniopomorskie,2128,1186,1183,635,548
+321603,gm. Połczyn-Zdrój,świdwiński,zachodniopomorskie,12019,7208,7219,3561,3658
+321604,gm. Rąbino,świdwiński,zachodniopomorskie,2802,1456,1442,873,569
+321605,gm. Sławoborze,świdwiński,zachodniopomorskie,3086,1632,1624,745,879
+321606,gm. Świdwin,świdwiński,zachodniopomorskie,4553,2430,2418,1432,986
+321701,m. Wałcz,wałecki,zachodniopomorskie,18851,12506,12492,4470,8022
+321702,gm. Człopa,wałecki,zachodniopomorskie,3963,2333,2326,1198,1128
+321703,gm. Mirosławiec,wałecki,zachodniopomorskie,4158,2425,2444,1026,1418
+321704,gm. Tuczno,wałecki,zachodniopomorskie,3906,2233,2228,1181,1047
+321705,gm. Wałcz,wałecki,zachodniopomorskie,9660,5677,5630,2562,3068
+321801,gm. Dobra,łobeski,zachodniopomorskie,3334,1740,1736,992,744
+321802,gm. Łobez,łobeski,zachodniopomorskie,10398,6382,6390,2828,3562
+321803,gm. Radowo Małe,łobeski,zachodniopomorskie,2857,1548,1544,756,788
+321804,gm. Resko,łobeski,zachodniopomorskie,5962,3327,3333,1610,1723
+321805,gm. Węgorzyno,łobeski,zachodniopomorskie,5412,3055,3044,1607,1437
+326101,m. Koszalin,Koszalin,zachodniopomorskie,80659,55870,56076,19766,36310
+326201,m. Szczecin,Szczecin,zachodniopomorskie,291294,203296,203394,73873,129521
+326301,m. Świnoujście,Świnoujście,zachodniopomorskie,34480,24247,24144,8229,15915
